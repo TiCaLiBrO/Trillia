@@ -57,7 +57,7 @@ Variables are assigned using a variable name, followed by the `=` sign, then the
 Like many other languages, chaining assignments is unintuitive and not recommended, but a demonstration can give insight.
 
     a = b = c
-Is ***bad code***. This demonstration is just to show how it works.
+This is ***bad code***. This demonstration is just to show how it works.
 The `=` sign works identically to all other operations. It takes the right-handed operand as a copy, and alters the left-handed operand, then pipelines the left-handed operand forward.
 In the statement `a = b = c`, `a = b` happens first, reading the value of `b` and changing `a`'s value. The expression is now simplified. `a = c` is next. We first put `b`'s value into `a`, and now we're putting `c`'s value into `a`. We do this until the line is finished. Notice that we only ever change `a` and read from `b` and `c`. In Trillia, we call `a` an *Ordinal* component, and `b` and `c` are *Cardinal* components.
 
@@ -76,15 +76,6 @@ This swaps the value of a and b.
 
     a, b = b, c
 This puts the value of `b` into `a`, and the value of `c` into `b` at the same time, strictly after b and c are copied to temporary objects. The items to the right of the `=` sign are copies of the original values.
-
-//////////
-
-You can also have many left-hand elements and only one right-hand element.
-
-Having many left-hand elements and one right-hand element will place the right-hand element's value into all left-hand containers.
-
-    a, b, c, d, e = f
-Here, a, b, c, d, and e are all assigned the value of f.
 
 ## 2.2 Strict Types and Sizes
 
