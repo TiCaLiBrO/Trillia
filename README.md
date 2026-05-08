@@ -68,15 +68,16 @@ Notice, though, that we were only able to change one object per line. If you wis
     a = b; b = c
 This is actually two lines of code just made to look like a single line. It is `a = b`, and then a second line `b = c`. This one has order. We put `b`'s value into `a` first, and then we put `c`'s value into `b`. We read from `b` in the first line, then write to `b` in the second.
 
-//////////
 
-To swap two variables, you can use `,` commas on both sides of the `=` sign
+To swap two variables, you can use `,` commas on both sides of the `=` sign. This cardinalizes the right-hand operands such that they are snapshots of the objects before the operation is performed. This means that it's able to be parallelized.
 
     a, b = b, a
 This swaps the value of a and b.
 
     a, b = b, c
-This puts the value of `b` into `a`, and the value of `c` into `b` at the same time. The items to the right of the `=` sign are copies of the original values.
+This puts the value of `b` into `a`, and the value of `c` into `b` at the same time, strictly after b and c are copied to temporary objects. The items to the right of the `=` sign are copies of the original values.
+
+//////////
 
 You can also have many left-hand elements and only one right-hand element.
 
@@ -91,7 +92,7 @@ If you don't use types, the variable will automatically promote or change type r
 
     integer32 x = 10
 
-If you use a type without a size, the type of the variable will remain consistent, but size promotion and demotion will occur when necessary.
+If you use a type without a size, the variable type will remain consistent, but size promotion and demotion will occur when necessary.
 
     integer x = 120    # this is an 8-bit integer by default because it's the smallest size that can represent this value.
     x = 300            # It was promoted to a 16-bit integer to be able to represent this value.
