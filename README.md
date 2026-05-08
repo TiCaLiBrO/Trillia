@@ -77,6 +77,8 @@ This swaps the value of a and b.
     a, b = b, c
 This puts the value of `b` into `a`, and the value of `c` into `b` at the same time, strictly after b and c are copied to temporary objects. The items to the right of the `=` sign are copies of the original values.
 
+The number of arguments on the left side must be the same as the number of arguments on the right side. If they differ, you will get a Pruning Error, telling you that you have wasteful code (something being assigned to nothing, or something not being assigned anything).
+
 ## 2.2 Strict Types and Sizes
 
 If you don't use types, the variable will automatically promote or change type readily as needed. You can use strict types and sizes to ensure that the variable does not change type or size.
