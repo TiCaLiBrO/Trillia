@@ -127,32 +127,6 @@ If you wish to cast the type and or size of a variable into another type, you ca
 This is only possible if the value can be perfectly preserved. Floating points can error.
 It is highly recommended that you use the `rat` rational type to be able to represent values perfectly.
 
-## 2.5 Hard Variables
-
-By default, when you create a variable, you are creating something called a `soft` variable. A `soft` variable is any variable that lives inside register space.
-These variables are not saved, and they can be rapidly modified. These are by far the most common type of variable.
-
-Using the `hard` keyword, variables can be stored as writes to another file. Trillia files that you program in are labelled `X.tri`, where X is a placeholder for the name of your program.
-If a hard variable is created, an `X.trihard` file of the same name will be created automatically to contain all hard variable data.
-Hard variables are much slower to assign or alter, but they are saved variables that don't require you to use `read()` or `write()`.
-
-All `hard` variables persist across multiple runs of a program. This is their main purpose. They are essitially just a more user-friendly and variable-consistent way of doing write() operations.
-
-Writing to disk space is usually very slow compared to register space. It's recommended that you make `hard` variables either read-only or read-mostly.
-Here, "read-mostly" just means that read operations occur more often than write operations.
-The `hard` variables are made even slower to modify by having automatic safety measures in place to prevent corruption.
-During any change to a `hard` variable, a three-step process begins.
-First, a copy of the variable with the newly-assigned value is created.
-Then, that new value is pasted over the old value of the original copy of the variable.
-And finally, the new copy is freed from memory.
-
-A special case:
-
-If you use `hard` + `constant`, you get a literal value that is treated as a variable.
-
-    hard constant rational32 PI = 3.1415
-Here, the value of pi is stored in your program at compile time. It's very similar to `#define` in C.
-
 # 3. Types
 Different data types are best for different tasks. 
 Trillia has four numeric types: `natural`, `integer`, `rational`, and `float`. All of these are suffixed by the number of bits used to represent them.
