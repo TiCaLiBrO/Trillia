@@ -90,7 +90,7 @@ If you use a type without a size, the variable type will remain consistent, but 
     integer x = 120    # this is an 8-bit integer by default because it's the smallest size that can represent this value.
     x = 300            # It was promoted to a 16-bit integer to be able to represent this value.
 
-If you use the `proto` type, you can set a size but not a type. This is the same as a `union` in C.
+If you use the `proto` type, you can set a size but not a type. This is similar to a `union` in C.
 
     proto64 x = 4800
     x = -0.(3)
@@ -138,17 +138,19 @@ For example, natX is most often in the forms `nat`, `nat8`, `nat16`, `nat32`, an
 
 `integer`s allow negative numbers to be represented.
 
+One thing before we get into decimal point types. As far as Trillia is concerned, *irrational numbers don't exist*. They're formulas and limits, not values.
+In the same way that infinity is a limit, not a value, irrational numbers are also limits, not values.
+
 `rational` numbers are actually an array of two numbers, a divisor and a denominator, that exist as a reduced fraction in memory. The size represents the size of both elements in the array.
-The rational type is preferred over floating point where precision is more valuable than speed.
+The rational type is preferred over floating-point or fixed-point, where exact precision is more valuable than speed.
 
-////////////XXXXX////////////
-Floating point numbers `float` are exactly the same as floats usually are in other languages.
+After the `rational` type, `fixed point` is the next most common decimal type. It is the preferred type for handling decimal values quickly, where inexact values are acceptable.
 
-Next up is the Scalar type `scal`, which is also notated in bits.
+Floating-point numbers are not available in the base language, as they are not deterministic across hardware due to optimizations. They have been moved into a floating-point library.
 
 ## 3.2 Unionized Types
 
-If the `scal` type is too unbounded, you can use unionization to specify exactly which types are allowed.
+If the `proto` type is too unrestricted for your comfort, you can use unionization to specify exactly which types are allowed.
 Unionization is done via typing an object multiple times in a single assignment line.
 
     int32 nat32 x = 24
@@ -258,32 +260,32 @@ The logic is extendable. You could imagine tetration being written as ***, and i
 Such operations aren't supported by Trillia due to memory restraints on most computers. Even something as simple as 5 *** 10 would blow the stack on most computers.
 
 The notation of binary operators is:
-`base` then `operation` then `modicand` then `=` then `return_value`
+`base` then `operation` then `modicand`. A `return_value` is the result.
 So in the expression `1 + 2`, `1` is the `base`, `2` is the `modicand`, `+` is the `operation`, and `3` is the `return` value.
 There is no need to remember dividend, subtrahend, augend, or other operation-specific words.
 
 Addition is commutative.
 
-    2 + 3 = 5
-    3 + 2 = 5
+    2 + 3 returns 5
+    3 + 2 returns 5
 
 Subtraction will return a positive value if the base is greater than the modicand, and a negative return value if the base is less than the modicand.
 
-    8 - 7 =  1
-    7 - 8 = -1
+    8 - 7 returns  1
+    7 - 8 returns -1
 
 Multiplication is commutative.
 
-    5 * 7 = 35
-    7 * 5 = 35
+    5 * 7 returns 35
+    7 * 5 returns 35
 
-Division always returns a rat type or a float type if the mathematical result would return a fraction that cannot be expressed as an integer.
+Division always returns a `rational` type if the result is a non-integer value and the base is not strictly typed.
 
     integer a = 2
     integer b = 3
-    a = a / b
+    a / b
 This expression would error because `2 / 3` gives a non-integer return value.
-To avoid this, there are different types of division.
+To avoid this, there are different types of division that can always return integer values.
 
 To round your division up, down, or nearest, use `/^`, `/_`, and `/~` respectively.
 
@@ -295,7 +297,7 @@ To round your division up, down, or nearest, use `/^`, `/_`, and `/~` respective
     a = a /~ b     # a = 1. In the case of 0.5, it rounds up.
 
 There are also two more forms of division, `/%` and `/@`.
-The `/%` is modulo division. It divides, and returns the remainder instead of giving a fraction.
+The `/%` is modulo division. It divides and then returns the remainder instead of giving a fraction.
 
     a /% b     # This would return 1
 
@@ -305,8 +307,7 @@ The `/@` can be literally read as *"divides at"* or *"is divisible by"*. Instead
 For this expression, `my_variable` would be `False`.
 The `/@` operator makes the common `a % b == 0` or `a % b != 0` expressions - that are often seen in other languages - shorter, and more readable.
 
-    if a /@ b
-        pass
+    if a /@ b then ...
 
 Exponents are non-commutative. The modicand is always the "little number" that you see in "x squared" or "x cubed".
 
@@ -319,11 +320,11 @@ This can seem slightly confusing at first because common notation puts the expon
 
     100 // 2 = 10
     25  // 2 = 5
-This can be read as *"twenty five to the root of two is five"*
+This can be read as *"twenty-five of the root of two is five"*
 Also, notice that with this notation, there is much more freedom than `sqrt()` and `cbrt()` because you are not limited. You can choose any exponent that you want, not just 2 or 3.
 
 Roots also come with variant operations: `//_`, `//^`, `//~`, `//%`, and `//@`.
-The `//_`, `//^` and `//~` operators round the result down, up, and nearest respectively.
+The `//_`, `//^` and `//~` operators round the result down, up, and nearest, respectively.
 
 The `//%` operator returns the remainder of a root.
 
