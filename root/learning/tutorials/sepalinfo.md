@@ -34,6 +34,8 @@ Before you begin, these lessons are mostly intended to be done in SEPAL, not Tri
 If you're reading this inside the terminal, then you're inside SEPAL already.
 **Do not exit SEPAL or write your code in a code editor unless instructed to or unless you know what you're doing.**
 
+## The Basics of SEPAL
+
 [Course 0 Basics of SEPAL]()
 Requirements:
 - None
