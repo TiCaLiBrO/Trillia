@@ -5,7 +5,7 @@ The learning branch splits into [Tutorials](https://github.com/TiCaLiBrO/Trillia
 ## The Tutorials Branch
 
 The Tutorials branch is entirely dedicated to teaching through practice. Your skills will be cultivated.
-This is the recommended branch for any beginner, and it is where beginners eventually become intermediate-level programmers.
+This is the recommended branch for any beginner, and it is where beginners should go to eventually become adept at Trillia.
 
 ## The Concepts Branch
 
