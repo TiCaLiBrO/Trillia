@@ -3,6 +3,9 @@ This is the Root page. You are on the first page of the Trillia Manual.
 From here, there are two branches to choose from:
 [Learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md), and [Refining](https://github.com/TiCaLiBrO/Trillia/blob/main/root/refining/sepalinfo.md).
 
+> [!TIP]
+> If you're entirely new to Trillia, follow the first link on each page to reach the tutorials.
+
 The Learning branch focuses on learning new things in Trillia, the philosophy, history, and key concepts that will better guide you through the language.
 It also contains tutorials. You will learn computer science concepts in general, how Trillia frames them, and the terminology needed for Trillia programmers to properly communicate their code.
 For beginners, this is the more important branch, as it teaches the concepts needed to become fluent in Trillia. In short, you come here to learn something new.
@@ -12,6 +15,3 @@ This branch also holds practice lessons and projects to work on once you've gone
 This branch handles all of the specifics and minute details that you may forget, such as the name of a function, which library it lives in, what exactly it does, and how it works underneath.
 This branch will often have links to the concepts branch, which you can follow to learn more about why a function behaves in a certain way, given Trillia's philosophy.
 In short, you come here to refine your skills.
-
-> [!TIP]
-> If you're entirely new to Trillia, follow the first link on each page to reach the tutorials.
