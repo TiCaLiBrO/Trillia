@@ -13,11 +13,10 @@ Trials are the same as regular lessons, except they don't teach you something ne
 You're not told *how* to make something; you're only told *what to make* and what the thing you're making should do.
 Usually, the last lesson in a chapter is a trial that ensures you understand all of the concepts learned in that chapter.
 
-Courses are large collections of chapters that revolve around learning a single, larger concept.
+*Courses* are large collections of chapters that revolve around learning a single, larger concept.
 For example, many courses revolve around specific libraries, and they teach absolutely everything that the library is capable of.
 
-Below are the courses for Trillia.
-They are labelled by number and by requirement.
+Below are the courses for Trillia, labelled by number and by requirement.
 The courses are numbered for a linear experience, and they are also numbered to satisfy the greatest number of prerequisites as soon as possible.
 You are not expected to, and should not adhere strictly to the numbering, but you should learn all of the requirements before entering a course.
 The courses are structured to be flexible, letting students learn things that interest them early on.
