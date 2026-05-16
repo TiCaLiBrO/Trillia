@@ -1,6 +1,6 @@
 # Learning
 
-The learning branch splits into [Tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md) and [[Concepts]].
+The learning branch splits into [/tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md) and [/concepts].
 
 ## The Tutorials Branch
 
