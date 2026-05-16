@@ -4,21 +4,23 @@ Welcome to the tutorial section. Here, you will learn everything you need to kno
 
 The learning material is divided into Courses. Courses are composed of Chapters, and Chapters contain Lessons.
 
-Lessons are small, single-page tasks that are given to help you learn.
+Course -> Chapter -> Lesson
+
+Lessons are small, single-page tasks designed to help you learn.
 You're given instructions on how to make something, and then you make it.
 They will familiarize you with new concepts.
 
-Trials are a special type of Lesson.
+*Trials* are a special type of Lesson.
 Trials are the same as regular lessons, except they don't hold your hand.
-You're not told how to make something; you're only told what to make and what the thing you're making should do.
-Usually, the last lesson in a chapter is a Trial that makes sure you understand all of the concepts learned in that chapter.
+You're not told *how* to make something; you're only told *what to make* and what the thing you're making should do.
+Usually, the last lesson in a chapter is a Trial that ensures you understand all of the concepts learned in that chapter.
 
 Courses are large collections of lessons that revolve around learning a single, larger concept.
 For example, many courses revolve around specific libraries, and they teach absolutely everything that the library is capable of.
 You'll be very good at the specific set of tasks by the end.
 
 Once you are done with many tutorials, you can go to the root/refining/projects branch to start working on projects.
-Projects are a special type of course that nudge you towards building something real.
+*Projects* are a special type of course, entirely composed of trials that nudge you towards building something real.
 You work on real projects with tangible results.
 You get to keep what you made and do whatever you want with it.
 These projects are usually about building something pretty small, like a calculator, a text editor, or a small game.
@@ -37,10 +39,13 @@ If you're reading this inside the terminal, then you're inside SEPAL already.
 ## The Basics of SEPAL
 
 [Course 0 Basics of SEPAL]()
+
 Requirements:
+
 - None
+
 Description:
-	You will quickly learn how to traverse the manual using SEPAL and how to execute code inside of it.
+	*You will quickly learn how to traverse the manual using SEPAL and how to execute code inside of it.*
 
 
 
