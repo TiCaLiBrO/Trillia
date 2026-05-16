@@ -1,4 +1,4 @@
-The learning branch splits into [[Tutorials]] and [[Concepts]].
+The learning branch splits into [Tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md) and [[Concepts]].
 
 The Tutorials branch is entirely dedicated to teaching through practice. Your skills will be cultivated.
 This is the recommended branch for any beginner, and it is where beginners eventually become intermediate-level programmers.
