@@ -1,4 +1,4 @@
-# Print
+# Hello World
 
 This is the very first *proper* lesson.
 Printing is the most important skill you'll ever learn as a programmer.
