@@ -1,20 +1,30 @@
 # Chapter 1: Printing
 
+In this chapter, you will learn how to print to the terminal.
+By the end of this chapter, you'll be able to print text and make new lines.
+
+## Lessons
+
+1 print
+[/print]()
+[Greet Trillia]
+
+2 multiple statements
+[Multiple Statements]
+
+3 new line print
+[New Line Print]
+
+4 adding a new line manually
+[New Line Character]
+
+5 Trial
 
 
 
 
-In this chapter, you will learn all of the different ways to print to the terminal.
-By the end of this chapter, you'll be able to print strings, make new lines, colour different print statements, and clear the terminal.
 
 
-[[Introduction to Trillia Chapter 1 Printing Lesson 1 Greet Trillia]]
-
-[[Introduction to Trillia Chapter 1 Printing Lesson 2 Multiple Statements]]
-
-[[Introduction to Trillia Chapter 1 Printing Lesson 3 New Line Print]]
-
-[[Introduction to Trillia Chapter 1 Printing Lesson 4 New Line Character]]
 
 
 
