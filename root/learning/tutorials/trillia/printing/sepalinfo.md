@@ -11,7 +11,7 @@ By the end of this chapter, you'll be able to print text and make new lines.
 > `/hello world` is a valid page entry.
 
 ### Lesson 1
-[/hello world]()
+[/hello world](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/hello%20world/sepalinfo.md)
 
 //////////////////////
 
