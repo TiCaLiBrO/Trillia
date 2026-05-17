@@ -23,7 +23,7 @@ You'll notice that it prints out the word `Undefined`.
 
 In lesson 2 of Chapter 1 [\trillia/printing/multiple statements](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/multiple%20statements/sepalinfo.md), you learned that using `"Hello World!"` required quotation marks for it to be recognized as text.
 In this chapter, you see exactly why.
-If you were to type `print(Hello World!)` instead, it would think it's code.
+If you were to type `print(Hello World!)` without quotation marks instead, it would be mistaken for code.
 
 We didn't define the variable `number` in this lesson, so its value by default is `Undefined`.
 Everything in Trillia is Undefined by default.
