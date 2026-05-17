@@ -3,6 +3,8 @@
 In this chapter, you will learn how to print to the terminal.
 By the end of this chapter, you'll be able to print text and make new lines.
 
+Unlike courses and chapters, lessons are numbered linearly and are expected to be completed in numerical order.
+
 ## Lessons
 
 > [!NOTE]
