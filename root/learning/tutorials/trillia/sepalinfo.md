@@ -35,10 +35,10 @@ Chapter Summary:
 
 New Vocabulary:
 
-- print()
-- printn()
-- \n
-- "" strings
+- `print()`
+- `printn()`
+- `\n`
+- `""` strings
 
 ## Chapter 2: Variables
 
