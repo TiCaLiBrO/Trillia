@@ -26,10 +26,19 @@ Once you've written that, hit enter ***twice*** to run the code.
 Hitting enter once will only create a newline.
 *Hitting enter on an empty line in SEPAL runs your code.*
 
-> [!NOTE]
-> This message is not visible inside SEPAL.
-> 
+> [!IMPORTANT]
 > If you're in SEPAL, you will pass if the program text matches `print("Hello World!")`.
->
+> 
+> If you are in SEPAL, you will not see this message.
+> 
+> This is the source code for the lesson itself.
+> 
 > The pass condition is a scan of your script, not of the program's result.
+>     
+>     when history has source_code("print("Hello World!")")
+>     then
+>         lesson_passed = True
+
+
+
 
