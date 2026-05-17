@@ -38,7 +38,7 @@ Description:
 
 Requirements:
 
-- Course 0
+- Entry Tutorial
 
 Description:
 	*This course will teach you all of the fundamentals of Trillia.
