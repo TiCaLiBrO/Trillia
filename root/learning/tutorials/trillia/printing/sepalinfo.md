@@ -13,20 +13,24 @@ By the end of this chapter, you'll be able to print text and make new lines.
 ### Lesson 1
 [/hello world](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/hello%20world/sepalinfo.md)
 
-//////////////////////
+### Lesson 2
+[/multiple statements]()
+
+### Lesson 3
+[/new line print]
+
+### Lesson 4
+[/new line character]
+
+### Final Trial
+Trial
 
 
 
-2 multiple statements
-[Multiple Statements]
 
-3 new line print
-[New Line Print]
 
-4 adding a new line manually
-[New Line Character]
 
-5 Trial
+
 
 
 
