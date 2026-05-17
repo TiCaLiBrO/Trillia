@@ -21,7 +21,7 @@ When you're ready, run it.
 
 You'll notice that it prints out the word `Undefined`.
 
-In lesson 2 of Chapter 1 [\trillia/printing/multiple statements], you learned that using `"Hello World!"` required quotation marks for it to be recognized as text.
+In lesson 2 of Chapter 1 [\trillia/printing/multiple statements](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/multiple%20statements/sepalinfo.md), you learned that using `"Hello World!"` required quotation marks for it to be recognized as text.
 In this chapter, you see exactly why.
 If you were to type `print(Hello World!)` instead, it would think it's code.
 
