@@ -34,6 +34,8 @@ The other chapters will always be available for you to return to.
 >         run_lesson
 >     catch
 >         lesson_passed = True
+>
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/vertical%20hello%20world/sepalinfo.md)
 
 
 
