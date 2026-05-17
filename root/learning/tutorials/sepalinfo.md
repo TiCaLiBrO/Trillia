@@ -41,8 +41,18 @@ Requirements:
 Description:
 	*You will quickly learn how to traverse the manual using SEPAL.*
 
+## Course 1: Trillia
 
+[/trillia]()
 
+Requirements:
+
+- Course 0
+
+Description:
+	*This course will teach you all of the fundamentals of Trillia.
+	The course only teaches you the base language and printing.
+	By the end of this course, you will have a full understanding of everything included within Trillia.*
 
 
 
