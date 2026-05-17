@@ -31,6 +31,20 @@ The text you are to print is:
 You can use `print`, `\n`, or `printn` as you wish.
 Good luck.
 
+> [!IMPORTANT]
+> Invisible in SEPAL
+>
+>     when length(lines_of_code) = 4;;
+>     and standard_output has "H\ne\nl\nl\no\n\n";;
+>     and standard_output has "W\no\nr\nl\nd\n!";;
+>     and length(lines_of_output) = 12
+>     try
+>         lesson_run
+>     catch
+>         lesson_passed = True
+>
+> [Back to Trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)
+
 
 
 
