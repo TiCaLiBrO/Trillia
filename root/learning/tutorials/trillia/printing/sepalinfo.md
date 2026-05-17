@@ -10,7 +10,7 @@ By the end of this chapter, you'll be able to print text and make new lines.
 >
 > `/hello world` is a valid page entry.
 
-1 print
+### Lesson 1
 [/hello world]()
 
 //////////////////////
