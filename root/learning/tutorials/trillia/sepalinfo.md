@@ -189,6 +189,7 @@ overflow, saturate, ;
 
 // whitespace and precedence will be taught in the operations chapter.
 
+// maybe we should merge debugging and comments. They are both related to codebase cleanliness and clarifying things.
 
 
 
