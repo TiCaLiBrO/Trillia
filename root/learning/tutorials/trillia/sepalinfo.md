@@ -7,22 +7,41 @@ This is because output is **extremely important** for fixing your code and learn
 This course teaches absolutely everything that Trillia can do without any extra tools.
 Except for course 0, all other courses require that you complete this course first.
 
-## Chapters
+### Chapters
 
 Below are all of the chapters in the Trillia course.
 Chapters, much like courses, are numbered and have prerequisites.
 Completing each chapter numerically is the optimal route to unlock as many of the other chapters as quickly as possible.
+You are not expected to, and should not adhere strictly to the numbering, but you should complete all requirements before entering a chapter.
+The courses are structured to be flexible, allowing students to learn things that interest them early on.
 
+> [!TIP]
+> If you see a chapter that interests you, learn the prerequisite chapters and go straight for it. Learn what you want when you want.
 
+Before you begin, these lessons are mostly intended to be done in SEPAL, not Trillia proper.
+If you're reading this inside the terminal, then you're inside SEPAL already.
 
+> [!WARNING]
+> **Do not exit SEPAL or write your code in a code editor unless instructed to or unless you know what you're doing.**
 
-[[Introduction to Trillia Chapter 1 Printing]] (4 lessons thus far)
+## Chapter 1 Printing
+
+[/printing]()
+
 Requirements:
+
 - None
+
 Chapter Summary:
-	This chapter is the very first chapter. Here, you will learn the most important skill that you will ever learn as a developer: printing. Why is it so important? Because it's the main way that programmers can learn about what's actually happening in their code if they make a mistake. It's your gateway to see inside the computer.
+	*This chapter is the very first chapter. Here, you will learn the most important skill that you will ever learn as a developer: printing. Why is it so important? Because it's the main way that programmers can learn about what's actually happening in their code if they make a mistake. It's your gateway to see inside the computer.*
+
 New Vocabulary:
-- import, print(), printn()
+
+- print()
+- printn()
+
+////(4 lessons thus far)
+
 
 
 
