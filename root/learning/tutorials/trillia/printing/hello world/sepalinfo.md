@@ -38,6 +38,9 @@ Hitting enter once will only create a newline.
 >     when history has source_code("print("Hello World!")")
 >     then
 >         lesson_passed = True
+>
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/multiple%20statements/sepalinfo.md)
+
 
 
 
