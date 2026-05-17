@@ -9,7 +9,7 @@ Completing every trial in a chapter completes the chapter, even if you haven't c
 
 ## The Task
 
-In this trial, you will use 4 lines of code to print 12 lines of text.
+In this trial, you will use *4 lines of code* to print *12 lines of text*.
 The text you are to print is:
 
     H
