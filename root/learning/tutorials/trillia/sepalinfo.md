@@ -37,6 +37,7 @@ New Vocabulary:
 
 - print()
 - printn()
+- \n
 
 
 
