@@ -38,29 +38,7 @@ New Vocabulary:
 - print()
 - printn()
 - \n
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-////////////////////////////////////////////////////////////////////////////
+- "" strings
 
 ## Chapter 2: Variables
 
@@ -74,6 +52,10 @@ New Vocabulary:
 
 - `__=__`
 - `,`
+
+
+
+////////////////////////////////////////////////////////////////////
 
 [[Introduction to Trillia Chapter 3 Comments]] (3 lessons thus far)
 Requirements:
