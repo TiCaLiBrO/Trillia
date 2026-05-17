@@ -1,9 +1,10 @@
 # Chapter 2: Variables
 
+In this chapter, you'll learn about variables.
+Variables are the primary way to store data, so they're very important.
+
 ### Lesson 1
 [/undefined variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/undefined%20variables/sepalinfo.md)
-
-Undefined: A
 
 ### Lesson 2
 [/variable assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variable%20assignment/sepalinfo.md)
