@@ -21,15 +21,6 @@ The courses are numbered for a linear experience, and they are also numbered to 
 You are not expected to, and should not adhere strictly to the numbering, but you should learn all of the requirements before entering a course.
 The courses are structured to be flexible, letting students learn things that interest them early on.
 
-> [!TIP]
-> If you see a chapter that interests you, learn the prerequisite chapters and go straight for it. Learn what you want when you want.
-
-Before you begin, these lessons are mostly intended to be done in SEPAL, not Trillia proper.
-If you're reading this inside the terminal, then you're inside SEPAL already.
-
-> [!WARNING]
-> **Do not exit SEPAL or write your code in a code editor unless instructed to or unless you know what you're doing.**
-
 ## Course 0: Navigation
 
 type [/navigation](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/navigation/sepalinfo.md) to enter the first course.
