@@ -21,6 +21,7 @@ Using only the `print` function and one line of code, print these three lines of
 
 The next lesson is the final trial for the chapter.
 If you need to review the other lessons before the trial, it's completely acceptable to brush up.
+The other chapters will always be available for you to return to.
 
 > [!IMPORTANT]
 > Invisible in SEPAL.
