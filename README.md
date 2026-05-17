@@ -620,8 +620,10 @@ They behave the same as the end of line `?`.
 
 Using `try` and `(catch??? , except???)`, you can make your program behave differently to avoid a crash.
 
-    try x / y
-    catch zero_division_error
+    when zero_division_error
+    try
+        x / y
+    catch
         print("invalid input")
 
 If your program has a compiler error, you can use `catch` and `ignore` to let your program run anyway.
