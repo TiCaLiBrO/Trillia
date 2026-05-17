@@ -1,26 +1,19 @@
 # Variable Assignment
 
-
-
-
 ## The Task
 
-    number = 10
+This program prints `Undefined`, but we want it to print a number.
+
+    number
     print(number)
 
+Rewrite the code so that the first line is `number = 10`.
+Run the code after you've fixed it.
 
-///
-The following program will demonstrate something called assignment.
-Assignment is when you put a value into a name.
-Here, the name 'number' is used.
-And the value 20 is assigned to it.
-So now, number holds the value of 20.
+## Explanation
 
-The name 'number' is actually something called a variable.
-Variables are names that can hold a value.
-They are a special kind of object in Trillia.
-
-Your task is to change the value that the 'number' variable holds.
-Change it to the number 345, then run the program.
-
-
+When you run the code, it prints `10` now.
+This is because `number` is a variable that holds the value 10.
+When `print` sees `number`, it can't actually see the text that we do.
+Instead, `print` only sees what value `number` holds.
+That's why earlier it printed `Undefined`, because `number` didn't hold any value until you gave it one.
