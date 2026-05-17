@@ -32,7 +32,7 @@ If you're reading this inside the terminal, then you're inside SEPAL already.
 
 ## Course 0: Navigation
 
-type [/navigation]() to enter the first course.
+type [/navigation](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/navigation/sepalinfo.md) to enter the first course.
 
 Requirements:
 
