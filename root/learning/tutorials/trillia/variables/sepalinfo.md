@@ -6,7 +6,7 @@
 Undefined: A
 
 ### Lesson 2
-[/variable assignment](https://github.com/TiCaLiBrO/Trillia/new/main/root/learning/tutorials/trillia/variables)
+[/variable assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variable%20assignment/sepalinfo.md)
 
 Value Assignment: A = 10
 
