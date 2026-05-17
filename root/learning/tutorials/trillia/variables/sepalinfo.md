@@ -6,16 +6,12 @@
 Undefined: A
 
 ### Lesson 2
-[Literal to Variable Assignment]
-
-// maybe we should call this just "variable assignment".
+[/variable assignment](https://github.com/TiCaLiBrO/Trillia/new/main/root/learning/tutorials/trillia/variables)
 
 Value Assignment: A = 10
 
 ### Lesson 3
-[Variable to Variable Assignment]
-
-// maybe call this "variables assigning other variables"
+[/variables assigning other variables]
 
 Variable Assignment: A = B
 
