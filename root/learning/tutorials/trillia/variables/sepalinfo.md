@@ -50,6 +50,10 @@ You will test: Your ability to swap variables.
 ## Lesson 8
 [cardinal assignment 1]
 
+You will learn: The basics of Cardinal assignment.
+
+Cardinal assignment, making your code simpler to write, easier to read, and faster to execute.
+
 (a, b, c = d, d, d)
 
 ## Lesson 9
@@ -65,25 +69,6 @@ You will test: Your ability to swap variables.
 [/cardinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
 
 You will test: Your ability to refactor code so that it is easier to read and faster to execute.
-
-
-
-
-
-
-
-
-
-You will learn: about cardinal assignment, making your code simpler to write, easier to read, and faster to execute.
-
-// There's also a non-swapping cardinal assignment.
-
-
-
-
-
-
-
 
 
 
