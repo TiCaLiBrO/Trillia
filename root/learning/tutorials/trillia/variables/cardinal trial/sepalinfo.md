@@ -23,4 +23,5 @@
     b c a
 
 
+Cardinal Trial: rewrite some long-ass ordinal code into short-ass cardinal code.
 
