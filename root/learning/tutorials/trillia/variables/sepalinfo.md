@@ -76,8 +76,6 @@ You will test: Your ability to refactor code so that it is easier to read and fa
 
 You will learn: about cardinal assignment, making your code simpler to write, easier to read, and faster to execute.
 
-Cardinal Trial: rewrite some long-ass ordinal code into short-ass cardinal code.
-
 // in this chapter, in the non-reactivity section, allude to the reactive versions. Give people a reason to b-line.
 
 // There's also a non-swapping cardinal assignment.
