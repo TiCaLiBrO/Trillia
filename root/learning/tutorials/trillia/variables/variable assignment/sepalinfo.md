@@ -17,3 +17,10 @@ This is because `number` is a variable that holds the value 10.
 When `print` sees `number`, it can't actually see the text that we do.
 Instead, `print` only sees what value `number` holds.
 That's why earlier it printed `Undefined`, because `number` didn't hold any value until you gave it one.
+
+> [!IMPORTANT]
+> Invisible within SEPAL
+>
+>     when number = 10
+>     try sepal_execution
+>     catch lesson_pass = True
