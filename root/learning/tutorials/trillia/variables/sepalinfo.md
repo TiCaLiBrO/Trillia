@@ -9,10 +9,8 @@ Variables are the primary way to store data, so they're very important.
 ### Lesson 2
 [/variable assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variable%20assignment/sepalinfo.md)
 
-Value Assignment: A = 10
-
 ### Lesson 3
-[/variables assigning other variables]
+[/variables assigning other variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variables%20assigning%20other%20variables/sepalinfo.md)
 
 Variable Assignment: A = B
 
