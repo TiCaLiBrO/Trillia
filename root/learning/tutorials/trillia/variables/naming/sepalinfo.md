@@ -65,11 +65,24 @@ The following are examples of valid names:
 
 Note that many of these are *pretty bad* names, but all are legal.
 
+## The Task
 
+### Question 1
+Shorter variable names speed up code execution:
+True | False
 
+### Question 2
+Programmers should save development time by giving their variables single-letter names:
 
+### Question 3
+Variable names may contain numbers:
+True | False
 
-
+> [!IMPORTANT]
+> Invisible within Sepal.
+> False
+> False
+> True
 
 
 
