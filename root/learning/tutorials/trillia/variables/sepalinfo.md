@@ -38,11 +38,15 @@ You will learn about how an assignment is only reflective of the moment that it 
 Chain Assignment: A = B = C
 
 ## Trial 1
-[ordinal variable swapping]
+[ordinal trial]
 
+// we should also have a tutorial for naming variables.
+// ordinal variable swapping
 ///// everything below this line should be cardinal /////
 
 
+
+///////////////////////////////////////////////
 
 
 [cardinal assignment 1] (a, b, c = d, d, d)
