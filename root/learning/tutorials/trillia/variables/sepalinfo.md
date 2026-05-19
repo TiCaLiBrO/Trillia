@@ -33,14 +33,14 @@ You will learn: How to reassign variables once they have already been given a va
 
 You will learn: How assignments are only reflective of the moment that they happen.
 
-> [!CAUTION]
-> Beyond this point is currently under rework.
-> Use this resource at your own risk.
-
 ## Lesson 6
 [/chain assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/chain%20assignment/sepalinfo.md)
 
 You will learn: The precedence and propagation of the assignment operator, as well as its futility when right-handed.
+
+> [!CAUTION]
+> Beyond this point is currently under rework.
+> Use this resource at your own risk.
 
 ## Trial 1
 [/ordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20trial/sepalinfo.md)
