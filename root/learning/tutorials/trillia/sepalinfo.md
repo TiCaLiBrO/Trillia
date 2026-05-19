@@ -5,7 +5,7 @@ Really, it teaches the entirety of base Trillia, which is the programming langua
 The only extra thing that *is* added on top is output.
 This is because output is **extremely important** for fixing your code and learning about what's actually happening inside your program.
 This course teaches absolutely everything that Trillia can do without any extra tools.
-Except for course 0, all other courses require that you complete this course first.
+All other courses require that you complete this course first.
 
 ### Chapters
 
