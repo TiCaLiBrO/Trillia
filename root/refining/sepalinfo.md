@@ -1,7 +1,7 @@
 # Refining
 
 From here, two pages are accessible.
-[[Reference]] and [[Practice]]
+[/reference](https://github.com/TiCaLiBrO/Trillia/blob/main/root/refining/reference/sepalinfo.md) and [[Practice]]
 
 This branch is the refinery for which your skills will be honed.
 You will grow stronger and build real projects to keep as living proof of your progress.
