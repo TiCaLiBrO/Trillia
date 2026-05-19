@@ -19,10 +19,12 @@ The name Cardinal stems from cardinal numbers such as 1, 2, and 3.
 They are still given unique values, but they aren't necessarily bound to ordering.
 
 You may think of it like a recipe.
+
 1st step: gather the ingredients.
 - sugar
 - milk
 - eggs
+
 2nd step: throw them at people, telling them that you're the embodiment of chaos. Strike fear into the hearts of mere men.
 
 You get the idea.
