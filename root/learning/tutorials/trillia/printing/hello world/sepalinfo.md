@@ -36,8 +36,8 @@ Hitting enter once will only create a newline.
 > The pass condition is a scan of your script, not of the program's result.
 >     
 >     when history has source_code("print("Hello World!")")
->     then
->         lesson_passed = True
+>     try sepal_execution
+>     catch lesson_passed = True
 >
 > [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/multiple%20statements/sepalinfo.md)
 
