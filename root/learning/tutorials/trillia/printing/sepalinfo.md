@@ -30,7 +30,7 @@ You will learn: How to use the new line print function.
 
 You will learn: The new line escape character.
 
-## Final Trial
+## Trial 1
 [/vertical hello world](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/vertical%20hello%20world/sepalinfo.md)
 
 You will test: Your ability to print flexibly.
