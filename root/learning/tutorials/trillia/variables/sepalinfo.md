@@ -47,35 +47,42 @@ You will learn: The precedence and propagation of the assignment operator, as we
 
 You will test: Your ability to swap variables.
 
-///// everything below this line should be cardinal /////
+## Lesson 8
+[cardinal assignment 1]
 
-[cardinal assignment 1] (a, b, c = d, d, d)
-[cardinal assignment 2] (a, b, c = d, e, f)
-[cardinal assignment 3] (a, b, = b, a)
+(a, b, c = d, d, d)
 
+## Lesson 9
+[cardinal assignment 2]
 
+(a, b, c = d, e, f)
 
-
-
-## Lesson 6
-[/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
-
-You will learn about cardinal assignment, making your code simpler to write, easier to read, and faster to execute.
+## Lesson 10
+[/cardinal assignment 3](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
+(a, b, = b, a)
 
 ## Trial 2
 [/cardinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
 
 You will test: Your ability to refactor code so that it is easier to read and faster to execute.
 
+
+
+
+
+
+
+
+
+You will learn: about cardinal assignment, making your code simpler to write, easier to read, and faster to execute.
+
 Cardinal Trial: rewrite some long-ass ordinal code into short-ass cardinal code.
-
-/////////////////////////////////////////
-
 
 // in this chapter, in the non-reactivity section, allude to the reactive versions. Give people a reason to b-line.
 
 // There's also a non-swapping cardinal assignment.
-// There's A = B = C (does nothing. A = B, then A = C)
+
+
 
 
 
