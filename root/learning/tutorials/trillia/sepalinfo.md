@@ -52,7 +52,16 @@ New Vocabulary:
 
 - `__=__`
 - `,`
+- variables
+- names
 - numbers
+
+> [!CAUTION]
+> This section is currently under work.
+> The chapters provided are in a ready state.
+> More will be provided, with around 25 chapters in total.
+> Updates will be made regularly.
+> Stay tuned.
 
 <!--
 
