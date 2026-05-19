@@ -1,21 +1,27 @@
 # Reassignment
 
-> [!CAUTION]
-> This page is currently under rework.
-> Use this resource at your own risk.
+## Prelude
 
+In math, you cannot usually declare something and then later declare it as some other value. Usually, values in math are *constant* (foreshadowing -> [\trillia/mutability/constants]).
 
+Trillia lets you reassign new values to variables.
+To do so, all you need to do is assign the variable a new value, and the old value will be forgotten.
 
-Reassignment: A = 10; A = 20
+## The Task
 
+- Create a variable named f, and give it the value of 30.
+- In the second line of code, write `f = 20`.
 
-// state :: In math you cannot usually declare something and then later declare it as some other value. Usually, values in math are *constant* (foreshadowing).
-// Trillia lets you reassign new values to variables. To do so, all you need to do is assign the variable a new value, and the old value will be forgotten.
+Run your code when ready.
 
 > [!IMPORTANT]
 > Invisible within Sepal.
 >
->     ... code here ...
+>     when  source_code has "f = 30";;
+>     and   source_code has "f = 20";;
+>     and   f = 20
+>     try   sepal_execution
+>     catch lesson_passed = True
 >
 > []
 
