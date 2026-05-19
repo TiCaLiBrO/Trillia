@@ -1,5 +1,9 @@
 # Chapter 2: Variables
 
+> [!CAUTION]
+> This page is currently under rework.
+> Use this resource at your own risk.
+
 In this chapter, you'll learn about variables.
 Variables are the primary way to store data, so they're very important.
 
