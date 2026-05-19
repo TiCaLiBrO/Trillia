@@ -39,6 +39,8 @@ Chain Assignment: A = B = C
 Declaration: A;     Maybe we should save this for later, when we get to fixed sizes and types.
 
 
+/////////////////////////////////////////
+
 // TRIAL (possibly several)
 
 Cardinal Assignment
@@ -47,6 +49,7 @@ Cardinal Assignment
 Ordinal Assignment
 // A = B; B = A
 
+// in this chapter, in the non-reactivity section, allude to the reactive versions. Give people a reason to b-line.
 
 
 
