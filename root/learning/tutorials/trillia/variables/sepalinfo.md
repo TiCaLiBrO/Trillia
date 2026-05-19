@@ -23,9 +23,9 @@ You will learn how to assign a value to a variable.
 You will learn how to use variables to assign values to other variables.
 
 ## Lesson 4
-[Reassignment]
+[Reassignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/reassignment/sepalinfo.md)
 
-Reassignment: A = 10; A = 20
+You will learn about reassigning variables once they have already been given a value.
 
 ## Lesson 5
 [Non Reactivity]
