@@ -29,8 +29,8 @@ The output should be:
 > The source code is:
 >
 >     when standard_output = "We\nEat\nRocks!"
->     then
->         lesson_passed = True
+>     try sepal_execution
+>     catch lesson_passed = True
 >
 > [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/new%20line%20character/sepalinfo.md)
 
