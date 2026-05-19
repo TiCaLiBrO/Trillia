@@ -23,9 +23,9 @@ Reassignment: A = 10; A = 20
 Demonstrating non-reactivity: A = 10; B = A; A = 20
 
 ### Lesson 6
-[Swap Assignment]
+[/cardinal assignment]
 
-Swap Assignment: A, B = B, A
+Cardinal (Swap) Assignment: A, B = B, A
 
 ### Lesson 7
 [Chain Assignment]
@@ -38,12 +38,6 @@ Declaration: A;     Maybe we should save this for later, when we get to fixed si
 /////////////////////////////////////////
 
 // TRIAL (possibly several)
-
-Cardinal Assignment
-// A, B = B, A
-
-Ordinal Assignment
-// A = B; B = A
 
 // in this chapter, in the non-reactivity section, allude to the reactive versions. Give people a reason to b-line.
 
