@@ -38,3 +38,19 @@ Chain Assignment: A = B = C
 
 Declaration: A;     Maybe we should save this for later, when we get to fixed sizes and types.
 
+
+
+Cardinal Assignment
+// A, B = B, A
+
+Ordinal Assignment
+// A = B; B = A
+
+
+
+
+
+
+
+
+
