@@ -43,18 +43,11 @@ You will learn: How assignments are only reflective of the moment that they happ
 You will learn: The precedence and propagation of the assignment operator, as well as its futility when right-handed.
 
 ## Trial 1
-[/ordinal trial]
+[/ordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20trial/sepalinfo.md)
 
 You will test: Your ability to swap variables.
 
-// we should also have a tutorial for naming variables.
-// ordinal variable swapping
-(probably a good idea to say "swapping two variables this way is called ordinal swapping. more on what *ordinal* means in the next chapter.")
 ///// everything below this line should be cardinal /////
-
-
-///////////////////////////////////////////////
-
 
 [cardinal assignment 1] (a, b, c = d, d, d)
 [cardinal assignment 2] (a, b, c = d, e, f)
