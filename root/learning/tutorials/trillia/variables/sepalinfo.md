@@ -3,10 +3,6 @@
 In this chapter, you'll learn about variables.
 Variables are the primary way to store data, so they're very important.
 
-> [!CAUTION]
-> This page is currently under rework.
-> Use this resource at your own risk.
-
 ## Lesson 1
 [/undefined variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/undefined%20variables/sepalinfo.md)
 
@@ -16,6 +12,10 @@ You will learn: What variables are and what their default values are.
 [/variable assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variable%20assignment/sepalinfo.md)
 
 You will learn: How to assign a value to a variable.
+
+> [!CAUTION]
+> This page is currently under rework.
+> Use this resource at your own risk.
 
 ## Lesson 3
 [/variables assigning other variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variables%20assigning%20other%20variables/sepalinfo.md)
