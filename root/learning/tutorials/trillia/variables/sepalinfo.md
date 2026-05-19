@@ -68,27 +68,7 @@ You will learn about cardinal assignment, making your code simpler to write, eas
 
 [/cardinal trial]
 
-    a = 1
-    b = 2
-    c = 3
-
-    w = a
-    a = b
-    b = c
-    c = w
-
-    to:
-    a = 1
-    b = 2
-    c = 3
-    
-    a, b, c = b, c, a
-
-///
-    a b c
-    to
-    b c a
-
+You will test: Your ability to refactor code so that it is easier to read and faster to execute.
 
 /////////////////////////////////////////
 
