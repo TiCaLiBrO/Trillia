@@ -38,7 +38,7 @@ You will learn: How assignments are only reflective of the moment that they happ
 Chain Assignment: A = B = C
 
 ## Trial 1
-[ordinal trial]
+[ordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
 
 You will test:
 
