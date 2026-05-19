@@ -25,4 +25,4 @@ That's why earlier it printed `Undefined`, because `number` didn't hold any valu
 >     try sepal_execution
 >     catch lesson_pass = True
 >
-> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variables%20assigning%20other%20variables/sepalinfo.md)
+> [next lesson]
