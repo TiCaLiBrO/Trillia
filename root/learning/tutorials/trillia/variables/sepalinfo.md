@@ -18,7 +18,7 @@ You will learn: How to assign a value to a variable.
 > Use this resource at your own risk.
 
 ## Lesson 3
-[/naming]
+[/naming](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/naming/sepalinfo.md)
 
 You will learn: The rules for naming variables and some conventions.
 
