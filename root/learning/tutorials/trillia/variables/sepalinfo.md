@@ -13,6 +13,10 @@ You will learn: What variables are and what their default values are.
 
 You will learn: How to assign a value to a variable.
 
+> [!CAUTION]
+> The page beyond this point is currently under rework.
+> Use this resource at your own risk.
+
 ## Lesson 3
 [/naming]
 
@@ -22,10 +26,6 @@ You will learn: The rules for naming variables and some conventions.
 [/variables assigning other variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variables%20assigning%20other%20variables/sepalinfo.md)
 
 You will learn: How to use variables to assign values to other variables.
-
-> [!CAUTION]
-> The page beyond this point is currently under rework.
-> Use this resource at your own risk.
 
 ## Lesson 5
 [/reassignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/reassignment/sepalinfo.md)
@@ -38,9 +38,9 @@ You will learn: How to reassign variables once they have already been given a va
 You will learn: How assignments are only reflective of the moment that they happen.
 
 ## Lesson 7
-[/chain assignment]
+[/chain assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/chain%20assignment/sepalinfo.md)
 
-Chain Assignment: A = B = C
+You will learn: The precedence and propagation of the assignment operator, as well as its futility when right-handed.
 
 ## Trial 1
 [/ordinal trial]
