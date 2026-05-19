@@ -23,7 +23,7 @@ The courses are structured to be flexible, letting students learn things that in
 
 ## Entry Tutorial: Navigation
 
-type [/navigation](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/navigation/sepalinfo.md) to enter the entry tutorial.
+type [/navigation](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/navigation/sepalinfo.md) to start the entry tutorial.
 
 Requirements:
 
