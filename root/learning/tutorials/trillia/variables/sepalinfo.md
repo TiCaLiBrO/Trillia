@@ -41,9 +41,6 @@ You will learn about cardinal assignment, making your code simpler to write, eas
 
 Chain Assignment: A = B = C
 
-Declaration: A;     Maybe we should save this for later, when we get to fixed sizes and types.
-
-
 /////////////////////////////////////////
 
 // TRIAL (possibly several)
