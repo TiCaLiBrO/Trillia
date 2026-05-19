@@ -28,7 +28,7 @@ You will learn how to use variables to assign values to other variables.
 You will learn about reassigning variables once they have already been given a value.
 
 ## Lesson 5
-[Non Reactivity]
+[/snapshot assignment]
 
 Demonstrating non-reactivity: A = 10; B = A; A = 20
 
