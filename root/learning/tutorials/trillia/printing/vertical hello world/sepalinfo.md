@@ -38,10 +38,8 @@ Good luck.
 >     and standard_output has "H\ne\nl\nl\no\n\n";;
 >     and standard_output has "W\no\nr\nl\nd\n!";;
 >     and length(lines_of_output) = 12
->     try
->         lesson_run
->     catch
->         lesson_passed = True
+>     try sepal_execution
+>     catch lesson_passed = True
 >
 > [Back to Trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)
 
