@@ -30,10 +30,8 @@ The other chapters will always be available for you to return to.
 >     and length(lines_of_code) = 1;;
 >     and source_code has "print";;
 >     and source_code not has "printn"
->     try
->         run_lesson
->     catch
->         lesson_passed = True
+>     try sepal_execution
+>     catch lesson_passed = True
 >
 > [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/vertical%20hello%20world/sepalinfo.md)
 
