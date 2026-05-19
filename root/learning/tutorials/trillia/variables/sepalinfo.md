@@ -38,7 +38,7 @@ You will learn: How assignments are only reflective of the moment that they happ
 Chain Assignment: A = B = C
 
 ## Trial 1
-[ordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
+[ordinal trial]
 
 You will test:
 
@@ -64,11 +64,12 @@ You will test:
 
 You will learn about cardinal assignment, making your code simpler to write, easier to read, and faster to execute.
 
-## Cardinal Trial: rewrite some long-ass ordinal code into short-ass cardinal code.
-
-[/cardinal trial]
+## Trial 2
+[/cardinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
 
 You will test: Your ability to refactor code so that it is easier to read and faster to execute.
+
+Cardinal Trial: rewrite some long-ass ordinal code into short-ass cardinal code.
 
 /////////////////////////////////////////
 
