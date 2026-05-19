@@ -48,7 +48,7 @@ You will learn: The precedence and propagation of the assignment operator, as we
 You will test: Your ability to swap variables.
 
 ## Lesson 7
-[cardinal assignment 1]
+[/cardinal assignment 1]
 
 You will learn: The basics of Cardinal assignment.
 
@@ -57,7 +57,7 @@ Cardinal assignment, making your code simpler to write, easier to read, and fast
 (a, b, c = d, d, d)
 
 ## Lesson 8
-[cardinal assignment 2]
+[/cardinal assignment 2]
 
 (a, b, c = d, e, f)
 
