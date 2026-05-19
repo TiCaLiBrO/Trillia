@@ -16,6 +16,8 @@ You will learn how to assign a value to a variable.
 ## Lesson 3
 [/variables assigning other variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variables%20assigning%20other%20variables/sepalinfo.md)
 
+You will learn how to use variables to assign values to other variables.
+
 ## Lesson 4
 [Reassignment]
 
