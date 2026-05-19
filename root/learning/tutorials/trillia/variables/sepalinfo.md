@@ -1,36 +1,36 @@
 # Chapter 2: Variables
 
+In this chapter, you'll learn about variables.
+Variables are the primary way to store data, so they're very important.
+
 > [!CAUTION]
 > This page is currently under rework.
 > Use this resource at your own risk.
 
-In this chapter, you'll learn about variables.
-Variables are the primary way to store data, so they're very important.
-
 ## Lesson 1
 [/undefined variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/undefined%20variables/sepalinfo.md)
 
-You will learn what variables are and what their default value is.
+You will learn: What variables are and what their default values are.
 
 ## Lesson 2
 [/variable assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variable%20assignment/sepalinfo.md)
 
-You will learn how to assign a value to a variable.
+You will learn: How to assign a value to a variable.
 
 ## Lesson 3
 [/variables assigning other variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variables%20assigning%20other%20variables/sepalinfo.md)
 
-You will learn how to use variables to assign values to other variables.
+You will learn: How to use variables to assign values to other variables.
 
 ## Lesson 4
 [/reassignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/reassignment/sepalinfo.md)
 
-You will learn about reassigning variables once they have already been given a value.
+You will learn: How to reassign variables once they have already been given a value.
 
 ## Lesson 5
 [/snapshot assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/snapshot%20assignment/sepalinfo.md)
 
-You will learn about how an assignment is only reflective of the moment that it happens.
+You will learn: How assignments are only reflective of the moment that they happen.
 
 ## Lesson 6
 [Chain Assignment]
@@ -39,6 +39,8 @@ Chain Assignment: A = B = C
 
 ## Trial 1
 [ordinal trial]
+
+You will test:
 
 // we should also have a tutorial for naming variables.
 // ordinal variable swapping
