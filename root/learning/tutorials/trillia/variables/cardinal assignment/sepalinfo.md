@@ -28,6 +28,7 @@ You may think of it like a recipe.
 2nd step: throw them at people, telling them that you're the embodiment of chaos. Strike fear into the hearts of mere men.
 
 You get the idea.
+
 You need the ingredients before you can throw them, but the order in which you gather the ingredients does not actually matter.
 If you had three people, you could send them to the far reaches of the earth to gather all three ingredients simultaneously.
 
