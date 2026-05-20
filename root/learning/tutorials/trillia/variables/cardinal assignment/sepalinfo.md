@@ -33,7 +33,7 @@ You need the ingredients before you can throw them, but the order in which you g
 If you had three people, you could send them to the far reaches of the earth to gather all three ingredients simultaneously.
 
 Cardinal just means "can be done at the same time".
-Modern computers can do multiple things at the same time, and so usually doing lots of things simultaneously is faster than doing them one at a time.
+Modern computers can do multiple things at the same time, so usually doing lots of things simultaneously is faster than doing them one at a time.
 
 ## The Task
 
