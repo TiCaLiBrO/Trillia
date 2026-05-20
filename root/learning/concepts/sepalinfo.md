@@ -1,7 +1,7 @@
 # Concepts
 
 This is the Concepts branch. From here, there are three new branches:
-[[Philosophy]], [[Implementation]], and [[Stories]].
+[[Philosophy]], [Implementation](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/concepts/implementation/sepalinfo.md), and [[Stories]].
 
 If you're new, you should start with the Philosophy branch.
 It's the one where you learn about what Trillia really is and why it was made.
