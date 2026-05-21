@@ -55,7 +55,8 @@ It does not require a third variable.
 It can 
 
 
-
+// Talk about the possible error: a, b, a = 1, 2, 3; This causes an error because `a` is assigned twice left-handedly on the same line.
+// Probably better to link to the error.
 
 
 
