@@ -73,6 +73,8 @@ You will test: Your ability to refactor code so that it is easier to read and fa
 
 
 
+// We need a section that says we can put strings into variables too?
+
 
 
 
