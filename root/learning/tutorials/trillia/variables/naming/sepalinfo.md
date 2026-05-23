@@ -73,6 +73,7 @@ True | False
 
 ### Question 2
 Programmers should save development time by giving their variables single-letter names:
+True | False
 
 ### Question 3
 Variable names may contain numbers:
