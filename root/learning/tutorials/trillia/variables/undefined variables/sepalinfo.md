@@ -1,14 +1,14 @@
 # Undefined Variables
 
-### What is a Variable?
+## What is a Variable?
 
 Variables are names that hold values.
 For example, you can have a name `age` that holds a value of 25.
 
 For this lesson, we aren't going to show how to give a value to a variable.
-Instead, we're going to show you what happens when you have a variable, but no value is given to it.
+Instead, we're going to show you what happens when you simply create one, but no value is given to it.
 
-### The Task
+## The Task
 
 Type the following program into your terminal:
 
@@ -17,7 +17,7 @@ Type the following program into your terminal:
 
 When you're ready, run it.
 
-### Explanation
+## Explanation
 
 You'll notice that it prints out the word `Undefined`.
 
@@ -25,8 +25,8 @@ In lesson 2 of Chapter 1 [\trillia/printing/multiple statements](https://github.
 In this chapter, you see exactly why.
 If you were to type `print(Hello World!)` without quotation marks instead, it would be mistaken for code.
 
-We didn't define the variable `number` in this lesson, so its value by default is `Undefined`.
-Everything in Trillia is Undefined by default.
+We didn't define the variable `number` in this lesson, so its value is `Undefined` by default.
+Every variable in Trillia is Undefined until you define it.
 
 > [!IMPORTANT]
 > Invisible within Sepal.
