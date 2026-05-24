@@ -42,6 +42,12 @@ You will learn: The precedence and propagation of the assignment operator, as we
 > Beyond this point is currently under rework.
 > Use this resource at your own risk.
 
+## Lesson 7
+[/ordinal swapping]
+
+// learn how to swap.
+// Followed up by a more advanced three-variable or four-variable swap.
+
 ## Trial 1
 [/ordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20trial/sepalinfo.md)
 
@@ -73,7 +79,20 @@ You will test: Your ability to refactor code so that it is easier to read and fa
 
 
 
-// We need a section that says we can put strings into variables too?
+// greet = "Hello"
+
+// (a, b, c = d, d, d)
+
+// (a, b, c = d, e, f)
+
+
+
+
+
+
+
+
+
 
 
 
