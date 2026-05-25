@@ -55,13 +55,13 @@ You will test: Your ability to swap variables.
 
 <!-- Maybe we should have a warmup before the trial. Have the Trial be an extended version with 4 variables? -->
 
-## Lesson 7
+## Lesson 8
 [/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
 (a, b, = b, a)
 
 You will learn: How to swap two variables Cardinally.
 
-## Lesson 8
+## Lesson 9
 [/cardinal assignment 1]
 
 You will learn: The basics of Cardinal assignment.
