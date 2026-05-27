@@ -30,7 +30,7 @@ Requirements:
 - None
 
 Description:
-	*You will quickly learn how to traverse the manual using SEPAL.*
+	*You will quickly learn how to traverse the manual using Sepal.*
 
 ## Course 1: Trillia
 
@@ -61,7 +61,7 @@ Description:
 > [!IMPORTANT]
 > There are more than just two courses.
 > Beyond the Trillia course, there are courses for the libraries.
-> Math, SEPAL, Strings, Random, Time, Input, Output, Loops, Unsafe, Floats, and Quantum are some examples of libraries.
+> Math, Strings, Random, Time, Input, Output, Loops, Unsafe, Floats, and Quantum are some examples of libraries.
 > Those other libraries will not be provided here until everything is written in this manual for base Trillia.
 >
 > Stay tuned.
