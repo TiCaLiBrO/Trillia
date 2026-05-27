@@ -4,7 +4,7 @@ This is the tutorial section for Sepal.
 All skills learned here will be transferable to Trillia.
 
 ## Chapter 1: Navigation
-[/navigation]()
+[/navigation](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepal/navigation/sepalinfo.md)
 
 Requirements:
 - None
