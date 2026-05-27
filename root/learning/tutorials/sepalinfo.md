@@ -45,6 +45,19 @@ Description:
 	The course only teaches you the base language and printing.
 	By the end of this course, you will have a full understanding of everything included within Trillia.*
 
+## Course 2: Sepal
+
+[/sepal]()
+
+Requirements:
+
+- None
+
+Description:
+	*This course will teach you all of the fundamentals of Sepal.
+	You will learn how to navigate and how to edit objects in the file system.
+	By the end, you will be very comfortable with using Sepal as your primary shell language*
+
 > [!IMPORTANT]
 > There are more than just two courses.
 > Beyond the Trillia course, there are courses for the libraries.
