@@ -27,17 +27,17 @@ New Vocabulary:
 ## Chapter X: Renaming
 - `(x)rename(y)`
 
-## Chapter X: Creating
+## Chapter X: Setwise Operations, Deletion, Copying
+- `folderA | folderB/B` add B to folder A (copied from folder B)
+- `folderA \ folderA/B` remove B from folder A
+- `folderC = folderA & folderB` make a new folder that has only the common files between folder A and folder B
 
-## Chapter X: Copying
-- `folderA | folderB/B`
+## Chapter X: Creating
 
 ## Chapter X: Moving Objects
 
 ## Chapter X: Editing
 - `edit x` or `(x)edit`
-
-## Chapter X: Setwise Operations, Deletion
 
 ## Chapter X: Permissions
 
