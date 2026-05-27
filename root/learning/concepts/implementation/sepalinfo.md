@@ -17,7 +17,7 @@ This is the default implementation unless specified otherwise.
 
 [Complexity Classes]
 
-[/execution methods]()
+[/execution methods](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/concepts/implementation/execution%20methods/sepalinfo.md)
 
 
 
