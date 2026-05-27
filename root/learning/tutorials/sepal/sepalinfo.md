@@ -26,7 +26,7 @@ New Vocabulary:
 
 ## Chapter X: Renaming
 ## Chapter X: Creating
-## Chapter X: Moving
+## Chapter X: Moving Objects
 ## Chapter X: Copying
 ## Chapter X: Editing
 ## Chapter X: Setwise Operations, Deletion
