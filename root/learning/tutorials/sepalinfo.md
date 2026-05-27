@@ -47,7 +47,7 @@ Description:
 
 ## Course 2: Sepal
 
-[/sepal]()
+[/sepal](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepal/sepalinfo.md)
 
 Requirements:
 
