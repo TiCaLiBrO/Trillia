@@ -48,17 +48,18 @@ You will learn: The precedence and propagation of the assignment operator, as we
 > Use this resource at your own risk.
 
 ## Lesson 8
-[/ordinal swapping]
+[/ordinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20swapping/sepalinfo.md)
 
-// learn how to swap.
-// Followed up by a more advanced three-variable or four-variable swap.
+You will learn: How to swap two variables' values
 
 ## Trial 1
 [/ordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20trial/sepalinfo.md)
 
 You will test: Your ability to swap variables.
 
-<!-- Maybe we should have a warmup before the trial. Have the Trial be an extended version with 4 variables? -->
+// a more advanced three-variable or four-variable swap.
+
+<!-- The previous lesson is a warm-up before the trial. Have the Trial be an extended version with 4 variables? -->
 
 ## Lesson 9
 [/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
