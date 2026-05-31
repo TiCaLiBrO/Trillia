@@ -50,38 +50,7 @@ In Trillia, the `=` sign is used for assignments of *all* objects.
 Variables, Control Structures, Vectors, Types, Reactives, and Functions are *all* given value using the `=` Assignment Operator.
 There are *no* objects in Trillia that can be assigned a value without the Assignment Operator. And this list of objects is *the entire list of all things that can be created in Trillia*.
 
-## 2.1 Variable Assignment
-
-Variables are assigned using a variable name, followed by the `=` sign, then the value you are assigning to it
-
-    x = 10
-
-Like many other languages, chaining assignments is unintuitive and not recommended, but a demonstration can give insight.
-
-    a = b = c
-This is ***bad code***. This demonstration is just to show how it works.
-The `=` sign works identically to all other operations. It takes the right-handed operand as a copy, and alters the left-handed operand, then pipelines the left-handed operand forward.
-In the statement `a = b = c`, `a = b` happens first, reading the value of `b` and changing `a`'s value. The expression is now simplified. `a = c` is next. We first put `b`'s value into `a`, and now we're putting `c`'s value into `a`. We do this until the line is finished. Notice that we only ever change `a` and read from `b` and `c`. In Trillia, we call `a` an *Ordinal* component, and `b` and `c` are *Cardinal* components.
-
-We'll do another example with addition to make it clearer: `x + y + z`. Start with `x`, then add `y` to it. This changes `x` directly, but the `y` is Cardinal, so the expression only reads `y`, and never alters it. Then we add `x + z`. This entire expression is a relative assignment of `x`. Notice that in both examples, we took the left-most object and continuously altered it by performing operations on it and moving it rightward. All operations in Trillia behave this way, and assignment is no exception.
-
-Notice, though, that we were only able to change one object per line. If you wish to do multiple assignments on a single line, you should either use `,` or `;` to separate assignments.
-
-    a = b; b = c
-This is actually two lines of code just made to look like a single line. It is `a = b`, and then a second line `b = c`. This one has order. We put `b`'s value into `a` first, and then we put `c`'s value into `b`. We read from `b` in the first line, then write to `b` in the second.
-
-
-To swap two variables, you can use `,` commas on both sides of the `=` sign. This cardinalizes the right-hand operands such that they are snapshots of the objects before the operation is performed. This means that it's able to be parallelized.
-
-    a, b = b, a
-This swaps the value of a and b.
-
-    a, b = b, c
-This puts the value of `b` into `a`, and the value of `c` into `b` at the same time, strictly after b and c are copied to temporary objects. The items to the right of the `=` sign are copies of the original values.
-
-The number of arguments on the left side must be the same as the number of arguments on the right side. If they differ, you will get a Pruning Error, telling you that you have wasteful code (something being assigned to nothing, or something not being assigned anything).
-
-## 2.2 Strict Types and Sizes
+## 2.1 Strict Types and Sizes
 
 If you don't use types, the variable will automatically promote or change type readily as needed. You can use strict types and sizes to ensure that the variable does not change type or size.
 
@@ -101,7 +70,7 @@ You can use the `proto` type without a size to explicitly state that a variable 
 
     proto x = "hello"
 
-## 2.3 Mutability
+## 2.2 Mutability
 
 There are four keywords that change which ways your data is allowed to be altered.
 
