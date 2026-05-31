@@ -27,6 +27,8 @@ The Implementation of Trillia is language agnostic.
 It doesn't matter whether Trillia is transpiled, compiled, or interpreted, and it also doesn't matter which languages are used to implement Trillia, as long as it behaves deterministically and is true to Trillia's blueprints.
 An ideal Trillia implementation would be a boostrapped Trillia that compiles to LLVM, though the existing prototype is an interpreter written in Python.
 
+<!--
+
 **An Overview of the language:**
 
 # 1. Whitespace
