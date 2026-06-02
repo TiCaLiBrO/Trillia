@@ -7,25 +7,29 @@ If using other languages to describe Trillia, think Rust's safety mixed with Go 
 
 The language is designed with a strong focus on simplicity, making it often resemble pseudo-code.
 
-Convergent programming is a strong design choice in Trillia that makes it easier to read and debug, and unifies Trillia into a common dialect.
+Convergent programming is a design choice in Trillia that makes it easier to read and debug, and unifies Trillia into a common dialect.
 
 Without imported libraries, Trillia is extremely lightweight, making it ideal for rapid onboarding.
 
-There is a focus on eliminating boilerplate and inconsistencies, meaning that edge cases are rare and predictable, and programmers focus more on the actual code than they do on fighting with the language.
+There is a focus on eliminating boilerplate and inconsistencies, meaning that edge cases are rare and predictable. Programmers focus more on the actual code than they do on fighting with the language.
 
-Perfect parallelism is automatically prescribed to your code. The way you write your code will implicitly change the way it gets parallelized.
+Perfect parallelism is automatically prescribed to your code. The way you write your code will implicitly change the way it gets parallelized. Trillia can analyze the shape of your code and prescribe perfect parallelism to it.
 
-Trillia is fully deterministic, safe, and minimal first, and provides escape hatches second. This ensures that you do not shoot yourself in the foot, while still giving you a great deal of power.
+Trillia is fully deterministic, safe, and minimal first, and provides escape hatches second. This ensures that you do not shoot yourself in the foot, while still giving you a great deal of power. Trillia has a modern, mature syntax that prioritizes readability of intent, maximizes debuggability, and is highly auditable.
 
-The term "algorithmic language" can be used to describe Trillia, as it is incapable of unbounded loops without importing them. There is a strong focus on bounded design and minimizing complexity.
+The term *algorithmic language* can be used to describe Trillia, as it is incapable of unbounded loops without importing them. There is a strong focus on bounded design and minimizing complexity.
 
 Reactivity and pointers are core features of Trillia, automatically updating data and allowing signalling.
 
 The base language does not contain any non-deterministic functions. This means that there is no access to specific hardware used that can vary per run, and there are no functions that rely on input or randomization. Such features are quarantined within libraries, giving you the option to add those features if needed.
 
-The Implementation of Trillia is language agnostic.
-It doesn't matter whether Trillia is transpiled, compiled, or interpreted, and it also doesn't matter which languages are used to implement Trillia, as long as it behaves deterministically and is true to Trillia's blueprints.
-An ideal Trillia implementation would be a boostrapped Trillia that compiles to LLVM, though the existing prototype is an interpreter written in Python.
+Trillia is a language, not an implementation of the language.
+This means that a valid implementation of Trillia is only concerned with the language's behavior, not the language's optimizations.
+Trillia is designed to be extremely optimizable, often approaching theoretical limits, but a given implementation may or may not incorporate them.
+Trillia's implementation is also not defined by being interpreted, compiled ahead of time, compiled just in time, or by being connected to actual hardware.
+Also, because Trillia is purely algorithmic, it can be theoretically implemented on any algorithmic machine rather than any Turing-complete machine.
+
+
 
 <!--
 
