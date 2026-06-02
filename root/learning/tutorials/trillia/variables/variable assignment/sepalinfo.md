@@ -1,5 +1,7 @@
 # Variable Assignment
 
+<!-- We need to fundamentally fix this. Rework this as it is now the first lesson. -->
+
 ## The Task
 
 This program prints `Undefined`, but we want it to print a number.
@@ -26,3 +28,10 @@ That's why earlier it printed `Undefined` because `number` didn't hold any value
 >     catch lesson_pass = True
 >
 > [next lesson]
+
+
+<!--
+Variables are assigned using a variable name, followed by the `=` sign, then the value you are assigning to it
+
+    x = 10
+-->
