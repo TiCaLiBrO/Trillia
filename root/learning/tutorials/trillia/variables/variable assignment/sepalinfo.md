@@ -18,11 +18,20 @@ Then run it. You should see `12` printed on your screen.
 
 ## Explanation
 
-This is because `number` is a variable that holds the value 12.
+In lesson 2 of Chapter 1 [\trillia/printing/multiple statements](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/multiple%20statements/sepalinfo.md), you learned that using `"Hello World!"` required quotation marks for it to be recognized as text.
+In this chapter, you see exactly why.
+If you were to type `print(Hello World!)` without quotation marks instead, it would be mistaken for code.
+
+
+///
+When you run your program with `print(number)`, it's not the same as `print("number")`.
+`"number"` is just text, while `number` is a variable that holds the value 12.
 When `print` sees `number`, it can't actually see the variable's name.
 Instead, `print` only sees what value `number` holds.
 
 The `=` sign is used to give a value to something.
+
+
 
 > [!CAUTION]
 > If you write `number` without writing `= 12` and then `print(number)`, you will get an error called `DeclarationError`.
