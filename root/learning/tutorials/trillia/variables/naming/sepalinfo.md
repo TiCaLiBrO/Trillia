@@ -31,9 +31,14 @@ It is only acceptable to name your variables with single letters in purely mathe
 
 If your variable represents how much something costs, you can name the variable `cost`, `price`, or `value`; maybe even `dollar_cost` to specify that it's the cost in dollars, not in cents or some other currency.
 
-It's also worth noting: Do not use names that are way too long just for the sake of it.
-If you end up with a name like `the_number_of_days_until_christmas`, you might want to try to reduce it to `days_till_christmas`, dropping some grammar.
-A name can be pretty dense in meaning, so `spiders_per_square_kilometer` is acceptable because each word adds valuable context.
+> [!NOTE]
+> Do not use names that are way too long just for the sake of it.
+> If you end up with a name like `the_number_of_days_until_christmas`, you might want to try to reduce it to `days_till_christmas`, dropping some grammar.
+> A name can be pretty dense in meaning, so `spiders_per_square_kilometer` is acceptable because each word adds valuable context.
+> If even one of the words in `spiders_per_square_kilometer` is dropped, the variable no longer has a name that literally describes what it represents accurately.
+> It could be refactored to `square_kilometer_spider_count`, but it is still of the same density.
+> Generally, try to make your name as dense as possible without losing exact meaning.
+> `square_kilometer_spiders` is potentially ambiguous, and could refer to the number of spiders that are a square kilometer in size.
 
 ### Snake Case
 In Trillia, snake_case is the proper naming convention for variables.
@@ -63,7 +68,7 @@ The following are examples of valid names:
 - `A77FFF7777777777`
 - `diamond_count`
 
-Note that many of these are *pretty bad* names, but all are legal.
+Some of these are *pretty bad* names, but all are legal.
 
 ## The Task
 
@@ -84,21 +89,6 @@ True | False
 > False
 > False
 > True
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
