@@ -1,7 +1,5 @@
 # Variable Assignment
 
-<!-- We need to fundamentally fix this. Rework this as it is now the first lesson. -->
-
 ## What Is a Variable?
 
 Variables are names that hold values.
@@ -22,16 +20,12 @@ In lesson 2 of Chapter 1 [\trillia/printing/multiple statements](https://github.
 In this chapter, you see exactly why.
 If you were to type `print(Hello World!)` without quotation marks instead, it would be mistaken for code.
 
-
-///
 When you run your program with `print(number)`, it's not the same as `print("number")`.
 `"number"` is just text, while `number` is a variable that holds the value 12.
 When `print` sees `number`, it can't actually see the variable's name.
 Instead, `print` only sees what value `number` holds.
 
 The `=` sign is used to give a value to something.
-
-
 
 > [!CAUTION]
 > If you write `number` without writing `= 12` and then `print(number)`, you will get an error called `DeclarationError`.
