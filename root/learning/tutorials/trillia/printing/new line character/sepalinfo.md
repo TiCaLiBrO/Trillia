@@ -26,11 +26,11 @@ The other chapters will always be available for you to return to.
 > [!IMPORTANT]
 > Invisible in SEPAL.
 >
->     when standard_output = "We\nEat\nRocks!";;
->     and length(lines_of_code) = 1;;
->     and source_code has "print";;
->     and source_code not has "printn"
 >     try sepal_execution
+>     when standard_output = "We\nEat\nRocks!"
+>     and length(lines_of_code) = 1
+>     and source_code has "print"
+>     and source_code not has "printn"
 >     catch lesson_passed = True
 >
 > [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/vertical%20hello%20world/sepalinfo.md)
