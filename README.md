@@ -90,9 +90,10 @@ There are four keywords that change which ways your data is allowed to be altere
 
 ## 2.4 Declarations
 
-If you wish to claim memory before assigning it a value, you can declare without assignment. It's recommended that you use `;` for clarity, signalling that you intentionally did not provide an assignment.
+You cannot declare an object without also assigning it a value.
+To claim memory without using it, you must show that this is an intentional action using `Undefined`.
 
-    integer32 x;
+    integer32 x = Undefined
 
 If you have a variable with mutability restrictions, you can use a declarative line on that variable with a new mutability rule to specify a deliberate change in mutability.
 
