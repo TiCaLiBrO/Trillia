@@ -1,7 +1,7 @@
 # New Line Print
 
 In the previous lesson, you used the print function on two different lines of code.
-You may have noticed that there was only one line of text printed to the terminal.
+You may have noticed that only one line of text was printed to the terminal.
 
 Sometimes you might want to make a new line in your text.
 
@@ -28,8 +28,8 @@ The output should be:
 > Not visible in SEPAL.
 > The source code is:
 >
->     when standard_output = "We\nEat\nRocks!"
 >     try sepal_execution
+>     when standard_output = "We\nEat\nRocks!"
 >     catch lesson_passed = True
 >
 > [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/new%20line%20character/sepalinfo.md)
