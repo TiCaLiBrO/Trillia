@@ -32,7 +32,9 @@ Good luck.
 > 
 >     swaps_only =
 >         default False
->         return True if all lines in lines_of_code where line in ["x = y", "x = z", "y = x", "y = z", "z = x", "z = y"]
+>         if    all line in lines_of_code
+>         where line in ["x = y", "x = z", "y = x", "y = z", "z = x", "z = y"]
+>         then  return True
 >
 >     if swaps_only
 >     then
@@ -53,14 +55,14 @@ Good luck.
 >             print("Test " + as_string(test) + ": ")
 >             x = tests[test]/value1
 >             y = tests[test]/value2
->             sepal_execute
->             if  x = tests[test]/value2 ;;
->             and y = tests[test]/value1 ;;
+>             sepal_execution
+>             if  x = tests[test]/value2
+>             and y = tests[test]/value1
 >             then
->                 print("Passed.")
+>                 print("Test passed.")
 >                 test_passed_count + 1
 >             else
->                 print("Failed.")
+>                 print("Test failed.")
 > 
 >         passed_or_failed =
 >             default "failed."
