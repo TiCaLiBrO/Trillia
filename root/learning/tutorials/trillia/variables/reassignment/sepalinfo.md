@@ -17,10 +17,10 @@ Run your code when ready.
 > [!IMPORTANT]
 > Invisible within Sepal.
 >
+>     try   sepal_execution
 >     when  source_code has "f = 30"
 >     and   source_code has "f = 20"
 >     and   f = 20
->     try   sepal_execution
 >     catch lesson_passed = True
 >
 > []
