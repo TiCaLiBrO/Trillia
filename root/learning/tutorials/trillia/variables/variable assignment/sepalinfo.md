@@ -32,7 +32,7 @@ The `=` sign is used to give a value to something.
 > [!IMPORTANT]
 > Invisible within SEPAL.
 >
->     when number = 10
+>     when number = 12
 >     try sepal_execution
 >     catch lesson_pass = True
 >
