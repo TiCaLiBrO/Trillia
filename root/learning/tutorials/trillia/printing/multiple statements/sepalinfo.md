@@ -22,7 +22,7 @@ So we always use quotation marks when something is supposed to be text.
 
 ## The Lesson
 
-In the previous lesson you wrote one line of code.
+In the previous lesson, you wrote one line of code.
 Now let's write two.
 
 `print("I am learning ")`
@@ -44,8 +44,8 @@ It executes in reading order.
 > [!IMPORTANT]
 > The passing condition is based on the given code, not the printed output.
 >
->     when history has [source_code("print("I am learning ")"), source_code("print("Trillia")")]
 >     try sepal_execution
+>     when history has [source_code("print("I am learning ")"), source_code("print("Trillia")")]
 >     catch lesson_passed = True
 >
 > If you are in SEPAL, you will not see this.
