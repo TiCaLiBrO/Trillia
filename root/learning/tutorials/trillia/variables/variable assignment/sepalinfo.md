@@ -2,23 +2,32 @@
 
 <!-- We need to fundamentally fix this. Rework this as it is now the first lesson. -->
 
+## What Is a Variable?
+
+Variables are names that hold values.
+For example, you can have a name `age` that holds a value of 25.
+
 ## The Task
 
-This program prints `Undefined`, but we want it to print a number.
+Type the following into your terminal:
 
-    number
+    number = 12
     print(number)
 
-Rewrite the code so that the first line becomes `number = 10`.
-Run the code after you've fixed it.
+Then run it. You should see `12` printed on your screen.
 
 ## Explanation
 
-Now, when you run the code, it prints `10`.
-This is because `number` is a variable that holds the value 10.
+This is because `number` is a variable that holds the value 12.
 When `print` sees `number`, it can't actually see the variable's name.
 Instead, `print` only sees what value `number` holds.
-That's why earlier it printed `Undefined` because `number` didn't hold any value until you gave it one.
+
+The `=` sign is used to give a value to something.
+
+> [!CAUTION]
+> If you write `number` without writing `= 12` and then `print(number)`, you will get an error.
+> The error happens because `number` is a name that has no definition.
+> Every time you make a name, you must also define it in some way.
 
 > [!IMPORTANT]
 > Invisible within SEPAL.
@@ -29,9 +38,3 @@ That's why earlier it printed `Undefined` because `number` didn't hold any value
 >
 > [next lesson]
 
-
-<!--
-Variables are assigned using a variable name, followed by the `=` sign, then the value you are assigning to it
-
-    x = 10
--->
