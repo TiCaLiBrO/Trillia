@@ -72,23 +72,51 @@ Some of these are *pretty bad* names, but all are legal.
 
 ## The Task
 
+This task is a bit different.
+When you're ready, write `start` and run it to be transferred to a series of questions.
+Answer all of them correctly to pass this lesson.
+
 ### Question 1
 Shorter variable names speed up code execution:
-True | False
+Answer `True` or `False`.
 
 ### Question 2
 Programmers should save development time by giving their variables single-letter names:
-True | False
+Answer `True` or `False`.
 
 ### Question 3
 Variable names may contain numbers:
-True | False
+Answer `True` or `False`.
 
 > [!IMPORTANT]
 > Invisible within Sepal.
-> False
-> False
-> True
+>
+>     try   sepal_execution
+>     when  source_code = "start"
+>     catch
+>         print("Shorter variable names speed up code execution: True or False?")
+>         when  source_code = "False"
+>         catch
+>             print("Programmers should save development time by giving their variables single-letter names: True or False?")
+>             when  source_code = "False"
+>             catch
+>                 print("Variable names may contain numbers: True or False?")
+>                 when  source_code   = "False"
+>                 catch lesson_passed = True
+>     if lesson_passed = True
+>     then print("Lesson passed.")
+>     else print("Lesson failed, try again.")
+> 
+> []
+
+
+
+
+
+
+
+
+
 
 
 
