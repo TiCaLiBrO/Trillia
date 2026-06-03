@@ -14,27 +14,27 @@ You will learn: What variables are, what their default values are, and how to as
 
 You will read: The rules for naming variables and some conventions.
 
-## Lesson 3
+## Lesson 2
 [/string assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/string%20assignment/sepalinfo.md)
 
 You will learn: How to assign strings of text to variables.
 
-## Lesson 4
+## Lesson 3
 [/variables assigning other variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variables%20assigning%20other%20variables/sepalinfo.md)
 
 You will learn: How to use variables to assign values to other variables.
 
-## Lesson 5
+## Lesson 4
 [/reassignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/reassignment/sepalinfo.md)
 
 You will learn: How to reassign variables once they have already been given a value.
 
-## Lesson 6
+## Lesson 5
 [/snapshot assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/snapshot%20assignment/sepalinfo.md)
 
 You will learn: How assignments are only reflective of the moment that they happen.
 
-## Lesson 7
+## Lesson 6
 [/chain assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/chain%20assignment/sepalinfo.md)
 
 You will learn: The precedence and propagation of the assignment operator, as well as its futility when right-handed.
@@ -50,7 +50,7 @@ In the statement `a = b = c`, `a = b` happens first, reading the value of `b` an
 > Beyond this point is currently under rework.
 > Use this resource at your own risk.
 
-## Lesson 8
+## Lesson 7
 [/ordinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20swapping/sepalinfo.md)
 
 You will learn: How to swap two variables' values
@@ -69,7 +69,7 @@ You will test: Your ability to swap variables.
 
 <!-- The previous lesson is a warm-up before the trial. Have the Trial be an extended version with 4 variables? -->
 
-## Lesson 9
+## Lesson 8
 [/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
 (a, b, = b, a)
 
@@ -82,7 +82,7 @@ This swaps the value of a and b.
 
 The number of arguments on the left side must be the same as the number of arguments on the right side. If they differ, you will get a Pruning Error, telling you that you have wasteful code (something being assigned to nothing, or something not being assigned anything).
 
-## Lesson 10
+## Lesson 9
 [/cardinal assignment 1]
 
 You will learn: The basics of Cardinal assignment.
