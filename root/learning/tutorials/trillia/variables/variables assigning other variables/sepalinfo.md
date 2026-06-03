@@ -23,9 +23,9 @@ Checklist
 > [!IMPORTANT]
 > Invisible within SEPAL.
 >
->     when lines_of_code has "apple_count = 5\norange_count = apple_count\nprint";;
->     and standard_output = "5"
 >     try sepal_execution
+>     when lines_of_code has "apple_count = 5\norange_count = apple_count\nprint"
+>     and standard_output = "5"
 >     catch lesson_passed = True
 >
 > [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/reassignment/sepalinfo.md)
