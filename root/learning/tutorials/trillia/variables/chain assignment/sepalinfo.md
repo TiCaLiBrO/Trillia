@@ -44,12 +44,12 @@ Then run the code.
 > [!IMPORTANT]
 > Invisible within Sepal.
 >
->     when source_code has "x = 5";;
->     and  source_code has "y = 6";;
->     and  source_code has "z = 7";;
->     and  source_code has "x = y = z";;
->     and  x = 7
->     try sepal_execution
+>     try   sepal_execution
+>     when  source_code has "x = 5"
+>     and   source_code has "y = 6"
+>     and   source_code has "z = 7"
+>     and   source_code has "x = y = z"
+>     and   x             = 7
 >     catch lesson_passed = True
 
 
