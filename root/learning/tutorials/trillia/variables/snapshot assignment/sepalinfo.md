@@ -28,9 +28,9 @@ Feel free to take a look: (foreshadowing -> [\trillia/reactivity])
 > [!IMPORTANT]
 > Invisible within Sepal.
 >
->     when  A = 20;;
->     and   B = 10;;
->     and   length(lines_of_code) = 5
 >     try   sepal_execution
->     catch lesson_passed = True
+>     when  A                     = 20
+>     and   B                     = 10
+>     and   length(lines_of_code) =  5
+>     catch lesson_passed         = True
 >
