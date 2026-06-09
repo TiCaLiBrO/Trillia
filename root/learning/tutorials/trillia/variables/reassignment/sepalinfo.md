@@ -9,8 +9,10 @@ To do so, all you need to do is assign the variable a new value, and the old val
 
 ## The Task
 
-- Create a variable named f, and give it the value of 30.
+- Create a variable named `f`, and give it the value of `30`.
 - In the second line of code, write `f = 20`.
+
+You do not need to print the value of `f` for this lesson.
 
 Run your code when ready.
 
