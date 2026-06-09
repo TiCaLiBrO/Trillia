@@ -14,13 +14,16 @@ Take a look at this example:
     f = 6
 
 You might be able to tell what this is supposed to be if you think about it.
-This is supposed to represent a cube, but even if you get it, you might use `v` for volume, and then your codebase will be a disaster.
+This is supposed to represent a cube.
 
 Here's the same code, but cleaned up a bit:
 
     edge_count   = 12
     vertex_count = 8
     face_count   = 6
+
+One potential problem with using single-letter names is that if someone later decides to use `v` to represent volume, they'll accidentally be using the same variable that's used for vertices!
+This can ruin your code, and it's often very difficult to debug.
 
 ## Naming Conventions
 
