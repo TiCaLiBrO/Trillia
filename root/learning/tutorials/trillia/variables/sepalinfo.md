@@ -14,7 +14,7 @@ You will learn: What variables are, what their default values are, and how to as
 
 You will read: The rules for naming variables and some conventions.
 
-> ![NOTE]
+> [!NOTE]
 > Bookmark for finished lessons
 
 ## Lesson 2
