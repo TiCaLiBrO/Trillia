@@ -21,9 +21,7 @@ Each of these instructions is one line of code. Follow them carefully:
 ## Explanation
 
 When you reassigned `A`, you did not reassign `B`.
-By default, variables are never changed unless deliberately reassigned.
-There *is* one way to automatically reassign the dependent variable, but it's in a few chapters.
-Feel free to take a look: (foreshadowing -> [\trillia/reactivity])
+*By default*, variables are never changed unless deliberately reassigned.
 
 > [!IMPORTANT]
 > Invisible within Sepal.
