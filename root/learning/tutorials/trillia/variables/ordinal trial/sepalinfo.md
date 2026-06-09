@@ -2,9 +2,7 @@
 
 ## Prelude
 
-Assignment allows us to swap data.
-Using the techniques you learned already, you can do what is called an Ordinal swap.
-Ordinal here just means that it's a swap that happens step-by-step.
+Using the techniques you learned in the previous lesson, it's now your turn to figure out how to perform an Ordinal swap on three values.
 
 ## The Trial
 
