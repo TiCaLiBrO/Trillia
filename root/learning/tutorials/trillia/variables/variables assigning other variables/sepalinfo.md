@@ -12,8 +12,8 @@ Because x = 10, and y = x, y = 10 too.
 
 Checklist
 
-- Create a variable named `apple_count` and set it to be equal to 5.
-- On the next line, create another variable named `orange_count`, and set it to be equal to the first variable.
+- Create a variable named `apple_count` and set it to be equal to `5`.
+- On the next line, create another variable named `orange_count`, and set it to be equal to `apple_count`.
 - On the third line, print the value of `orange_count`.
 
 > [!TIP]
