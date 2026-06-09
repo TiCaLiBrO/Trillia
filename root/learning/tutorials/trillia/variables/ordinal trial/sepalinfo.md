@@ -30,13 +30,13 @@ Good luck.
 >     include random
 >     include source_code
 > 
->     assignments_only =
+>     is_only_assignment =
 >         default False
 >         if    all line in lines_of_code
 >         where line in ["a = x", "a = y", "a = z", "x = a", "x = y", "x = z", "x = a", "y = x", "y = z", "z = a", "z = x", "z = y"]
 >         then  return True
 >
->     if assignments_only
+>     if is_only_assignment
 >     then
 >         test_count        = 10
 >         test_passed_count =  0
