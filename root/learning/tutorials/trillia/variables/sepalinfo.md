@@ -39,23 +39,19 @@ You will learn: How assignments are only reflective of the moment that they happ
 
 You will learn: The precedence and propagation of the assignment operator, as well as its futility when right-handed.
 
-> [!CAUTION]
-> Beyond this point is currently under rework.
-> Use this resource at your own risk.
-
 ## Lesson 7
 [/ordinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20swapping/sepalinfo.md)
 
 You will learn: How to swap two variables' values
 
+> [!CAUTION]
+> Beyond this point is currently under rework.
+> Use this resource at your own risk.
+
 ## Trial 1
 [/ordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20trial/sepalinfo.md)
 
 You will test: Your ability to swap variables.
-
-// a more advanced three-variable or four-variable swap.
-
-<!-- The previous lesson is a warm-up before the trial. Have the Trial be an extended version with 4 variables? -->
 
 ## Lesson 8
 [/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
