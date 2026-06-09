@@ -2,7 +2,7 @@
 
 ## Prelude
 
-In math, you cannot usually declare something and then later declare it as some other value. Usually, values in math are *constant* (foreshadowing -> [\trillia/mutability/constants]).
+In math, you usually cannot define something and then later reassign it a different value. Usually, values in math are *constant* (foreshadowing -> [\trillia/mutability/constants]).
 
 Trillia lets you reassign new values to variables.
 To do so, all you need to do is assign the variable a new value, and the old value will be forgotten.
