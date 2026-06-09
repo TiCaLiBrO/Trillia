@@ -14,6 +14,9 @@ You will learn: What variables are, what their default values are, and how to as
 
 You will read: The rules for naming variables and some conventions.
 
+> ![NOTE]
+> Bookmark for finished lessons
+
 ## Lesson 2
 [/string assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/string%20assignment/sepalinfo.md)
 
