@@ -73,7 +73,7 @@ The following are examples of valid names:
 
 Some of these are *pretty bad* names, but all are technically allowed.
 
-## The Task
+## Reading Comprehension
 
 This task is a bit different.
 When you're ready, write `start` and run it to be transferred to a series of questions.
