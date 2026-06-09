@@ -48,11 +48,6 @@ You will learn: The precedence and propagation of the assignment operator, as we
 
 You will learn: How to swap two variables' values
 
-Notice, though, that we were only able to change one object per line. If you wish to do multiple assignments on a single line, you should either use `,` or `;` to separate assignments.
-
-    a = b; b = c
-This is actually two lines of code just made to look like a single line. It is `a = b`, and then a second line `b = c`. This one has order. We put `b`'s value into `a` first, and then we put `c`'s value into `b`. We read from `b` in the first line, then write to `b` in the second.
-
 ## Trial 1
 [/ordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20trial/sepalinfo.md)
 
