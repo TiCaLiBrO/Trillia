@@ -22,7 +22,7 @@ Here's the same code, but cleaned up a bit:
     vertex_count = 8
     face_count   = 6
 
-One potential problem with using many single-letter names is that if someone later decides to use `v` to represent volume, they'll accidentally be using the same variable that's used for vertices!
+One potential problem with using many single-letter names is that if someone later decides to use `v` to represent volume, they'll accidentally be using the same variable `v` that's used for vertices!
 This can ruin your code, and it's often very difficult to debug.
 
 ## Naming Conventions
