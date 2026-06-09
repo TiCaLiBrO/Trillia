@@ -62,7 +62,7 @@ Then you copied the value of Bob's old toy into `alice_toy`, so they were able t
 >         sepal_execute
 >         if   bob_toy   = test[2]
 >         and  alice_toy = test[1]
->         then test_passed + 1
+>         then test_passed_count + 1
 >
 >     if   test_passed_count = length(tests)
 >     then lesson_passed     = True
