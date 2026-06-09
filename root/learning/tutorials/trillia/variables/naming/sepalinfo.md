@@ -106,7 +106,7 @@ Answer `True` or `False`.
 >                 print("Variable names may contain numbers: True or False?")
 >                 when  source_code   = "False"
 >                 catch lesson_passed = True
->     if lesson_passed = True
+>     if   lesson_passed = True
 >     then print("Lesson passed.")
 >     else print("Lesson failed, try again.")
 > 
