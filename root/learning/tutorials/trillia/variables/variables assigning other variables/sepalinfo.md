@@ -24,8 +24,10 @@ Checklist
 > Invisible within SEPAL.
 >
 >     try   sepal_execution
->     when  lines_of_code = "apple_count = 5\norange_count = apple_count\nprint(orange_count)"
->     catch lesson_passed = True
+>     when  lines_of_code[1] has "apple_count"  and lines_of_code[1] has "=" and lines_of_code[1] has "5"
+>     and   lines_of_code[2] has "orange_count" and lines_of_code[2] has "=" and lines_of_code[2] has "apple_count"
+>     and   lines_of_code[3] = "print(orange_count)"
+>     catch lesson_passed    = True
 >
 > [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/reassignment/sepalinfo.md)
 
