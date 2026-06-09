@@ -4,7 +4,7 @@
 
 Ordinal swapping is when you have two variables that need to be swapped, and you use a third variable (*often called an auxiliary variable*) to help them swap values.
 
-It's called *Ordinal* because each step happens in order. Step 1, then step 2, then step 3.
+It's called *Ordinal* because each step happens in order. First step, then second step, then third step.
 This is the manual way to swap two values.
 You will eventually learn a much faster way.
 
