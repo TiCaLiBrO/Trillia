@@ -6,32 +6,33 @@ Using the techniques you learned in the previous lesson, it's now your turn to f
 
 ## The Trial
 
-Using the methods that you are familiar with, you can have two variables, `x` and `y`.
-You will need to create a third variable, `z` that can be used to copy the data from `x` and `y`.
+In the previous lesson, you had two variables that you wanted to swap.
+In this trial, you will swap the values of three variables and use one auxiliary variable.
 
-In this trial, you are limited to three variables.
+In this trial, you are given four variables: `x`, `y`, `z`, and `a`.
+You must use only those four variables.
+Your task is to give `y` `x`'s value, `z`, `y`'s value, and `x` `z`'s value.
 
-Your program already has these two lines of code written:
+Just like the previous assignment, the values of `x`, `y`, and `z` are unknown.
 
-    x = value1
-    y = value2
-
-You don't know the values of `value1` and `value2`.
-Just write the program as if you had already set the values of x and y.
+Just write the program as if you had already set the values of x, y, and z.
 Also, this trial will print for you, so you don't need to worry about print statements either.
 You should only be concerned with how you're going to swap x and y, not with setting them up.
-your only statements should be swaps: `"x = y"`, `x = z`, `y = x`, `y = z`, `z = x`, or `z = y`.
+Your only statements should be swaps: `"a = x"`, `"a = y"`, `"a = z"`, `"x = a"`, `"x = y"`, `"x = z"`, `"x = a"`, `"y = x"`, `"y = z"`, `"z = a"`, `"z = x"`, or `"z = y"`.
 
 The rest is up to you.
+
 Good luck.
 
 > [!IMPORTANT]
 > Invisible within Sepal.
+>
+>     include random
 > 
 >     swaps_only =
 >         default False
 >         if    all line in lines_of_code
->         where line in ["x = y", "x = z", "y = x", "y = z", "z = x", "z = y"]
+>         where line in ["a = x", "a = y", "a = z", "x = a", "x = y", "x = z", "x = a", "y = x", "y = z", "z = a", "z = x", "z = y"]
 >         then  return True
 >
 >     if swaps_only
