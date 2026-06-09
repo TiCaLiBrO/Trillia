@@ -28,6 +28,7 @@ Good luck.
 > Invisible within Sepal.
 >
 >     include random
+>     include source_code
 > 
 >     swaps_only =
 >         default False
