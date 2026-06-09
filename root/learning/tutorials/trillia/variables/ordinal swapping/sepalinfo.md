@@ -4,6 +4,10 @@
 
 Ordinal swapping is when you have two variables that need to be swapped, and you use a third variable (*often called an auxiliary variable*) to help them swap values.
 
+It's called *Ordinal* because each step happens in order. Step 1, then step 2, then step 3.
+This is the manual way to swap two values.
+You will eventually learn a much faster way.
+
 ## The Task:
 
 In this assignment, Alice and Bob each have a toy that they want to trade.
