@@ -45,7 +45,7 @@ If your variable represents how much something costs, you can name the variable 
 
 ### Snake Case
 In Trillia, snake_case is the proper naming convention for variables.
-Snake uses all lowercase letters, and between words, you use `_` instead of spaces.
+Snake case uses all lowercase letters, and between words, you use `_` instead of spaces.
 
 So, 'quote of the day' becomes `quote_of_the_day`, hyperbolic time chamber becomes `hyperbolic_time_chamber`, and so on.
 We use `_` between words because it makes it easier to tell that it's a single object.
