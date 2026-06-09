@@ -110,7 +110,7 @@ Answer `True` or `False`.
 >     then print("Lesson passed.")
 >     else print("Lesson failed, try again.")
 > 
-> []
+> [next lesson]
 
 
 
