@@ -37,36 +37,31 @@ Good luck.
 >
 >     if swaps_only
 >     then
->         test1 = [
->             local value1 = 4
->             local value2 = 5
->         ]
+>         test_count        = 10
+>         test_passed_count =  0
+>         tests             = []
+>         for x in 1-test_count
+>             (tests)append([random_integer(1, 100), random_integer(1, 100), random_integer(1, 100)])
 > 
->         test2 = [
->             local value1 = 8
->             local value2 = 6
->         ]
-> 
->         tests = [test1, test2]
->         test_passed_count = 0
-> 
->         test for tests
+>         for test in tests
 >             print("Test " + as_string(test) + ": ")
->             x = tests[test]/value1
->             y = tests[test]/value2
->             sepal_execution
->             if  x = tests[test]/value2
->             and y = tests[test]/value1
+>             x = tests[test][1]
+>             y = tests[test][2]
+>             z = tests[test][3]
+>             sepal_execute
+>             if  x = tests[test][3]
+>             and y = tests[test][1]
+>             and z = tests[test][2]
 >             then
->                 print("Test passed.")
+>                 print("Passed.")
 >                 test_passed_count + 1
 >             else
->                 print("Test failed.")
+>                 print("Failed.")
 > 
 >         passed_or_failed =
->             default "failed."
->             if test_passed_count = length(tests)
->             then return "passed."
+>             default "Failed."
+>             if test_passed_count = test_count
+>             then return "Passed."
 > 
 >         print("Trial " + passed_or_failed)
 >
@@ -76,8 +71,6 @@ Good luck.
 > [next lesson]
 
 
-<!-- // a more advanced three-variable or four-variable swap. -->
-<!-- The previous lesson is a warm-up before the trial. Have the Trial be an extended version with 4 variables? -->
 
 
 
