@@ -49,7 +49,7 @@ Snake case uses all lowercase letters, and between words, you use `_` instead of
 
 So, 'quote of the day' becomes `quote_of_the_day`, hyperbolic time chamber becomes `hyperbolic_time_chamber`, and so on.
 We use `_` between words because it makes it easier to tell that it's a single object.
-For example, `quote` and `day` are two nouns, but we're specifically talking about the `quote_of_the_day`.
+For example, `quote` and `day` are two nouns, but we're specifically talking about the `quote_of_the_day` (which can be refactored into `daily_quote` or `todays_quote`).
 
 ## Naming Rules
 
