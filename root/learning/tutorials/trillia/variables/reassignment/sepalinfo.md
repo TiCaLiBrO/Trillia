@@ -5,7 +5,7 @@
 In math, you usually cannot define something and then later reassign it a different value. Usually, values in math are *constant*.
 
 Trillia lets you reassign new values to variables.
-To do so, all you need to do is assign the variable a new value, and the old value will be forgotten.
+To do so, all you need to do is assign the variable a new value, and the old value will be replaced.
 
 ## The Task
 
