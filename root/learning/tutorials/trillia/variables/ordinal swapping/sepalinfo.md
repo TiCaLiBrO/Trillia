@@ -72,5 +72,5 @@ Then you copied the value of Bob's old toy into `alice_toy`, so they were able t
 >     then lesson_passed     = True
 >     else print("Lesson failed.")
 >     
-> [next lesson] 
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20trial/sepalinfo.md)
 
