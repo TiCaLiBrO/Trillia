@@ -32,7 +32,7 @@ The `=` sign is used to give a value to something.
 > The error happens because `number` is a name that has no definition.
 > When you make a name, that's called a declaration; you're declaring that the name exists.
 > Every time you make a name, you must also define it in some way.
-> You cannot declare a name without also defining it.
+> You are not allowed to declare a name without also defining it.
 
 > [!IMPORTANT]
 > Invisible within SEPAL.
