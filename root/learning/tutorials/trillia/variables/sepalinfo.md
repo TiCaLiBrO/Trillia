@@ -34,9 +34,6 @@ You will learn: How to reassign variables once they have already been given a va
 
 You will learn: How assignments are only reflective of the moment that they happen.
 
-> [!NOTE]
-> Bookmark for finished lessons
-
 ## Lesson 6
 [/chain assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/chain%20assignment/sepalinfo.md)
 
