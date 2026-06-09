@@ -29,7 +29,7 @@ Instead of creating your own variables, for this lesson, some of the code is wri
 `alice_toy` and `bob_toy` are the variables you will be using.
 You aren't told what toys they have that they want to trade.
 
-So for this lesson, you don't have to worry about assigning `bob_toy = monkey` or anything like that.
+So for this lesson, you don't have to worry about assigning `bob_toy = "monkey"` or anything like that.
 And you also don't even know if it is a monkey for this lesson - Alice and Bob want to keep their toy-exchange secret!
 
 ## The Task
