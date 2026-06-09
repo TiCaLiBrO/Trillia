@@ -3,7 +3,7 @@
 ## What Is a Variable?
 
 Variables are names that hold values.
-For example, you can have a name `age` that holds a value of 25.
+For example, you can have a name `age` that holds a value of `25`.
 
 ## The Task
 
