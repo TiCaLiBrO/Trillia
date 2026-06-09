@@ -73,7 +73,7 @@ Then you copied the value of Bob's old toy into `alice_toy`, so they were able t
 >         then test_passed + 1
 >
 >     if   test_passed_count = length(tests)
->     then lesson_passed = True
+>     then lesson_passed     = True
 >     else print("Lesson failed.")
 >     
 > [next lesson] 
