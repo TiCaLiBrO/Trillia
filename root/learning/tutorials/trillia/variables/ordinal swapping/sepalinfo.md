@@ -65,8 +65,8 @@ Then you copied the value of Bob's old toy into `alice_toy`, so they were able t
 >     test_passed_count = 0
 >
 >     for test in tests
->         bob_toy   = test[1]
->         alice_toy = test[2]
+>         bob_toy        = test[1]
+>         alice_toy      = test[2]
 >         sepal_execute
 >         if   bob_toy   = test[2]
 >         and  alice_toy = test[1]
