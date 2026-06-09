@@ -77,3 +77,8 @@ Good luck.
 > [next lesson]
 
 
+<!-- // a more advanced three-variable or four-variable swap. -->
+<!-- The previous lesson is a warm-up before the trial. Have the Trial be an extended version with 4 variables? -->
+
+
+
