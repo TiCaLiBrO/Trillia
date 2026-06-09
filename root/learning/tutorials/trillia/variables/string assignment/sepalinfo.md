@@ -19,11 +19,11 @@ Run the code when you are ready.
 > [!IMPORTANT]
 > Invisible within Sepal.
 >
->     try sepal_execution
->     when source_code has "greeting ="
->     and source_code has "print(greeting)"
->     and standard_output = "Hello"
->     catch lesson_passed = True
+>     try   sepal_execution
+>     when  source_code has "greeting ="
+>     and   source_code has "print(greeting)"
+>     and   standard_output = "Hello"
+>     catch lesson_passed   = True
 > 
 > [next lesson]
 
