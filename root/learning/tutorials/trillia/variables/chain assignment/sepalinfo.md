@@ -8,9 +8,9 @@ This lesson will teach something very important in Trillia, which can be found i
 
 Handedness, also called handage, is the side of an expression on which certain objects are placed.
 
-For example, in `x = y`, `x` is left-handed, while `y` is right-handed because they are on the left and right side of the `=` operator.
+For example, in `x = y`, `x` is *left-handed*, while `y` is *right-handed* because they are on the left and right side of the `=` operator.
 
-One **very** important thing to remember is that only the leftmost object is ever changed in any line of code.
+One **very** important thing to remember is that **only** the leftmost object is ever changed in *any line of code*.
 We'll take a look at an example:
 
     A = B = C = D
@@ -18,9 +18,9 @@ We'll take a look at an example:
 In the code above, Trillia does the following:
 
 - `A = B` (we put `B`'s value into `A`)
-- The expression becomes `A = C = D`
+- Because A now holds B's value, we drop B, and the expression becomes `A = C = D`.
 - `A = C` (we put `C`'s value into `A`)
-- The expression becomes `A = D`
+- The expression becomes `A = D`.
 - `A = D` (we put `D`'s value into `A`)
 
 Notice that we continually changed the value of `A` and nothing else was changed.
@@ -40,6 +40,10 @@ Try it yourself
 
 Then run the code.
 
+> [!CAUTION]
+> Chain assignment is technically legal code, but it's bad practice.
+> In real programs, you should almost never use chained assignments because it harms the readability of your code in most instances.
+> This demonstration is designed only to show that only the left-most object is changed.
 
 > [!IMPORTANT]
 > Invisible within Sepal.
@@ -51,7 +55,6 @@ Then run the code.
 >     and   source_code has "x = y = z"
 >     and   x             = 7
 >     catch lesson_passed = True
-
 
 
 
