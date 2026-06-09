@@ -24,13 +24,13 @@ You will learn: How to assign strings of text to variables.
 
 You will learn: How to use variables to assign values to other variables.
 
-> [!NOTE]
-> Bookmark for finished lessons
-
 ## Lesson 4
 [/reassignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/reassignment/sepalinfo.md)
 
 You will learn: How to reassign variables once they have already been given a value.
+
+> [!NOTE]
+> Bookmark for finished lessons
 
 ## Lesson 5
 [/snapshot assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/snapshot%20assignment/sepalinfo.md)
