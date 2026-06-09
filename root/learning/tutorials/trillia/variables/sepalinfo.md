@@ -42,13 +42,6 @@ You will learn: How assignments are only reflective of the moment that they happ
 
 You will learn: The precedence and propagation of the assignment operator, as well as its futility when right-handed.
 
-Like many other languages, chaining assignments is unintuitive and not recommended, but a demonstration can give insight.
-
-    a = b = c
-This is ***bad code***. This demonstration is just to show how it works.
-The `=` sign works identically to all other operations. It takes the right-handed operand as a copy, and alters the left-handed operand, then pipelines the left-handed operand forward.
-In the statement `a = b = c`, `a = b` happens first, reading the value of `b` and changing `a`'s value. The expression is now simplified. `a = c` is next. We first put `b`'s value into `a`, and now we're putting `c`'s value into `a`. We do this until the line is finished. Notice that we only ever change `a` and read from `b` and `c`. In Trillia, we call `a` an *Ordinal* component, and `b` and `c` are *Cardinal* components.
-
 > [!CAUTION]
 > Beyond this point is currently under rework.
 > Use this resource at your own risk.
