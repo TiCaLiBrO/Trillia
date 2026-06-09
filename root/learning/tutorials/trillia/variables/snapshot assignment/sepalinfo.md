@@ -32,5 +32,6 @@ Feel free to take a look: (foreshadowing -> [\trillia/reactivity])
 >     when  A                     = 20
 >     and   B                     = 10
 >     and   length(lines_of_code) =  5
+>     and   standard_output       = "20\n10"
 >     catch lesson_passed         = True
 >
