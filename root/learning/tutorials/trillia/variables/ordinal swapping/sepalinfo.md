@@ -55,8 +55,8 @@ Then you copied the value of Bob's old toy into `alice_toy`, so they were able t
 > [!IMPORTANT]
 > Invisible within Sepal.
 >
->     test1             = ["Monkey" , "Giraffe"]
->     test2             = ["Chicken", "Shark"  ]
+>     test1             = ["Monkey", "Giraffe"]
+>     test2             = ["Chicken", "Shark"]
 >     tests             = [test1, test2]
 >     test_passed_count = 0
 >
