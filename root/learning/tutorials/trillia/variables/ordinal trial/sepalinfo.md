@@ -27,9 +27,6 @@ Good luck.
 > [!IMPORTANT]
 > Invisible within Sepal.
 >
->     include random
->     include source_code
->
 >     constant assignments = [
 >         "a = x", "a = y", "a = z"
 >         "x = a", "x = y", "x = z"
