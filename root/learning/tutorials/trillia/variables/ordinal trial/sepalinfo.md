@@ -30,7 +30,12 @@ Good luck.
 >     include random
 >     include source_code
 >
->     constant assignments = ["a = x", "a = y", "a = z", "x = a", "x = y", "x = z", "x = a", "y = x", "y = z", "z = a", "z = x", "z = y"]
+>     constant assignments = [
+>         "a = x", "a = y", "a = z"
+>         "x = a", "x = y", "x = z"
+>         "y = a", "y = x", "y = z"
+>         "z = a", "z = x", "z = y"
+>     ]
 > 
 >     is_only_assignment =
 >         default False
