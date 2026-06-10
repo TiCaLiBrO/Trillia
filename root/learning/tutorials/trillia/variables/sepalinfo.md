@@ -44,14 +44,14 @@ You will learn: The precedence and propagation of the assignment operator, as we
 
 You will learn: How to swap two variables' values
 
-> [!CAUTION]
-> Beyond this point is currently under rework.
-> Use this resource at your own risk.
-
 ## Trial 1
 [/ordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20trial/sepalinfo.md)
 
 You will test: Your ability to swap variables.
+
+> [!CAUTION]
+> Beyond this point is currently under rework.
+> Use this resource at your own risk.
 
 ## Lesson 8
 [/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
