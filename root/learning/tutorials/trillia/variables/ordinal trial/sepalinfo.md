@@ -49,7 +49,7 @@ Good luck.
 >         test_passed_count =   0
 >         tests             =  []
 >         for x in 1-test_count
->             (tests)append([random_integer(1, 100), random_integer(1, 100), random_integer(1, 100)])
+>             (tests)append([random_integer(1-100), random_integer(1-100), random_integer(1-100)])
 > 
 >         for test in tests
 >             print("Test " + as_string(test) + ": ")
