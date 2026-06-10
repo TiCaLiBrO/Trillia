@@ -74,7 +74,7 @@ Good luck.
 >         print("Trial " + passed_or_failed)
 >
 >     else
->         print("Attempt failed. Not all lines of code were assingments.")
+>         print("Attempt failed. Not all lines of code were assignments.")
 > 
 > [next lesson]
 
