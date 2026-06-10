@@ -29,18 +29,20 @@ Good luck.
 >
 >     include random
 >     include source_code
+>
+>     constant assignments = ["a = x", "a = y", "a = z", "x = a", "x = y", "x = z", "x = a", "y = x", "y = z", "z = a", "z = x", "z = y"]
 > 
 >     is_only_assignment =
 >         default False
 >         if    all line in lines_of_code
->         where line in ["a = x", "a = y", "a = z", "x = a", "x = y", "x = z", "x = a", "y = x", "y = z", "z = a", "z = x", "z = y"]
+>         where line in assignments
 >         then  return True
 >
 >     if is_only_assignment
 >     then
->         test_count        = 10
->         test_passed_count =  0
->         tests             = []
+>         test_count        = 100
+>         test_passed_count =   0
+>         tests             =  []
 >         for x in 1-test_count
 >             (tests)append([random_integer(1, 100), random_integer(1, 100), random_integer(1, 100)])
 > 
