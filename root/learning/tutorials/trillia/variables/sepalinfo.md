@@ -49,38 +49,28 @@ You will learn: How to swap two variables' values
 
 You will test: Your ability to swap variables.
 
-## Lesson 8
-[/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
-(a, b, = b, a)
-
-You will learn: How to swap two variables Cardinally.
-
 > [!CAUTION]
 > Beyond this point is currently under rework.
 > Use this resource at your own risk.
 
-## Lesson 9
-[/cardinal assignment 1]
+## Lesson 8
+[/cardinal assignment]()
 
 You will learn: The basics of Cardinal assignment.
 
-Cardinal assignment, making your code simpler to write, easier to read, and faster to execute.
-
-    a, b = b, c
-This puts the value of `b` into `a`, and the value of `c` into `b` at the same time, strictly after b and c are copied to temporary objects. The items to the right of the `=` sign are copies of the original values.
-
 (a, b, c = d, d, d)
 (a, b, c = d, e, f)
+
+## Lesson 9
+[/cardinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
+(a, b, = b, a)
+
+You will learn: How to swap two variables Cardinally.
 
 ## Trial 2
 [/cardinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
 
 You will test: Your ability to refactor code so that it is easier to read and faster to execute.
-
-
-// (a, b, c = d, d, d)
-
-// (a, b, c = d, e, f)
 
 // Handage (Ordinal Handage / Cardinal Handage)
 
