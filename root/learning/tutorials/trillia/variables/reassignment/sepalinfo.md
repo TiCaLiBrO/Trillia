@@ -25,6 +25,6 @@ Run your code when ready.
 >     and   f = 20
 >     catch lesson_passed = True
 >
-> []
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/snapshot%20assignment/sepalinfo.md)
 
 
