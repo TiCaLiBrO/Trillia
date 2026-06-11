@@ -110,7 +110,7 @@ Answer `True` or `False`.
 >     then print("Lesson passed.")
 >     else print("Lesson failed, try again.")
 > 
-> [next lesson]
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/string%20assignment/sepalinfo.md)
 
 
 
