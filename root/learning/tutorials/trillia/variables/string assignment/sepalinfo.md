@@ -25,6 +25,6 @@ Run the code when you are ready.
 >     and   standard_output = "Hello"
 >     catch lesson_passed   = True
 > 
-> [next lesson]
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variables%20assigning%20other%20variables/sepalinfo.md)
 
 
