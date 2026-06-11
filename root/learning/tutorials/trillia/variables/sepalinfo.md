@@ -59,13 +59,6 @@ You will test: Your ability to swap variables.
 
 You will learn: How to swap two variables Cardinally.
 
-To swap two variables, you can use `,` commas on both sides of the `=` sign. This cardinalizes the right-hand operands such that they are snapshots of the objects before the operation is performed. This means that it's able to be parallelized.
-
-    a, b = b, a
-This swaps the value of a and b.
-
-The number of arguments on the left side must be the same as the number of arguments on the right side. If they differ, you will get a Pruning Error, telling you that you have wasteful code (something being assigned to nothing, or something not being assigned anything).
-
 ## Lesson 9
 [/cardinal assignment 1]
 
