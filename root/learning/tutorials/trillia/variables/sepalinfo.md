@@ -54,7 +54,7 @@ You will test: Your ability to swap variables.
 > Use this resource at your own risk.
 
 ## Lesson 8
-[/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/tree/main/root/learning/tutorials/trillia/variables/cardinal%20assignment)
+[/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
 
 You will learn: The basics of Cardinal assignment.
 
