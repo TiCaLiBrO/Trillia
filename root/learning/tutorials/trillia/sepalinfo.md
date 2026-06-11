@@ -65,7 +65,7 @@ New Vocabulary:
 
 ## Chapter 3: Comments
 
-[/comments]()
+[/comments](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/sepalinfo.md)
 
 Requirements:
 
