@@ -49,19 +49,14 @@ You will learn: How to swap two variables' values
 
 You will test: Your ability to swap variables.
 
-> [!CAUTION]
-> Beyond this point is currently under rework.
-> Use this resource at your own risk.
-
 ## Lesson 8
-[/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
-
-You will learn: The basics of Cardinal assignment.
-
-## Lesson 9
 [/cardinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20swapping/sepalinfo.md)
 
 You will learn: How to swap two variables Cardinally.
+
+> [!CAUTION]
+> Beyond this point is currently under rework.
+> Use this resource at your own risk.
 
 ## Trial 2
 [/cardinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
