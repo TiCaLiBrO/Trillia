@@ -61,8 +61,6 @@ You will learn: The basics of Cardinal assignment.
 ## Lesson 9
 [/cardinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20swapping/sepalinfo.md)
 
-(a, b, = b, a)
-
 You will learn: How to swap two variables Cardinally.
 
 ## Trial 2
@@ -70,7 +68,6 @@ You will learn: How to swap two variables Cardinally.
 
 You will test: Your ability to refactor code so that it is easier to read and faster to execute.
 
-// Handage (Ordinal Handage / Cardinal Handage)
 
 
 
