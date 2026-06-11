@@ -41,5 +41,5 @@ The `=` sign is used to give a value to something.
 >     when  number      = 12
 >     catch lesson_pass = True
 >
-> [next lesson]
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/naming/sepalinfo.md)
 
