@@ -63,19 +63,24 @@ New Vocabulary:
 > Updates will be made regularly.
 > Stay tuned.
 
+## Chapter 3: Comments
 
-////////////////////////////////////////////////////////////////////
+[/comments]()
 
-[[Introduction to Trillia Chapter 3 Comments]] (3 lessons thus far)
 Requirements:
-- Chapter 1
+
+- Chapter 1: Printing
+
 New Vocabulary:
-- `#...`, `...##`, `#*...*#`
+
+- `#...`
+- `...##`
+- `#*...*#`
 
 <!-- we ought to have the conditional comments be part of the conditions section instead of the entry-level thing -->
 
 <!--
-
+////////////////////////////////////////////
 
 [[Introduction to Trillia Chapter 4 Arithmetic]] (30~ lessons thus far. We might break arithmetic into three chapters: Beginner Arithmetic (`+`,`-`). Intermediate Arithmetic(`*`,`/`), Advanced Arithmetic(`**`,`//`,`\\`))
 Requirements:
