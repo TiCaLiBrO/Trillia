@@ -2,7 +2,7 @@
 
 ## Prelude
 
-You already learned how to assign one variable the value of another, and if you passed the first trial, you've also learned how to swap values manually.
+You already learned how to assign one variable the value of another in [\variables/variables assigning other variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variables%20assigning%20other%20variables/sepalinfo.md), and if you passed the first trial, you've also learned how to swap values manually.
 What you've learned so far is the *slow* way of swapping values.
 
 ## Ordinality in Brief
@@ -16,6 +16,7 @@ There is an order to them that must be followed.
 ## Cardinality in Brief
 
 The name Cardinal stems from cardinal numbers such as 1, 2, and 3.
+These numbers refer to *how many* of something there are, rather than which order they must happen in.
 They are still given unique values, but they aren't necessarily bound to ordering.
 
 You may think of it like a recipe.
@@ -29,46 +30,55 @@ You may think of it like a recipe.
 
 You get the idea.
 
-You need the ingredients before you can throw them, but the order in which you gather the ingredients does not actually matter.
+You need the ingredients before you can throw them at people, but the order in which you gather the ingredients does not actually matter.
 If you had three people, you could send them to the far reaches of the earth to gather all three ingredients simultaneously.
 
 Cardinal just means "can be done at the same time".
 Modern computers can do multiple things at the same time, so usually doing lots of things simultaneously is faster than doing them one at a time.
 
+When you write code that has steps done at the same time, that is called parallelization.
+No other common programming language can do this automatically; it usually requires the programmer to write a lot of extra code to break a problem down into tasks that can be done at the same time.
+Trillia can break problems down automatically, making it extremely fast without making it more complicated to reason about or write.
+
+In Trillia, parallelization is more often referred to as *Cardinalization*.
+
 ## The Task
 
 Before, you had to write the following:
 
-    c = a
-    a = b
-    b = c
+    a = x
+    x = y
+    y = a
 
-All of this just to swap two values.
+All of this, just to swap two values.
 
 Now you will learn a much simpler way:
 
-    a, b = b, a
+    x, y = y, x
 
-This way is much simpler.
-It uses one line instead of three.
-It does not require a third variable.
-It can 
+This way uses one line instead of three, and does not require a third auxiliary variable.
+This process is also faster because `x` and `y` are swapped cardinally rather than ordinally.
+
+The `x` and `y` on the right side are copies of `x` and `y` before the swap ocurrs, and because of that, 
+
+> [!CAUTION]
+> You cannot make a cardinal swap that affects the same object multiple times:
+> 
+>     x, y, x = a, b, c
+>
+> This is not allowed because the statement assigns the value of x multiple times.
+
+> [!CAUTION]
+> Another mistake that can occur is not having the same number of arguments on the left and right side:
+>
+>     a, b, c = 1, 2
+>
+> This is not allowed because `c` doesn't have a partner on the right side.
 
 
-// Talk about the possible error: a, b, a = 1, 2, 3; This causes an error because `a` is assigned twice left-handedly on the same line.
-// Probably better to link to the error.
-
-///////////////////////////////
-
-To swap two variables, you can use `,` commas on both sides of the `=` sign. This cardinalizes the right-hand operands such that they are snapshots of the objects before the operation is performed. This means that it's able to be parallelized.
-
-    a, b = b, a
-This swaps the value of a and b.
-
-The number of arguments on the left side must be the same as the number of arguments on the right side. If they differ, you will get a Pruning Error, telling you that you have wasteful code (something being assigned to nothing, or something not being assigned anything).
 
 
 
-// have a Trial: manual cardinal assignment
-// Handage (Ordinal Handage / Cardinal Handage)
+
+
 
