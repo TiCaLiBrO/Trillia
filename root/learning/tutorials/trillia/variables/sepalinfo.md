@@ -82,7 +82,7 @@ You will test: Your ability to refactor code so that it is easier to read and fa
 
 // (a, b, c = d, e, f)
 
-
+// Handage (Ordinal Handage / Cardinal Handage)
 
 
 
