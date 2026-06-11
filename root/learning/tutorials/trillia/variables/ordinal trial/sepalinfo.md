@@ -32,7 +32,7 @@ Good luck.
 >         "x = a", "x = y", "x = z"
 >         "y = a", "y = x", "y = z"
 >         "z = a", "z = x", "z = y"
->     ]
+>         ]
 > 
 >     is_only_assignment =
 >         default False
