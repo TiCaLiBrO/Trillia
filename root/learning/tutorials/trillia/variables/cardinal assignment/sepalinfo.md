@@ -69,7 +69,7 @@ The `x` and `y` on the right side are copies of `x` and `y` before the swap ocur
 > This is not allowed because the statement assigns the value of x multiple times.
 
 > [!CAUTION]
-> Another mistake that can occur is not having the same number of arguments on the left and right side:
+> The second thing to watch out for is not having the same number of items on the left and right side:
 >
 >     a, b, c = 1, 2
 >
