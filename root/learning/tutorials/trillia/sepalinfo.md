@@ -57,13 +57,12 @@ New Vocabulary:
 - numbers
 
 > [!CAUTION]
-> This section is currently under work.
-> The chapters provided are in a ready state.
+> Chapters beyond this point are currently under work.
+> The chapters provided above are in a ready state.
 > More will be provided, with around 25 chapters in total.
 > Updates will be made regularly.
 > Stay tuned.
 
-<!--
 
 ////////////////////////////////////////////////////////////////////
 
@@ -72,6 +71,11 @@ Requirements:
 - Chapter 1
 New Vocabulary:
 - `#...`, `...##`, `#*...*#`
+
+<!-- we ought to have the conditional comments be part of the conditions section instead of the entry-level thing -->
+
+<!--
+
 
 [[Introduction to Trillia Chapter 4 Arithmetic]] (30~ lessons thus far. We might break arithmetic into three chapters: Beginner Arithmetic (`+`,`-`). Intermediate Arithmetic(`*`,`/`), Advanced Arithmetic(`**`,`//`,`\\`))
 Requirements:
