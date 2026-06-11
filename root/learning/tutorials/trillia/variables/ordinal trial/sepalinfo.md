@@ -73,7 +73,7 @@ Good luck.
 >     else
 >         print("Attempt failed. Not all lines of code were assignments.")
 > 
-> [next lesson]
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20swapping/sepalinfo.md#cardinal-swapping)
 
 
 
