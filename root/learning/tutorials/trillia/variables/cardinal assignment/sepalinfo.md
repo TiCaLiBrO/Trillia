@@ -58,7 +58,14 @@ It can
 // Talk about the possible error: a, b, a = 1, 2, 3; This causes an error because `a` is assigned twice left-handedly on the same line.
 // Probably better to link to the error.
 
+///////////////////////////////
 
+To swap two variables, you can use `,` commas on both sides of the `=` sign. This cardinalizes the right-hand operands such that they are snapshots of the objects before the operation is performed. This means that it's able to be parallelized.
+
+    a, b = b, a
+This swaps the value of a and b.
+
+The number of arguments on the left side must be the same as the number of arguments on the right side. If they differ, you will get a Pruning Error, telling you that you have wasteful code (something being assigned to nothing, or something not being assigned anything).
 
 
 
