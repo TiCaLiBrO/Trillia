@@ -55,6 +55,8 @@ Then run the code.
 >     and   source_code has "x = y = z"
 >     and   x             = 7
 >     catch lesson_passed = True
+>
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20swapping/sepalinfo.md)
 
 
 
