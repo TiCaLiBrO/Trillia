@@ -128,6 +128,7 @@ Requirements:
 // maybe we ought to split these up. also do ordinal programming and cardinal programming.
 // first-class functions (functions being able to be used as objects or variables)
 // higher-order functions (functions being able to return other functions)
+// This is where you get to see the dunder and sunder syntax of functions. __+__ and +_
 
 [[Introduction to Trillia Chapter 10 Recursion]]
 Requirements:
