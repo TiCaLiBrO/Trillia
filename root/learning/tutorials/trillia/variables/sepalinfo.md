@@ -62,7 +62,7 @@ You will learn: The basics of Cardinal assignment.
 (a, b, c = d, e, f)
 
 ## Lesson 9
-[/cardinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20assignment/sepalinfo.md)
+[/cardinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20swapping/sepalinfo.md)
 (a, b, = b, a)
 
 You will learn: How to swap two variables Cardinally.
