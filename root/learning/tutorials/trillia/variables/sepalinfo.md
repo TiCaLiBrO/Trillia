@@ -54,10 +54,6 @@ You will test: Your ability to swap variables.
 
 You will learn: How to swap two variables Cardinally.
 
-> [!CAUTION]
-> Beyond this point is currently under rework.
-> Use this resource at your own risk.
-
 ## Trial 2
 [/cardinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
 
