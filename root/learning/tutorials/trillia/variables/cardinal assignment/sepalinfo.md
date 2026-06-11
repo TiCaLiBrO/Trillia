@@ -62,7 +62,7 @@ This process is also faster because `x` and `y` are swapped cardinally rather th
 The `x` and `y` on the right side are copies of `x` and `y` before the swap ocurrs, and because of that, 
 
 > [!CAUTION]
-> You cannot make a cardinal swap that affects the same object multiple times:
+> You cannot make a cardinal swap that affects the same left-handed object multiple times:
 > 
 >     x, y, x = a, b, c
 >
@@ -75,10 +75,26 @@ The `x` and `y` on the right side are copies of `x` and `y` before the swap ocur
 >
 > This is not allowed because `c` doesn't have a partner on the right side.
 
+## The Task
 
+Now that you know how to write a Cardinal swap, it's time to put that to the test.
 
+### Context
 
+You are writing some code for a fantasy video game.
+The hero can collect items that they find throughout their journey.
+Whenever the hero wants, they can swap the item in their hand with one that is inside their inventory.
 
+You are given two variables: `held_item` and `inventory_item`.
+Use a Cardinal swap to swap them.
 
-
+> [!IMPORTANT]
+> Invisible within Sepal
+>
+>     try   sepal_execute
+>     when  source_code   = "held_item, inventory_item = inventory_item, held_item"
+>     or    source_code   = "inventory_item, held_item = held_item, inventory_item"
+>     catch lesson_passed = True
+> 
+> [next lesson]
 
