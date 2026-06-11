@@ -32,4 +32,5 @@ When you reassigned `A`, you did not reassign `B`.
 >     and   length(lines_of_code) =  5
 >     and   standard_output       = "20\n10"
 >     catch lesson_passed         = True
->
+> 
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/chain%20assignment/sepalinfo.md)
