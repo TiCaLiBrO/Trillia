@@ -54,15 +54,13 @@ You will test: Your ability to swap variables.
 > Use this resource at your own risk.
 
 ## Lesson 8
-[/cardinal assignment]()
+[/cardinal assignment](https://github.com/TiCaLiBrO/Trillia/tree/main/root/learning/tutorials/trillia/variables/cardinal%20assignment)
 
 You will learn: The basics of Cardinal assignment.
 
-(a, b, c = d, d, d)
-(a, b, c = d, e, f)
-
 ## Lesson 9
 [/cardinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20swapping/sepalinfo.md)
+
 (a, b, = b, a)
 
 You will learn: How to swap two variables Cardinally.
