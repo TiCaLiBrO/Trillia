@@ -96,5 +96,5 @@ Use a Cardinal swap to swap them.
 >     or    source_code   = "inventory_item, held_item = held_item, inventory_item"
 >     catch lesson_passed = True
 > 
-> [next lesson]
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
 
