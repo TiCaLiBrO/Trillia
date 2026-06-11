@@ -21,7 +21,7 @@ Good luck.
 > Invisible within Sepal.
 >
 >     test_count = 100
->     tests = []
+>     tests      =  []
 >     for test in 1-test_count
 >         (tests)append(random_integer(1-1000), random_integer(1-1000), random_integer(1-1000), random_integer(1-1000), random_integer(1-1000), random_integer(1-1000), random_integer(1-1000))
 >
