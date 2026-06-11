@@ -48,6 +48,6 @@ Good luck.
 >             else print("Trial Failed. Try again.")
 >     else         print("Trial Failed. Try again.")
 >
-> [\trillia]()
+> [\trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)
 
 <!--    t, u, v, w, x, y, z = u, v, w, x, y, z, t -->
