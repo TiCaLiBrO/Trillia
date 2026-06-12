@@ -1,6 +1,10 @@
 # Comments
 
-
+- Comments
+- Commenting out code (# on the left)
+- Commenting out code (## or ### on the right. tell them that ### is good practice until chapter X where ## is explained)
+- Multi-line comments
+- Commenting out blocks of code
 
 
 
@@ -13,9 +17,9 @@
 //////////
 
 
-[[Introduction to Trillia Chapter 3 Comments Lesson 1 Half Line Comments]]
-[[Introduction to Trillia Chapter 3 Comments Lesson 2 Full Line Comments]]
-[[Introduction to Trillia Chapter 3 Comments Lesson 3 Multi Line Comments]]
+[[Comments Lesson 1 Half Line Comments]]
+[[Comments Lesson 2 Full Line Comments]]
+[[Comments Lesson 3 Multi Line Comments]]
 
 
 
@@ -31,5 +35,5 @@
     inactive code ### comment
     #* multi-line comment / multi-line inactive code *#
 
-    a note - we cannot rely on arithmetic or =. The only thing we know up to this point is print()
+    a note - Requirements -> Chapter 1: Printing
 
