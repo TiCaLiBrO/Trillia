@@ -12,10 +12,6 @@ Comments are the primary way to take notes, warn other programmers, and describe
 
 You will learn: What comments are, why they're useful, how they work, and how to tell them apart from code or text.
 
-//Comments
-//`code # comment`
-//[[Comments Lesson 1 Half Line Comments]]
-
 ## Lesson 2
 
 [/commenting out code]()
