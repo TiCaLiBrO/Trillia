@@ -1,20 +1,33 @@
 # Chapter 4: Arithmetic
 
-
-/////////////////////
-
-In this chapter, you'll learn about comments.
-Comments are the primary way to take notes, warn other programmers, and describe complicated code simply.
+In this chapter, you'll learn how to execute arithmetic operations.
+Numbers are everywhere in programming, and arithmetic is the primary way that you, as a programmer, will be able to work with numbers and values.
 
 ## Lesson 1
 
-[/adding comments](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/adding%20comments/sepalinfo.md)
+[/addition]()
 
-You will learn: What comments are, why they're useful, how they work, and how to tell them apart from code or text.
+You will learn: How to add two numbers.
 
 ## Lesson 2
 
-[/nullifying code](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/nullifying%20code/sepalinfo.md)
 
-You will learn: The *bad* way to turn code into a comment.
+
+// addition
+// subtraction
+// negative numbers
+// positive numbers
+// multiplication
+// 
+
+// Everything in this chapter uses the rational type. Other types will be used in other chapters. Roots and logarithms are very fast because they are low-accuracy for unbounded-sized types.
+// arithmetic is not defined by computers. It's defined by actual mathematics
+// order of operations - left to right only. Universal throughout the language.
+// note: no incrementation operator - because + 1 is clearer. The math library has an increment function.
+// note: no decrementation operator - because - 1 is clearer. The math library has a decrement function.
+
+
+///////////////////////////////////////////
+
+(30~ lessons thus far. We might break arithmetic into three chapters: Beginner Arithmetic (`+`,`-`). Intermediate Arithmetic(`*`,`/`), Advanced Arithmetic(`**`,`//`,`\\`))
 
