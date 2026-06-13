@@ -1,4 +1,4 @@
-# Commenting Out Code
+# Nullifying Code
 
 ## Prelude
 
