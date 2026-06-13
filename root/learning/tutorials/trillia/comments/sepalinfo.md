@@ -14,7 +14,7 @@ You will learn: What comments are, why they're useful, how they work, and how to
 
 ## Lesson 2
 
-[/commenting out code](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/commenting%20out%20code/sepalinfo.md)
+[/nullifying code](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/commenting%20out%20code/sepalinfo.md)
 
 You will learn: The *bad* way to turn code into a comment.
 
