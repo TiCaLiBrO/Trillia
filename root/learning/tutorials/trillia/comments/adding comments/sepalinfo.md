@@ -3,6 +3,8 @@
 ## Prelude
 
 Comments allow programmers to communicate their reasoning, take notes, and describe complicated code in human language.
+They're just messages that exist inside of your code, without actually affecting the code.
+Sometimes code can become very complicated, and so sometimes it can be very nice to read a small note about how something works.
 
 The `#` character is used for creating comments.
 
