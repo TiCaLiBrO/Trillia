@@ -26,7 +26,6 @@ Copy it, and alter it so that the code does not print `Me too`.
 >
 > [next lesson]
 
-//Commenting out code (# on the left)
 
 
 
