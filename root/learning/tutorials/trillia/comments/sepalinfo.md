@@ -3,14 +3,14 @@
 In this chapter, you'll learn about comments.
 Comments are the primary way to take notes, warn other programmers, and describe complicated code simply.
 
-> [!CAUTION]
-> Everything beyond this point is not finished.
-
 ## Lesson 1
 
 [/adding comments](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/adding%20comments/sepalinfo.md)
 
 You will learn: What comments are, why they're useful, how they work, and how to tell them apart from code or text.
+
+> [!CAUTION]
+> Everything beyond this point is not finished.
 
 ## Lesson 2
 
