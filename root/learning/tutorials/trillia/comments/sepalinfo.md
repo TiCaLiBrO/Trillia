@@ -15,14 +15,14 @@ You will learn: What comments are, why they're useful, how they work, and how to
 
 You will learn: The *bad* way to turn code into a comment.
 
-> [!CAUTION]
-> Everything beyond this point is not finished.
-
 ## Lesson 3
 
 [/full line comments](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/full%20line%20comments/sepalinfo.md)
 
 You will learn: The *proper* way to turn code into a comment.
+
+> [!CAUTION]
+> Everything beyond this point is not finished.
 
 ## Lesson 4
 
