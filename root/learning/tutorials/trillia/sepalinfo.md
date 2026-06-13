@@ -207,10 +207,6 @@ self
 // `main` needs to exist, but it also needs to be its own library. This is because it grants your program a single instance of pre-runtime input. It turns your entire program into a function with parameters, meaning that it is controllable from the outside. It's not as 'weak' as general input. In some ways it's still deterministic per program run, but it's strictly weaker than fully sandboxing your program and not allowing any input. Maybe we just use the self keyword as the function's name instead of main. (a)self(b) = a + b.
 
 
-Declaration: A;
-Maybe we should save declaration for when we get to fixed sizes and types.
-
-
 
 in / within / has
 WE NEED A SECTION ON STRICT VS PROTO TYPES
@@ -218,9 +214,16 @@ overflow, saturate, ;
 //static ??? not sure if static is opt in or opt out (or opt at all. maybe not part of base Trillia)
 //dynamic ??? maybe Trillia is static by default, and dynamic as opt in. idk.
 
-// whitespace and precedence will be taught in the operations chapter.
+// whitespace and precedence will be taught in the operations chapter. Maybe the functions chapter???
 
 // maybe we should merge debugging and comments. They are both related to codebase cleanliness and clarifying things.
+
+
+one thing about the design philosophy of all chapters:
+If a chapter is more than 20 lessons long, it's too long. Break it apart into smaller categories.
+If a chapter is less than 5 lessons, merge it with something else because it's too short.
+5-10 lessons is optimal.
+
 
 -->
 
