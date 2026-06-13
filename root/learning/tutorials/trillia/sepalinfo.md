@@ -81,21 +81,12 @@ New Vocabulary:
 
 ## Chapter 4: Arithmetic
 
-[/arithmetic]()
+[/arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/arithmetic/sepalinfo.md)
 
 Requirements:
 
 - Chapter 1: Printing
 
-New Vocabulary:
-
-
-<!--
-////////////////////////////////////////////
-
-[[Introduction to Trillia Chapter 4 Arithmetic]] (30~ lessons thus far. We might break arithmetic into three chapters: Beginner Arithmetic (`+`,`-`). Intermediate Arithmetic(`*`,`/`), Advanced Arithmetic(`**`,`//`,`\\`))
-Requirements:
-- Chapter 1
 New Vocabulary:
 - `+_`, `-_`, `__+__`, `__-__`, `__delta__`, `__*__`, `__/__`, `__**__`, `__//__`, `__\\__`
 - `__/___`, `__/^__`, `__/~__`, `__/%__`
@@ -103,9 +94,8 @@ New Vocabulary:
 - `__\\___`, `__\\^__`, `__\\~__`, `__\\%__`
 - `__`, `_^`, `_~`, `_%`
 
-This is for the addition chapter.
-// We'll do another example with addition to make it clearer: `x + y + z`. Start with `x`, then add `y` to it. This changes `x` directly, but the `y` is Cardinal, so the expression only reads `y`, and never alters it. Then we add `x + z`. This entire expression is a relative assignment of `x`. Notice that in both examples, we took the left-most object and continuously altered it by performing operations on it and moving it rightward. All operations in Trillia behave this way, and assignment is no exception.
-
+<!--
+////////////////////////////////////////////
 
 [[Introduction to Trillia Chapter 5 Debugging]]
 Requirements:
