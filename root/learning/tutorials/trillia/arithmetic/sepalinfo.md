@@ -11,14 +11,89 @@ You will learn: How to add two numbers.
 
 ## Lesson 2
 
+[/subtraction]()
 
+You will learn:
 
+## Lesson 3
+
+[/parentheses]()
+
+You will learn:
+
+## Lesson 4
+
+[/negative numbers]()
+
+You will learn:
+
+## Lesson 5
+
+[/absolute value]()
+
+You will learn:
+
+## Lesson 6
+
+[/delta]()
+
+You will learn:
+
+## Trial 1
+
+[]()
+
+You will _: ---
+
+////////////////////////////////////
+
+BASIC ARITHMETIC
+6
 // addition
 // subtraction
+// parentheses --- 10 - 5 - 5 = 0. 10 - (5 - 5) = 10
 // negative numbers
-// positive numbers
+// positive numbers --- after negative numbers because -10 is more necessary than +10 if 10 is the same as +10. Maybe the example will be +(-10) --- absolute value
+// delta --- explain it as a subtraction that always gives a positive result --- maybe explain it as being the same as +(A - B)
+
+INTERMEDIATE ARITHMETIC
+15
 // multiplication
-// 
+// division --- example: 10 / 2 = 5. Don't jump into decimal numbers just yet
+// decimal numbers --- 5 / 2 = 2.5
+// repeating decimal numbers --- 1 / 3 = 0.(3)
+// rounding division
+// floor division
+// ceiling division
+// rounded numbers
+// floored numbers
+// ceiling numbers
+// percents
+// factorial
+// ratios
+// remainder division
+// remainder numbers
+
+// how to do mean average manually ((a + b + c) / 3)
+// how to do copy_sign manually. A = 15 and B = -20... (A * (B / +(B)))
+
+ADVANCED ARITHMETIC
+11
+// exponentiation
+// radication
+// rounded radication
+// floored radication
+// ceiling radication
+// remainder radication
+// logarithmitization
+// rounded logarithmitization
+// floored logarithmitization
+// ceiling logarithmitization
+// remainder logarithmitization
+
+// how to do geometric mean manually ((a * b * c) // 3)
+
+above: 32 chapters
 
 // Everything in this chapter uses the rational type. Other types will be used in other chapters. Roots and logarithms are very fast because they are low-accuracy for unbounded-sized types.
 // arithmetic is not defined by computers. It's defined by actual mathematics
