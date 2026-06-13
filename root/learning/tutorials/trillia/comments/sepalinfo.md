@@ -20,13 +20,9 @@ You will learn: The *bad* way to turn code into a comment.
 
 ## Lesson 3
 
-[/full line comments]()
+[/full line comments](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/full%20line%20comments/sepalinfo.md)
 
 You will learn: The *proper* way to turn code into a comment.
-
-//Commenting out code (## or ### on the right. tell them that ### is good practice until chapter X where ## is explained)
-//[[Comments Lesson 2 Full Line Comments]]
-//`comment ### comment (usually telling why the left code has been commented out)`
 
 ## Lesson 4
 
