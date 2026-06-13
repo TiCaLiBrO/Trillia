@@ -74,28 +74,46 @@ Requirements:
 New Vocabulary:
 
 - `#...`
-- `...##`
+- `...###...`
 - `#*...*#`
-
-<!-- we ought to have the conditional comments be part of the conditions section instead of the entry-level thing -->
 
 ## Chapter 4: Arithmetic
 
-[/arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/arithmetic/sepalinfo.md)
+[/basic arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/arithmetic/sepalinfo.md)
 
 Requirements:
 
 - Chapter 1: Printing
 
 New Vocabulary:
-- `+_`, `-_`, `__+__`, `__-__`, `__delta__`, `__*__`, `__/__`, `__**__`, `__//__`, `__\\__`
-- `__/___`, `__/^__`, `__/~__`, `__/%__`
-- `__//___`, `__//^__`, `__//~__`, `__//%__`
-- `__\\___`, `__\\^__`, `__\\~__`, `__\\%__`
-- `__`, `_^`, `_~`, `_%`
+- `__+__`
+- `__-__`
+- `()` parentheses
+- `-_`
+- `+_`
+- `__delta__`
+
+
+
 
 <!--
 ////////////////////////////////////////////
+
+
+
+
+INTERMEDIATE ARITHMETIC
+- `__*__`, `__/__`
+- `__/___`, `__/^__`, `__/~__`, `__/%__`
+- `__`, `_^`, `_~`, `_%`
+
+ADVANCED ARITHMETIC
+- `__**__`, `__//__`, `__\\__`
+- `__//___`, `__//^__`, `__//~__`, `__//%__`
+- `__\\___`, `__\\^__`, `__\\~__`, `__\\%__`
+
+
+
 
 [[Introduction to Trillia Chapter 5 Debugging]]
 Requirements:
@@ -108,6 +126,11 @@ Requirements:
 - Chapter 5
 New Vocabulary:
 - `if`, `then`, `else`, `unless`
+// objects defined inside of conditions only have a lifetime within the branch.
+
+<!-- we ought to have the conditional comments ## be part of the conditions section instead of the entry-level thing -->
+
+<!--
 
 [[Introduction to Trillia Chapter 7 Reactivity]]
 Requirements:
@@ -136,6 +159,7 @@ Requirements:
 - Chapter 8, 9
 RECURSION
 repeat do
+// intermediate arithmetic might be a requirement. Multiplication is essentially + over and over, so it gets the idea through.
 
 [[Introduction to Trillia Chapter 11 Lists]]
 Requirements:
@@ -145,6 +169,7 @@ for from to where has in within after at before end first last start previous ne
 [[Introduction to Trillia Chapter 12 Bitwise Operations]]
 Requirements:
 - Chapter 8
+// intermediate arithmetic might be a requirement. Multiplication is a good way to explain &. Subtraction is \. delta is ^. and addition is |.
 
 [[Introduction to Trillia Chapter 13 Scope]]
 Requirements:
@@ -201,6 +226,10 @@ self
 // Read Only Objects (constant)
 - constant
 - mutable
+
+// Types
+
+// hidden (objects that are not allowed to be read)
 
 // conditional comments (for testing, debugging, unit tests, and so on) `code ## condition` and `#* code *# condition` Requires chapter 8 and 14.
 // Write Only Objects (maybe only allowed inside of the Q library)
