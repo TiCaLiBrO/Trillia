@@ -16,13 +16,13 @@ You will learn: What comments are, why they're useful, how they work, and how to
 
 [/commenting out code](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/commenting%20out%20code/sepalinfo.md)
 
-You will learn: ---
+You will learn: The *bad* way to turn code into a comment.
 
 ## Lesson 3
 
 [/full line comments]()
 
-You will learn: ---
+You will learn: The *proper* way to turn code into a comment.
 
 //Commenting out code (## or ### on the right. tell them that ### is good practice until chapter X where ## is explained)
 //[[Comments Lesson 2 Full Line Comments]]
