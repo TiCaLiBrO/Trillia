@@ -79,6 +79,17 @@ New Vocabulary:
 
 <!-- we ought to have the conditional comments be part of the conditions section instead of the entry-level thing -->
 
+## Chapter 4: Arithmetic
+
+[/arithmetic]()
+
+Requirements:
+
+- Chapter 1: Printing
+
+New Vocabulary:
+
+
 <!--
 ////////////////////////////////////////////
 
