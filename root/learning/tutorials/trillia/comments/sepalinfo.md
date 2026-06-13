@@ -9,14 +9,14 @@ Comments are the primary way to take notes, warn other programmers, and describe
 
 You will learn: What comments are, why they're useful, how they work, and how to tell them apart from code or text.
 
-> [!CAUTION]
-> Everything beyond this point is not finished.
-
 ## Lesson 2
 
 [/nullifying code](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/nullifying%20code/sepalinfo.md)
 
 You will learn: The *bad* way to turn code into a comment.
+
+> [!CAUTION]
+> Everything beyond this point is not finished.
 
 ## Lesson 3
 
