@@ -73,9 +73,8 @@ INTERMEDIATE ARITHMETIC
 // ratios
 // remainder division
 // remainder numbers
-
-// how to do mean average manually ((a + b + c) / 3)
-// how to do copy_sign manually. A = 15 and B = -20... (A * (B / +(B)))
+//// how to do mean average manually ((a + b + c) / 3)
+//// how to do copy_sign manually. A = 15 and B = -20... (A * (B / +(B)))
 
 ADVANCED ARITHMETIC
 11
@@ -90,8 +89,7 @@ ADVANCED ARITHMETIC
 // floored logarithmitization
 // ceiling logarithmitization
 // remainder logarithmitization
-
-// how to do geometric mean manually ((a * b * c) // 3)
+//// how to do geometric mean manually ((a * b * c) // 3)
 
 above: 32 chapters
 
@@ -103,6 +101,12 @@ above: 32 chapters
 
 
 ///////////////////////////////////////////
+
+// also talk about ordinand and cardinand.
+
+
+
+
 
 (30~ lessons thus far. We might break arithmetic into three chapters: Beginner Arithmetic (`+`,`-`). Intermediate Arithmetic(`*`,`/`), Advanced Arithmetic(`**`,`//`,`\\`))
 
