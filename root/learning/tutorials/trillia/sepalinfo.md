@@ -38,7 +38,7 @@ New Vocabulary:
 - `print()`
 - `printn()`
 - `\n`
-- `""` strings
+- `"..."` strings
 
 ## Chapter 2: Variables
 
@@ -88,7 +88,7 @@ Requirements:
 New Vocabulary:
 - `__+__`
 - `__-__`
-- `()` parentheses
+- `(...)` parentheses
 - `-_`
 - `+_`
 - `__delta__`
