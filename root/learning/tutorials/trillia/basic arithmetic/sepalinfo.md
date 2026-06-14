@@ -1,6 +1,6 @@
-# Chapter 4: Arithmetic
+# Chapter 4: Basic Arithmetic
 
-In this chapter, you'll learn how to execute arithmetic operations.
+In this chapter, you'll learn how to execute basic arithmetic operations.
 Numbers are everywhere in programming, and arithmetic is the primary way that you, as a programmer, will be able to work with numbers and values.
 
 ## Lesson 1
