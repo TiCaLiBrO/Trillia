@@ -77,7 +77,7 @@ New Vocabulary:
 - `...###...`
 - `#*...*#`
 
-## Chapter 4: Arithmetic
+## Chapter 4: Basic Arithmetic
 
 [/basic arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/arithmetic/sepalinfo.md)
 
