@@ -35,6 +35,24 @@ You will learn: The new line escape character.
 
 You will test: Your ability to print flexibly.
 
+## Additional Material
+
+For Sepal, you do not have to use `include output` in order to print.
+Keep in mind that for real Trillia programs, you have to include the `output` library or the `standard` library (which contains the output library) in order to be given its functionality.
+
+The sections beyond this point are not part of the course.
+These are designed for learners who want to read up on more precise details on how printing works.
+
+The concept and reference branches tell you exactly how everything works with more specific details.
+
+REFERENCE BRANCH:
+[root/refining/reference/.../print]
+[root/refining/reference/.../printn]
+[root/refining/reference/.../strings]
+
+CONCEPTS BRANCH:
+[\concepts/.../output]
+[\concepts/.../printing]
 
 
 
