@@ -45,7 +45,7 @@ These are designed for learners who want to read up on more precise details on h
 
 The concept and reference branches tell you exactly how everything works with more specific details.
 
-REFERENCE BRANCH:
+### Reference Branch
 
 [root/refining/reference/.../print]
 
@@ -53,7 +53,7 @@ REFERENCE BRANCH:
 
 [root/refining/reference/.../strings]
 
-CONCEPTS BRANCH:
+### Concepts Branch
 
 [\concepts/.../output]
 
