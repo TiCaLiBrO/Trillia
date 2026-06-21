@@ -13,6 +13,10 @@ The notation is `A + B`, with the addition symbol in between the two values that
 
 Your task is to add two numbers together and print the result.
 
+> [!CAUTION]
+> Be careful. Make sure there is a space on both sides of the `+` sign.
+> If you type `6+3`, your code will not be recognized.
+
 - Write a `print()` statement.
 - Inside the parentheses, insert `6 + 3`.
 - Run the program when ready.
