@@ -12,6 +12,9 @@ So in the example of `3 - 1`, 1 gets taken away from 3, resulting in a value of 
 
 Your task is to subtract one number from another and print the result.
 
+> [!CAUTION]
+> Be careful. Make sure there is a space on both sides of the `-` sign.
+
 - Write a `print()` statement.
 - Inside the parentheses, insert `9 - 3`.
 - Run the program when ready.
