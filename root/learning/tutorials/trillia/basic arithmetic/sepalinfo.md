@@ -13,7 +13,7 @@ You will learn: How to add two numbers.
 
 [/subtraction]()
 
-You will learn:
+You will learn: How to subtract one value from another.
 
 ## Lesson 3
 
