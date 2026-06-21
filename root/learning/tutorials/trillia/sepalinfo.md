@@ -58,6 +58,7 @@ New Vocabulary:
 - `-_`
 - `+_`
 - `__delta__`
+- numbers
 
 ## Chapter 3: Variables
 
@@ -73,7 +74,6 @@ New Vocabulary:
 - `,`
 - variables
 - names
-- numbers
 
 ## Chapter 4: Comments
 
