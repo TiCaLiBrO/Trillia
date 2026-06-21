@@ -11,7 +11,7 @@ You will learn: How to add two numbers.
 
 ## Lesson 2
 
-[/subtraction]()
+[/subtraction](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/subtraction/sepalinfo.md)
 
 You will learn: How to subtract one value from another.
 
