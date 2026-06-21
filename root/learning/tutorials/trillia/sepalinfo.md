@@ -40,44 +40,10 @@ New Vocabulary:
 - `\n`
 - `"..."` strings
 
-## Chapter 2: Variables
-
-[/variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/sepalinfo.md)
-
-Requirements:
-
-- Chapter 1: Printing
-
-New Vocabulary:
-
-- `__=__`
-- `,`
-- variables
-- names
-- numbers
-
 > [!CAUTION]
-> Chapters beyond this point are currently under work.
-> The chapters provided above are in a ready state.
-> More will be provided, with around 25 chapters in total.
-> Updates will be made regularly.
-> Stay tuned.
+> The basic arithmetic chapter is currently under work.
 
-## Chapter 3: Comments
-
-[/comments](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/sepalinfo.md)
-
-Requirements:
-
-- Chapter 1: Printing
-
-New Vocabulary:
-
-- `#...`
-- `...###...`
-- `#*...*#`
-
-## Chapter 4: Basic Arithmetic
+## Chapter 2: Basic Arithmetic
 
 [/basic arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/arithmetic/sepalinfo.md)
 
@@ -93,6 +59,42 @@ New Vocabulary:
 - `+_`
 - `__delta__`
 
+## Chapter 3: Variables
+
+[/variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/sepalinfo.md)
+
+Requirements:
+
+- Chapter 1: Printing
+
+New Vocabulary:
+
+- `__=__`
+- `,`
+- variables
+- names
+- numbers
+
+## Chapter 4: Comments
+
+[/comments](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/sepalinfo.md)
+
+Requirements:
+
+- Chapter 1: Printing
+
+New Vocabulary:
+
+- `#...`
+- `...###...`
+- `#*...*#`
+
+> [!CAUTION]
+> Chapters beyond this point are currently under work.
+> The chapters provided above are in a ready state.
+> More will be provided, with around 25 chapters in total.
+> Updates will be made regularly.
+> Stay tuned.
 
 
 
