@@ -20,13 +20,13 @@ You will learn: How to subtract one value from another.
 
 ## Lesson 3
 
-[/parentheses](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/parentheses/sepalinfo.md)
+[/negative numbers]()
 
-You will learn:
+You will learn: How to negative numbers are represented and how to make them in expressions.
 
 ## Lesson 4
 
-[/negative numbers]()
+[/parentheses](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/parentheses/sepalinfo.md)
 
 You will learn:
 
