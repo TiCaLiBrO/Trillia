@@ -5,7 +5,7 @@ Numbers are everywhere in programming, and arithmetic is the primary way that yo
 
 ## Lesson 1
 
-[/addition]()
+[/addition](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/addition/sepalinfo.md)
 
 You will learn: How to add two numbers.
 
