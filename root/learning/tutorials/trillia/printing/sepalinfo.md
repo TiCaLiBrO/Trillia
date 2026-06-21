@@ -45,19 +45,22 @@ These are designed for learners who want to read up on more precise details on h
 
 The concept and reference branches tell you exactly how everything works with more specific details.
 
+> [!CAUTION]
+> These links are not in working order.
+> When the pages are developed, they will be accessible.
+
 ### Reference Branch
 
-[root/refining/reference/.../print]
+[root/refining/reference/libraries/high level/output/functions/print]()
 
-[root/refining/reference/.../printn]
+[root/refining/reference/libraries/high level/output/functions/printn]()
 
-[root/refining/reference/.../strings]
+[root/refining/reference/base trillia/symbols/encapsulators/strings]()
 
 ### Concepts Branch
 
-[\concepts/.../output]
+[\concepts/guarantees/quarantine/output]()
 
-[\concepts/.../printing]
 
 
 
