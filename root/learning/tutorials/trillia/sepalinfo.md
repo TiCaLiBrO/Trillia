@@ -45,7 +45,7 @@ New Vocabulary:
 
 ## Chapter 2: Basic Arithmetic
 
-[/basic arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/arithmetic/sepalinfo.md)
+[/basic arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/sepalinfo.md)
 
 Requirements:
 
