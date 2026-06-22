@@ -15,20 +15,20 @@ You will learn: How to add two numbers.
 
 You will learn: How to subtract one value from another.
 
-> [!WARNING]
-> Beyond this is unfinished.
-
 ## Lesson 3
-
-[/negative numbers](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/negative%20numbers/sepalinfo.md)
-
-You will learn: How to negative numbers are represented and how to make them in expressions.
-
-## Lesson 4
 
 [/parentheses](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/parentheses/sepalinfo.md)
 
 You will learn:
+
+> [!WARNING]
+> Beyond this is unfinished.
+
+## Lesson 4
+
+[/negative numbers](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/negative%20numbers/sepalinfo.md)
+
+You will learn: How negative numbers are represented and how to use them in expressions.
 
 ## Lesson 5
 
