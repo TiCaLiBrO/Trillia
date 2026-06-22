@@ -40,9 +40,6 @@ New Vocabulary:
 - `\n`
 - `"..."` strings
 
-> [!CAUTION]
-> The basic arithmetic chapter is currently under work.
-
 ## Chapter 2: Basic Arithmetic
 
 [/basic arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/sepalinfo.md)
