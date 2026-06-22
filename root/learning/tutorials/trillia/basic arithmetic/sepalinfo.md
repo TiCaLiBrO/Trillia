@@ -40,7 +40,7 @@ You will learn: How to get the absolute value of a number or expression.
 
 [/delta]()
 
-You will learn:
+You will learn: How to take the absolute difference between two numbers.
 
 ## Trial 1
 
