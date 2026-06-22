@@ -19,10 +19,7 @@ You will learn: How to subtract one value from another.
 
 [/parentheses](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/parentheses/sepalinfo.md)
 
-You will learn:
-
-> [!WARNING]
-> Beyond this is unfinished.
+You will learn: How to change the order of operations via brackets.
 
 ## Lesson 4
 
@@ -32,9 +29,12 @@ You will learn: How negative numbers are represented and how to use them in expr
 
 ## Lesson 5
 
-[/absolute value]()
+[/absolute value](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/absolute%20value/sepalinfo.md)
 
-You will learn:
+You will learn: How to get the absolute value of a number or expression.
+
+> [!WARNING]
+> Beyond this is unfinished.
 
 ## Lesson 6
 
