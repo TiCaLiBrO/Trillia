@@ -1,4 +1,4 @@
-# Chapter 3: Comments
+# Chapter 4: Comments
 
 In this chapter, you'll learn about comments.
 Comments are the primary way to take notes, warn other programmers, and describe complicated code simply.
