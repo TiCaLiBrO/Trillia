@@ -45,11 +45,10 @@ This means that the entire operation is T(n \\ 2) logarithmic time, scaling as i
 It should be noted that in traditional notation, multiplication, addition, and division are often considered constant time, but in reality, that is a lie.
 This has T(1) pardoned complexity with 3 pardons.
 
-
-
-
-
 ## Subtraction
+
+
+
 
 ## Delta
 
