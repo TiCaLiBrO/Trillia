@@ -10,6 +10,7 @@ If you're familiar with physics, you may have seen delta in a formula before.
 Delta might look a bit intimidating if you're not familiar with it, but it's really easy when you learn what it does.
 
 `A delta B` is the same as `+(A - B)`.
+Make sure there is a space between `delta` and the values it is operating on.
 Put simply, it's the same as subtraction, except you always get a positive answer.
 In many ways, it's even easier than subtraction because you don't have to think about the possibility of negative numbers.
 
