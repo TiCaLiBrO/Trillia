@@ -177,7 +177,7 @@ Requirements:
 Requirements:
 - Chapter 8, 9
 RECURSION
-repeat do
+for
 // intermediate arithmetic might be a requirement. Multiplication is essentially + over and over, so it gets the idea through.
 
 [[Introduction to Trillia Chapter 11 Lists]]
