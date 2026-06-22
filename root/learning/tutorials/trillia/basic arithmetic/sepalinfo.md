@@ -48,6 +48,8 @@ You will learn: How to take the absolute difference between two numbers.
 
 You will test: Your ability to use the basic arithmetic operators properly, and apply precedence to them.
 
+<!--
+
 ////////////////////////////////////
 
 BASIC ARITHMETIC
