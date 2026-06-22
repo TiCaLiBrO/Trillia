@@ -38,15 +38,19 @@ Without this universal property, it can be difficult to tell what, if anything a
 
 You are given this expression:
 
-    13 - 11 + 9 - 7 + 5 - 3 + 1
-    
+    print(100 - 50 - 20 - 10)
 
+Copy the code above and insert brackets to make the result become `80` instead of `20`.
 
+Run the code when ready.
 
 > [!IMPORTANT]
 > Invisible within Sepal.
 >
->     code
+>     try   sepal_execute
+>     when  source_code     = print(100 - ((50 - 20) - 10)) # Fix this later, such that it is more lenient on whitespace.
+>     and   standard_output = 80
+>     catch lesson_passed   = True
 >
 > [next lesson]
 
