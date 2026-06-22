@@ -48,6 +48,12 @@ Requirements:
 
 - Chapter 1: Printing
 
+Chapter Summary:
+	*In this chapter, you will learn how to do arithmetic, reorder operations, and handle numeric values.
+	Why is this important?
+	Because numbers are the most common data that you will be handling inside Trillia.
+	A programmer must have a basic understanding of the rules of arithmetic in the language they are using.*
+
 New Vocabulary:
 - `__+__`
 - `__-__`
