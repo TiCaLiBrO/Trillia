@@ -91,6 +91,7 @@ New Vocabulary:
 - `#...`
 - `...###...`
 - `#*...*#`
+- comments
 
 > [!CAUTION]
 > Chapters beyond this point are currently under work.
