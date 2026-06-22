@@ -20,7 +20,7 @@ You will learn: How to subtract one value from another.
 
 ## Lesson 3
 
-[/negative numbers]()
+[/negative numbers](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/negative%20numbers/sepalinfo.md)
 
 You will learn: How to negative numbers are represented and how to make them in expressions.
 
