@@ -71,6 +71,13 @@ Requirements:
 
 - Chapter 1: Printing
 
+Chapter Summary:
+	*In this chapter, you will learn about variables, naming them, and assigning values to them.
+	You will also learn how to swap values ordinally and cardinally.
+	Why is this important?
+	Variables are the smallest building blocks of runtime memory that a program can have, and mastering them is essential.
+	Assignment is necessary for giving starting values to objects.*
+
 New Vocabulary:
 
 - `__=__`
@@ -85,6 +92,12 @@ New Vocabulary:
 Requirements:
 
 - Chapter 1: Printing
+
+Chapter Summary:
+	*In this chapter, you will learn how to document your code to make it easier to understand.
+	Why is this important?
+	Because leaving behind notes is a good practice for yourself and for others.
+	It will help you understand your own code months later, and it creates good documentation.*
 
 New Vocabulary:
 
@@ -109,12 +122,12 @@ New Vocabulary:
 
 
 INTERMEDIATE ARITHMETIC
-- `__*__`, `__/__`
+- `__*__`,  `__/__`
 - `__/___`, `__/^__`, `__/~__`, `__/%__`
-- `__`, `_^`, `_~`, `_%`
+-   `__`,     `_^`,     `_~`,     `_%`
 
 ADVANCED ARITHMETIC
-- `__**__`, `__//__`, `__\\__`
+- `__**__`,  `__//__`,  `__\\__`
 - `__//___`, `__//^__`, `__//~__`, `__//%__`
 - `__\\___`, `__\\^__`, `__\\~__`, `__\\%__`
 
@@ -132,7 +145,7 @@ Requirements:
 - Chapter 5
 New Vocabulary:
 - `if`, `then`, `else`, `unless`
-// objects defined inside of conditions only have a lifetime within the branch.
+// objects defined inside conditions only have a lifetime within the branch.
 
 <!-- we ought to have the conditional comments ## be part of the conditions section instead of the entry-level thing -->
 
@@ -249,7 +262,7 @@ overflow, saturate, ;
 //static ??? not sure if static is opt in or opt out (or opt at all. maybe not part of base Trillia)
 //dynamic ??? maybe Trillia is static by default, and dynamic as opt in. idk.
 
-// whitespace and precedence will be taught in the operations chapter. Maybe the functions chapter???
+// whitespace will be taught in the functions chapter. I guess.
 
 // maybe we should merge debugging and comments. They are both related to codebase cleanliness and clarifying things.
 
