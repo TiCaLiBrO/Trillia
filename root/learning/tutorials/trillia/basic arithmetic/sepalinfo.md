@@ -44,7 +44,7 @@ You will learn: How to take the absolute difference between two numbers.
 
 ## Trial 1
 
-[basic arithmetic trial]()
+[basic arithmetic trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/basic%20arithmetic%20trial/sepalinfo.md)
 
 You will test: Your ability to use the basic arithmetic operators properly, and apply precedence to them.
 
