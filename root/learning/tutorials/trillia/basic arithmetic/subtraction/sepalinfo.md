@@ -8,6 +8,11 @@ The notation is `A - B`, with the subtraction symbol in between the two values.
 The left side value gets the value on the right side taken away from it.
 So in the example of `3 - 1`, 1 gets taken away from 3, resulting in a value of 2.
 
+> [!NOTE]
+> Trillia does not have increment or decrement operators.
+> Some other languages use `n++` or `n--` as the symbols for incrementation and decrementation.
+> Trillia uses `n + 1` and `n - 1` because these are way easier to read.
+
 ## The Task
 
 Your task is to subtract one number from another and print the result.
