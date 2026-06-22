@@ -21,6 +21,10 @@ This is the default implementation unless specified otherwise.
 
 
 
+[irrationals]()
+[rationals]()
+[integers]()
+[naturals]()
 
 
 
