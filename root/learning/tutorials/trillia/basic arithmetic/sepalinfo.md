@@ -88,13 +88,8 @@ ADVANCED ARITHMETIC
 above: 32 chapters
 
 // Everything in this chapter uses the rational type. Other types will be used in other chapters.
-// arithmetic is not defined by computers. It's defined by actual mathematics
-// order of operations - left to right only. Universal throughout the language.
 // note: no incrementation operator - because + 1 is clearer. The math library has an increment function.
 // note: no decrementation operator - because - 1 is clearer. The math library has a decrement function.
-
-
-///////////////////////////////////////////
 
 // also talk about ordinand and cardinand.
 
