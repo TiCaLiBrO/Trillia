@@ -7,6 +7,8 @@ For example, `-15` is less than `10`, but the absolute value of `-15` is greater
 
 You can get the absolute value of a number by using the `+` operator, prepended to a number.
 
+If you aren't familiar with the term *absolute value*, you can think of it as making a number positive if it wasn't already.
+
 Examples include:
 - `+10`
 - `+(-30)`
