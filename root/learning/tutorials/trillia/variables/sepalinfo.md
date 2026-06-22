@@ -1,4 +1,4 @@
-# Chapter 2: Variables
+# Chapter 3: Variables
 
 In this chapter, you'll learn about variables.
 Variables are the primary way to store data, so they're very important.
