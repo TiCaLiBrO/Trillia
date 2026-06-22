@@ -50,17 +50,6 @@ You will test: Your ability to use the basic arithmetic operators properly, and 
 
 <!--
 
-////////////////////////////////////
-
-BASIC ARITHMETIC
-6
-// addition
-// subtraction
-// parentheses --- 10 - 5 - 5 = 0. 10 - (5 - 5) = 10
-// negative numbers
-// positive numbers --- after negative numbers because -10 is more necessary than +10 if 10 is the same as +10. Maybe the example will be +(-10) --- absolute value
-// delta
-
 INTERMEDIATE ARITHMETIC
 15
 // multiplication
@@ -98,7 +87,7 @@ ADVANCED ARITHMETIC
 
 above: 32 chapters
 
-// Everything in this chapter uses the rational type. Other types will be used in other chapters. Roots and logarithms are very fast because they are low-accuracy for unbounded-sized types.
+// Everything in this chapter uses the rational type. Other types will be used in other chapters.
 // arithmetic is not defined by computers. It's defined by actual mathematics
 // order of operations - left to right only. Universal throughout the language.
 // note: no incrementation operator - because + 1 is clearer. The math library has an increment function.
