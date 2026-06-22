@@ -33,14 +33,14 @@ You will learn: How negative numbers are represented and how to use them in expr
 
 You will learn: How to get the absolute value of a number or expression.
 
-> [!WARNING]
-> Beyond this is unfinished.
-
 ## Lesson 6
 
-[/delta]()
+[/delta](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/delta/sepalinfo.md)
 
 You will learn: How to take the absolute difference between two numbers.
+
+> [!WARNING]
+> Beyond this is unfinished.
 
 ## Trial 1
 
@@ -57,7 +57,7 @@ BASIC ARITHMETIC
 // parentheses --- 10 - 5 - 5 = 0. 10 - (5 - 5) = 10
 // negative numbers
 // positive numbers --- after negative numbers because -10 is more necessary than +10 if 10 is the same as +10. Maybe the example will be +(-10) --- absolute value
-// delta --- explain it as a subtraction that always gives a positive result --- maybe explain it as being the same as +(A - B)
+// delta
 
 INTERMEDIATE ARITHMETIC
 15
