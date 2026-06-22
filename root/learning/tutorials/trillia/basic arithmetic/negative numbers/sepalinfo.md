@@ -7,14 +7,20 @@ Negative numbers are represented by prepending a `-` symbol to a number.
 For example, to turn `5` into negative 5, you write it as `-5`.
 There **must** be no space between the `-` and the number itself.
 
-
-
 > [!NOTE]
 > Only 1 symbol can be prepended.
 > You cannot have `--5`.
 > This is for readability.
 
+> [!NOTE]
+> The `-` symbol is considered a *unary operator*.
+> Unary operators always operate on the objects they are attached to before the rest of the expression.
+> For example `5 + -4` is implicitly the same as `5 + (-4)`.
+
+
 ## The Task
+
+
 
 
 
