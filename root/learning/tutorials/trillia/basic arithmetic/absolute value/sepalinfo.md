@@ -41,6 +41,6 @@ Change the math so that we add the absolute value of `20 - 100` to `10`.
 >     and   standard_output = "90"
 >     catch lesson_passed   = True
 >
-> [next lesson]
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/delta/sepalinfo.md)
 
 
