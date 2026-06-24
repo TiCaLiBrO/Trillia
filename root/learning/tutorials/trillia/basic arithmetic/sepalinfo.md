@@ -39,9 +39,6 @@ You will learn: How to get the absolute value of a number or expression.
 
 You will learn: How to take the absolute difference between two numbers.
 
-> [!WARNING]
-> Beyond this is unfinished.
-
 ## Trial 1
 
 [basic arithmetic trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/basic%20arithmetic%20trial/sepalinfo.md)
