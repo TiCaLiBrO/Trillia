@@ -72,7 +72,7 @@ The following are examples of valid names:
 - `A77FFF7777777777`
 - `diamond_count`
 
-Some of these are *pretty bad* names, but all are technically allowed.
+All but two of these are *pretty bad* names, but all are technically allowed.
 
 ## Reading Comprehension
 
