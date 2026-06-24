@@ -2,7 +2,8 @@
 
 ## Prelude
 
-//
+Time to test your mathematical abilities with a trial.
+Pass the trial, and you will have completed the basic arithmetic chapter.
 
 ## The Trial
 
