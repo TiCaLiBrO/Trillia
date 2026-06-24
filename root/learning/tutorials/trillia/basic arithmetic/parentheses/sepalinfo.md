@@ -52,9 +52,5 @@ Run the code when ready.
 >     and   standard_output = 80
 >     catch lesson_passed   = True
 >
-> [next lesson]
-
-
-
-
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/negative%20numbers/sepalinfo.md)
 
