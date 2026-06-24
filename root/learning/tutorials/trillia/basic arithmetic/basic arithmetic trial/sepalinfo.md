@@ -19,7 +19,7 @@ You are given `10 + 20 + 30 + 40 + 50 + 60 + 1 + 2 + 3 + 4 + 5 + 6`.
 By only adding `-` signs in front of numbers to make them negative, make their sum result in `69`.
 
 ### The third print statement
-You are given four values. 5310000, 10620000, 8016, 8, in that order.
+You are given four values. `5310000`, `10620000`, `8016`, `8`, in that order.
 
 Take the absolute difference of the first two values, the sum of the middle two values, and the difference of the final two values.
 
