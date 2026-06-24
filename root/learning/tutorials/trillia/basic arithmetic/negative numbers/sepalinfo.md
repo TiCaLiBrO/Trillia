@@ -29,5 +29,5 @@ There **must** be no space between the `-` and the number itself.
 >
 >     code
 >
-> [next lesson]
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/absolute%20value/sepalinfo.md)
 
