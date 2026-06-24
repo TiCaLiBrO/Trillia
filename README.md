@@ -106,7 +106,7 @@ This is only possible if the value can be perfectly preserved. Floating points c
 It is highly recommended that you use the `rat` rational type to be able to represent values perfectly.
 
 # 3. Types
-Different data types are best for different tasks. 
+Different data types are best for different tasks.
 Trillia has four numeric types: `natural`, `integer`, `rational`, and `float`. All of these are suffixed by the number of bits used to represent them.
 For example, natX is most often in the forms `nat`, `nat8`, `nat16`, `nat32`, and `nat64`.
 
