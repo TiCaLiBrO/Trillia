@@ -257,7 +257,6 @@ self
 
 
 in / within / has
-WE NEED A SECTION ON STRICT VS PROTO TYPES
 overflow, saturate, ;
 //static ??? not sure if static is opt in or opt out (or opt at all. maybe not part of base Trillia)
 //dynamic ??? maybe Trillia is static by default, and dynamic as opt in. idk.
