@@ -34,4 +34,4 @@ Your task is to subtract one number from another and print the result.
 >     and   length(source_code) = 1
 >     catch lesson_passed       = True
 >
-> [next lesson]
+> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/parentheses/sepalinfo.md)
