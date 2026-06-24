@@ -59,6 +59,7 @@ A valid name:
 - Must always start with a letter a-z or A-Z.
 - May contain letters, numbers 0-9, and underscores `_`.
 - Must end in a letter or number.
+- Must not contain consecutive underscores.
 
 The letters that appear must appear within the English alphabet without accent marks, so `cafe`, `resume`, and `cliche` are proper.
 
