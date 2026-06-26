@@ -115,7 +115,7 @@ New Vocabulary:
 
 ## Chapter 5: Debugging
 
-[/debugging]()
+[/debugging](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/debugging/sepalinfo.md)
 
 Requirements:
 
