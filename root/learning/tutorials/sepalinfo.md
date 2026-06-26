@@ -1,5 +1,7 @@
 # Tutorials
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning]/tutorials
+
 Welcome to the tutorial section. Here, you will learn everything you need to know about Trillia.
 
 The learning material is divided into Courses. Courses are composed of Chapters, and Chapters are composed of Lessons.
