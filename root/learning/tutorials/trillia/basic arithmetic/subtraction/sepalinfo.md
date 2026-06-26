@@ -1,5 +1,7 @@
 # Subtraction
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/[basic arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/sepalinfo.md)/subtraction
+
 ## Prelude
 
 The symbol to represent subtraction is `-`.
@@ -34,4 +36,4 @@ Your task is to subtract one number from another and print the result.
 >     and   length(source_code) = 1
 >     catch lesson_passed       = True
 >
-> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/parentheses/sepalinfo.md)
+> next lesson [\basic arithmetic/parentheses](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/parentheses/sepalinfo.md)
