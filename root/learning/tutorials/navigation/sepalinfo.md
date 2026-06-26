@@ -1,5 +1,7 @@
 # Course 0: Navigation
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/tutorials/navigation
+
 In this tutorial, you will learn the basics of efficiently navigating the manual!
 
 To get here, you used "/navigation" to enter this course.
