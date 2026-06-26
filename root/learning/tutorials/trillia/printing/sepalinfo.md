@@ -37,6 +37,8 @@ You will learn: The new line escape character.
 
 You will test: Your ability to print flexibly.
 
+<!--
+
 ## Additional Material
 
 For Sepal, you do not have to use `include output` in order to print.
@@ -62,7 +64,7 @@ The concept and reference branches tell you exactly how everything works with mo
 
 [\concepts/guarantees/quarantine/output]
 
-
+-->
 
 
 
