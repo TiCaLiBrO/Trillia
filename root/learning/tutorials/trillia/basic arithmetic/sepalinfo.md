@@ -257,6 +257,11 @@ Under the hood, `+-` is just a single bitwise operation to set the sign bit, eve
 
 
 
+## 4.6 Relative Assignment Lines
+In Trillia, for any line of code that starts with a variable and does not assign or reassign that variable, the variable is relatively assigned.
+
+    a + 7 * 2
+This takes `a`, adds `7` to it, then doubles it. That's the new value of `a`. If there are multiple variables on a line, such as in `a * b`, then only the left-most variable is reassigned.
 
 
 
