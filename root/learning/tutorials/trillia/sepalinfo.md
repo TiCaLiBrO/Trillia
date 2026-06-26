@@ -113,6 +113,32 @@ New Vocabulary:
 > Updates will be made regularly.
 > Stay tuned.
 
+## Chapter 5: Debugging
+
+[/debugging]()
+
+Requirements:
+
+- Chapter 2: Basic Arithmetic
+- Chapter 3: Variables
+- Chapter 4: Comments
+   
+Chapter Summary:
+	*In this chapter, you will learn how to quickly figure out what code is doing, even if you don't fully understand it.
+	You will look at some code that you haven't yet learned about, and see its internal mechanisms.
+	Why is this important?
+	Any good programmer is a builder, an inventor, a scientist, and a mathematician - someone who is driven by curiosity, and likes to learn and figure things out.
+	As a programmer, you **will** make mistakes and try to figure out very complicated things.
+	*Debugging* is just the term programmers use for "figuring out something you don't understand", usually with the intention to fix it.
+	This is one of the most powerful skills to learn.*
+
+New Vocabulary:
+
+- `_?`
+- `...???`
+- `?*...*?`
+
+
 
 
 <!--
@@ -134,11 +160,7 @@ ADVANCED ARITHMETIC
 
 
 
-[[Introduction to Trillia Chapter 5 Debugging]]
-Requirements:
-- Chapter 2, 3, 4
-New Vocabulary:
-- `_?`, `??`, `?*...*?`
+
 
 [[Introduction to Trillia Chapter 6 Conditions]]
 Requirements:
@@ -228,6 +250,7 @@ catch try when
 Requirements:
 - Chapter 15, 16
 self
+\ ^ & |
 
 
 
@@ -235,36 +258,37 @@ self
 
 ///////////////////////////////////////////
 
-
-// Cardinal Programming (Pure Functional Programming) (pure)
-- pure
-
-// Ordinal Programming (Mutation and Side Effects) (relative)
-- relative
-
-// Read Only Objects (constant)
+Tags and restrictions:
+- relative (ordinal oriented programming / object oriented programming)
+- pure (cardinal oriented programming / pure functional programming)
 - constant
 - mutable
+- hidden
+- `:` for write-mostly
+- `$` for read-mostly
+- natural
+- integer
+- rational
+- list
+- bag
+- key
+- set
+- static (objects that don't change shape, and get freed at program end. In-place)
+- dynamic (objects that do change shape, and get freed during the program)
+- overflow
+- saturate
+
+
 
 // Types
-
-// hidden (objects that are not allowed to be read)
 
 // conditional comments (for testing, debugging, unit tests, and so on) `code ## condition` and `#* code *# condition` Requires chapter 8 and 14.
 // Write Only Objects (maybe only allowed inside of the Q library)
 // `main` needs to exist, but it also needs to be its own library. This is because it grants your program a single instance of pre-runtime input. It turns your entire program into a function with parameters, meaning that it is controllable from the outside. It's not as 'weak' as general input. In some ways it's still deterministic per program run, but it's strictly weaker than fully sandboxing your program and not allowing any input. Maybe we just use the self keyword as the function's name instead of main. (a)self(b) = a + b.
 
-
-
 in / within / has
-overflow, saturate, ;
-//static ??? not sure if static is opt in or opt out (or opt at all. maybe not part of base Trillia)
-//dynamic ??? maybe Trillia is static by default, and dynamic as opt in. idk.
 
 // whitespace will be taught in the functions chapter. I guess.
-
-// maybe we should merge debugging and comments. They are both related to codebase cleanliness and clarifying things.
-
 
 one thing about the design philosophy of all chapters:
 If a chapter is more than 20 lessons long, it's too long. Break it apart into smaller categories.
