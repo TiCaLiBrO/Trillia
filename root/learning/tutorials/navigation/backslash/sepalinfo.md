@@ -17,6 +17,6 @@ Congratulations!
 >
 > `No path forward. Use \ to go back.`
 >
-> If you're not in SEPAL, [\\\\](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md) will take you back to tutorials.
+> If you're not in SEPAL, [\tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md) will take you back to tutorials.
 
 
