@@ -10,7 +10,7 @@ In this chapter, we won't be fixing code yet, but we will be printing text to ge
 > [!WARNING]
 > Lessons in this course are intended to be done in SEPAL, *not a code editor*.
 > 
-> **Do not exit SEPAL or write your code in a code editor unless instructed to or unless you know what you're doing.**
+> **Do not exit Sepal or write your code in a code editor unless instructed to or unless you know what you're doing.**
 
 If you're reading this inside the terminal, don't worry; you're inside SEPAL already.
 
