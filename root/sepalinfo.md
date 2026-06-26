@@ -19,3 +19,7 @@ This branch also holds practice lessons and projects to work on once you've gone
 This branch handles all of the specifics and minute details that you may forget, such as the name of a function, which library it lives in, what exactly it does, and how it works underneath.
 This branch will often have links to the concepts branch, which you can follow to learn more about why a function behaves in a certain way, given Trillia's philosophy.
 In short, you come here to refine your skills.
+
+
+
+<!-- $\color{Green}{\textsf{Normal, colored text}}$ -->
