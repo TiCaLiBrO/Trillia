@@ -60,21 +60,12 @@ There are *no* objects in Trillia that can be assigned a value without the Assig
 
 If you don't use types, the variable will automatically promote or change type readily as needed. You can use strict types and sizes to ensure that the variable does not change type or size.
 
-    integer32 x = 10
+    x = 10 integer(2 ** 32)
 
 If you use a type without a size, the variable type will remain consistent, but size promotion and demotion will occur when necessary.
 
-    integer x = 120    # this is an 8-bit integer by default because it's the smallest size that can represent this value.
+    x = 120 integer    # this is an 8-bit integer by default because it's the smallest size that can represent this value.
     x = 300            # It was promoted to a 16-bit integer to be able to represent this value.
-
-If you use the `proto` type, you can set a size but not a type. This is similar to a `union` in C.
-
-    proto64 x = 4800
-    x = -0.(3)
-
-You can use the `proto` type without a size to explicitly state that a variable is of an intentionally dynamic type and size instead of being a hastily programmed prototype.
-
-    proto x = "hello"
 
 ## 2.2 Mutability
 
@@ -97,18 +88,18 @@ To claim memory without using it, you must show that this is an intentional acti
 
 If you have a variable with mutability restrictions, you can use a declarative line on that variable with a new mutability rule to specify a deliberate change in mutability.
 
-    mutable x;
+    x mutable
 
 If you wish to cast the type and or size of a variable into another type, you can also do so by using a declarative line.
 
-    natural32 x;
-This is only possible if the value can be perfectly preserved. Floating points can error.
-It is highly recommended that you use the `rat` rational type to be able to represent values perfectly.
+    x natural(2 ** 32)
+This is only possible if the value can be perfectly preserved. Floating point, being often inexact, often error.
+It is highly recommended that you use the `rational` type to be able to represent values perfectly.
 
 # 3. Types
 Different data types are best for different tasks.
-Trillia has four numeric types: `natural`, `integer`, `rational`, and `float`. All of these are suffixed by the number of bits used to represent them.
-For example, natX is most often in the forms `nat`, `nat8`, `nat16`, `nat32`, and `nat64`.
+Trillia has three numeric types: `natural`, `integer`, and `rational`. All of these are suffixed by the number of bits used to represent them.
+For example, natural(X) is most often in the forms `natural`, `natural(2 ** 8)`, `natural(2 ** 16)`, `natural(2 ** 32)`, and `natural(2 ** 64)`.
 
 ## 3.1 Numerics
 
@@ -545,69 +536,6 @@ Function calls are technically also control structures, but aren't usually thoug
 They unconditionally jump you to another part of the code, and then return you back to where you left off.
 In Trillia, you can use the `break` keyword on functions to make them behave similarly to a `goto` statement.
 
-# 6. Debugging
-The `?` operator can be appended to a variable to track and print every change that happens to it from that point in the code onward.
-
-    x = 3
-    x?        # this line is used to explicitly track x
-    while x != 1
-        if x /@ 2 then x / 2 else x * 3 + 1
-
-This prints out:
->>> while x != 1 where x = 3 returns True to while
->>> if x /@ 2 where x = 3 returns False to if
->>> else x * 3 + 1 where x = 3 relatively assigns x = 10
->>> while x != 1 where x = 10 returns True to while
->>> if x /@ 2 where x = 10 returns True to if
->>> then x / 2 where x = 10 relatively assigns x = 5
->>> while x != 1 where x = 5 returns True to while
->>> if x /@ 2 where x = 5 returns False to if
->>> else x * 3 + 1 where x = 5 relatively assigns x = 16
->>> while x != 1 where x = 16 returns True to while
->>> if x /@ 2 where x = 16 returns True to if
->>> then x / 2 where x = 16 relatively assigns x = 8
->>> while x != 1 where x = 8 returns True to while
->>> if x /@ 2 where x = 8 returns True to if
->>> then x / 2 where x = 8 relatively assigns x = 4
->>> while x != 1 where x = 4 returns True to while
->>> if x /@ 2 where x = 4 returns True to if
->>> then x / 2 where x = 4 relatively assigns x = 2
->>> while x != 1 where x = 2 returns True to while
->>> if x /@ 2 where x = 2 returns True to if
->>> then x / 2 where x = 2 relatively assigns x = 1
->>> while x != 1 where x = 1 returns False to while
-It's very verbose and goes through every change for which x is either queried or changed.
-
-Using the `?` operator at the end of a line, with a space between it and the last object, prints out every evaluation and change that occurs on that line.
-
-    x = 3
-    while x != 1
-        if x /@ 2
-        then x / 2 ?
-        else x * 3 + 1
->>> then x / 2 where x = 10 relatively assigns x = 5
->>> then x / 2 where x = 16 relatively assigns x = 8
->>> then x / 2 where x = 8 relatively assigns x = 4
->>> then x / 2 where x = 4 relatively assigns x = 2
->>> then x / 2 where x = 2 relatively assigns x = 1
-
-If you want to monitor every line of code from a starting point to an end point, you can use the `?* *?` debug brackets.
-They behave the same as the end of line `?`.
-
-Using `try` and `(catch??? , except???)`, you can make your program behave differently to avoid a crash.
-
-    when zero_division_error
-    try
-        x / y
-    catch
-        print("invalid input")
-
-If your program has a compiler error, you can use `catch` and `ignore` to let your program run anyway.
-
-    catch proven_pointer_cycle_error
-        ignore
-
-Because many errors usually result in or are caused by `Undefined` values, and because `Undefined` returns `Undefined` when augmented, this can result in accumulation of `Undefined` variables.
 
 # 7. Reactive Variables
 There are four types of reactive variables in Trillia:
@@ -984,9 +912,6 @@ You can have a = if b = c, and that will be valid because b = c is returned to i
 A cool thing about the = inside of if statements is that, oddly, it actually CAN be used for assignment.
 a = if b = c
 This is a valid statement. It defines a based on whether b and c are equal.
-
-# 14. Naming Conventions
-
 
 # 15. Libraries and Imports
 Standard library uses automatic imports as needed; everything else needs manual imports
