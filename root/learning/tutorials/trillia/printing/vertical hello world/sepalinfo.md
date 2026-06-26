@@ -41,7 +41,7 @@ Good luck.
 >     and length(lines_of_output) = 12
 >     catch lesson_passed = True
 >
-> [Back to Trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)
+> Back to [\trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)
 
 
 
