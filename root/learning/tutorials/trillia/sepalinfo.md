@@ -1,5 +1,7 @@
 # Course 1: Trillia
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/trillia
+
 This course teaches the fundamentals of Trillia.
 Really, it teaches the entirety of base Trillia, which is the programming language with nothing added.
 The only extra thing that *is* added on top is output.
