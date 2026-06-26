@@ -1,6 +1,6 @@
 # Tutorials
 
-You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning]/tutorials
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/tutorials
 
 Welcome to the tutorial section. Here, you will learn everything you need to know about Trillia.
 
