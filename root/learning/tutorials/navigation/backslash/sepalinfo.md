@@ -1,5 +1,7 @@
 # Backslash
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[navigation](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/navigation/sepalinfo.md)/backslash
+
 Now that you're in here, typing `/`, you will notice that there is no way forward.
 Don't worry; You're not trapped in here forever.
 
