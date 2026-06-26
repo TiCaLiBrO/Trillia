@@ -1,5 +1,7 @@
 # New Line Print
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/[printing](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/sepalinfo.md)/new line print
+
 In the previous lesson, you used the print function on two different lines of code.
 You may have noticed that only one line of text was printed to the terminal.
 
@@ -32,7 +34,7 @@ The output should be:
 >     when standard_output = "We\nEat\nRocks!"
 >     catch lesson_passed = True
 >
-> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/new%20line%20character/sepalinfo.md)
+> next lesson [\printing/new line character](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/new%20line%20character/sepalinfo.md)
 
 
 
