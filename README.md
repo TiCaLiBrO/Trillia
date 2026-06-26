@@ -212,7 +212,9 @@ The 8 primary bitwise operations are:
 
 `^`    `~^`
 
-`\`    `~`
+`\`    `~\`
+
+`~`
 
 The `&` is a bitwise and. The `|` is a bitwise or. The `^` is a bitwise xor.
 The `\` is a 'lossy xor'. It's a xor gate for which the base can lose 1's but not gain them.
@@ -231,11 +233,6 @@ Using `%` as a suffix divides the number by `100` to give a percent.
 Using `!` as a prefix changes a component of a logical statement to be the inverse. As in `if a and !b`, which can be alternatively written as `if a and not b`, but `!` affects only what it is prefixed to.
 Using `!` as a suffix returns the factorial of that number. So if `g = 4`, then `g!` returns `24`.
 
-## 4.6 Relative Assignment Lines
-In Trillia, for any line of code that starts with a variable and does not assign or reassign that variable, the variable is relatively assigned.
-
-    a + 7 * 2
-This takes `a`, adds `7` to it, then doubles it. That's the new value of `a`. If there are multiple variables on a line, such as in `a * b`, then only the left-most variable is reassigned.
 
 # 5. Control Structures
 The six comparative operators are: `=`, `!=`, `>`, `<`, `>=`, and `<=`.
