@@ -278,7 +278,26 @@ Tags and restrictions:
 - overflow
 - saturate
 
+Most of these "tags" are at the end:
+let x = 12               integer(  2 ** 32)  dynamic  constant  ;
+let y = 0.12             rational            static   constant  ;
+let z = x * y            rational(10 **  4)  static   pure      ;
+They actually restrict the objects they are attached to in the order that they appear.
+The compile-time interpreter helps them not take up extra runtime.
 
+This format is HELLA-auditable, very easy to read, and super efficient.
+
+TYPE:                   string, integer, rational, boolean, natural, float, fixed_point, Undefined, None, set, bag, key, morphic_list, list, morphic_array, array, overflow, saturate
+LIFETIME:               static, dynamic
+MUTABILITY/READABILITY: mutable, constant, pure, relative, hidden
+
+Is it:
+type, lifetime, mutability
+or
+lifetime, type, mutability
+???
+Mutability comes last because you are potentially making an object constant, completely negating its ability to be changed.
+I think it's type, lifetime, mutability.
 
 // Types
 
@@ -294,6 +313,26 @@ one thing about the design philosophy of all chapters:
 If a chapter is more than 20 lessons long, it's too long. Break it apart into smaller categories.
 If a chapter is less than 5 lessons, merge it with something else because it's too short.
 5-10 lessons is optimal.
+
+
+
+#include <stdio.h>
+int main() {
+    char *s = "hello";
+    printf("%s\n", s);
+    return 0;
+}
+
+include standard
+s = "hello"
+printn(s)
+
+
+
+"Love the hardware. Don't marry it."
+
+
+
 
 
 -->
