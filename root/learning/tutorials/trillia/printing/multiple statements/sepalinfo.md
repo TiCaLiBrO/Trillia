@@ -1,5 +1,7 @@
 # Multiple Statements
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/[printing](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/sepalinfo.md)/multiple statements
+
 You've made your first program, and you said hello to the world!
 Now it's time we learn about how to print multiple things.
 
@@ -51,7 +53,7 @@ It executes in reading order.
 > If you are in SEPAL, you will not see this.
 > This code is what is required to pass the lesson.
 >
-> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/new%20line%20print/sepalinfo.md)
+> next lesson [\printing/new line print](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/new%20line%20print/sepalinfo.md)
 
 
 
