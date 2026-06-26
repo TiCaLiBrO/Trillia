@@ -1,5 +1,7 @@
 # New Line Character
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/[printing](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/sepalinfo.md)/new line character
+
 There is another way to print a new line.
 Using `printn`, you can only create a new line at the end of the text.
 
@@ -33,7 +35,7 @@ The other chapters will always be available for you to return to.
 >     and source_code not has "printn"
 >     catch lesson_passed = True
 >
-> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/vertical%20hello%20world/sepalinfo.md)
+> next lesson [\printing/vertical hello world](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/vertical%20hello%20world/sepalinfo.md)
 
 
 
