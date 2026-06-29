@@ -21,7 +21,8 @@ There may not be a single correct way to implement Trillia, but there is a theor
 
 
 
-
+> [!CAUTION]
+> `Stages of Compilation` must be moved into `building your own`.
 The fastest possible model is an ahead-of-time compiler.
 This is the default implementation unless specified otherwise.
 [Stages of Compilation](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/concepts/implementation/stages%20of%20compilation/sepalinfo.md)
