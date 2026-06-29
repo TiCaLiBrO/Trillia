@@ -9,6 +9,12 @@ What defines an implementation of Trillia as being a valid one depends solely on
 
 There may not be a single correct way to implement Trillia, but there is a theoretically optimal way, and that way is described within the manual.
 
+[/building your own trillia implementation]()
+
+[/creating an assembly API for TNA]()
+
+
+
 [/base trillia]()
 
 [/libraries]()
