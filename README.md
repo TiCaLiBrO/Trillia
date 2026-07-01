@@ -15,6 +15,9 @@ There is a focus on eliminating boilerplate and inconsistencies, meaning that ed
 
 Perfect parallelism is automatically prescribed to your code. The way you write your code will implicitly change the way it gets parallelized. Trillia can analyze the shape of your code and prescribe perfect parallelism to it.
 
+Because of its determinism, hardware agnosticism, and automatic parallelization, an API layer can be made between Trillia and any Turing-complete hardware.
+This allows Trillia to automatically exploit CPU cores and GPU cores to do thousands of tasks at the same time, without the programmer needing to worry about manual threading.
+
 Trillia is fully deterministic, safe, and minimal first, and provides escape hatches second. This ensures that you do not shoot yourself in the foot, while still giving you a great deal of power. Trillia has a modern, mature syntax that prioritizes readability of intent, maximizes debuggability, and is highly auditable.
 
 The term *algorithmic language* can be used to describe Trillia, as it is incapable of unbounded loops without importing them. There is a strong focus on bounded design and minimizing complexity.
