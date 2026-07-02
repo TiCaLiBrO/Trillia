@@ -1,5 +1,7 @@
 # Naming
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/[variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/sepalinfo.md)/naming
+
 ## Prelude
 
 When naming a variable, it's always a good idea to give it a suitable name that clearly describes what it does or what it represents.
@@ -111,7 +113,7 @@ Answer `True` or `False`.
 >     then print("Lesson passed.")
 >     else print("Lesson failed, try again.")
 > 
-> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/string%20assignment/sepalinfo.md)
+> next lesson [\variables/string assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/string%20assignment/sepalinfo.md)
 
 
 
