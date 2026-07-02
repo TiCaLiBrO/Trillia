@@ -1,5 +1,7 @@
 # Reassignment
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/[variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/sepalinfo.md)/reassignment
+
 ## Prelude
 
 In math, you usually cannot define something and then later reassign it a different value. Usually, values in math are *constant*.
@@ -25,6 +27,6 @@ Run your code when ready.
 >     and   f = 20
 >     catch lesson_passed = True
 >
-> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/snapshot%20assignment/sepalinfo.md)
+> next lesson [\variables/snapshot assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/snapshot%20assignment/sepalinfo.md)
 
 
