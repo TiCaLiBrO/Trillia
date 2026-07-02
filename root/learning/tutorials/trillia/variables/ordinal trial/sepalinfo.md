@@ -1,5 +1,7 @@
 # Ordinal Trial
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/[variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/sepalinfo.md)/ordinal trial
+
 ## Prelude
 
 Using the techniques you learned in the previous lesson, it's now your turn to figure out how to perform an Ordinal swap on three values.
@@ -73,7 +75,7 @@ Good luck.
 >     else
 >         print("Attempt failed. Not all lines of code were assignments.")
 > 
-> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20swapping/sepalinfo.md#cardinal-swapping)
+> next lesson [\variables/cardinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20swapping/sepalinfo.md#cardinal-swapping)
 
 
 
