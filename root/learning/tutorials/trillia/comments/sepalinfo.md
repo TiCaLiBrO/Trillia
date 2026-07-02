@@ -1,5 +1,7 @@
 # Chapter 4: Comments
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/comments
+
 In this chapter, you'll learn about comments.
 Comments are the primary way to take notes, warn other programmers, and describe complicated code simply.
 
