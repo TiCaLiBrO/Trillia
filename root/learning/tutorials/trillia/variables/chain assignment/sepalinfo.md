@@ -1,5 +1,7 @@
 # Chain Assignment
 
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/[variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/sepalinfo.md)/chain assignment
+
 ## Prelude
 
 This lesson will teach something very important in Trillia, which can be found in all Trillian code.
@@ -56,7 +58,7 @@ Then run the code.
 >     and   x             = 7
 >     catch lesson_passed = True
 >
-> [next lesson](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20swapping/sepalinfo.md)
+> next lesson [\variables/ordinal swapping](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/ordinal%20swapping/sepalinfo.md)
 
 
 
