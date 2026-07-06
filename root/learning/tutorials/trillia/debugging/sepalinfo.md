@@ -7,9 +7,9 @@ Debugging is the process of figuring out what's happening inside of a codebase.
 
 ## Lesson 1
 
-[/adding comments]
+[/debug operator]()
 
-You will learn: ---
+You will learn: How to use the debug operator
 
 /////////////////////////////////////////
 Old
