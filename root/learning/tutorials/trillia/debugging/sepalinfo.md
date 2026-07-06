@@ -7,7 +7,7 @@ Debugging is the process of figuring out what's happening inside of a codebase.
 
 ## Lesson 1
 
-[/debug operator]()
+[/debug operator](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/debugging/debug%20operator/sepalinfo.md)
 
 You will learn: How to use the debug operator
 
