@@ -48,3 +48,10 @@ If your program has a compiler error, you can use `catch` and `ignore` to let yo
         ignore
 
 Because many errors usually result in or are caused by `Undefined` values, and because `Undefined` returns `Undefined` when augmented, this can result in accumulation of `Undefined` variables.
+
+`x?`  This will be used to track every change that happens to x.
+`x??` This tracks every expression that x is part of. This includes `if` statements and writes. Only Ordinal of x, not of anything else
+
+
+
+
