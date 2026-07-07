@@ -15,5 +15,5 @@ This branch is designed to show you implementation details, help you learn how t
 The Stories branch is dedicated to telling you stories about Trillia.
 The history behind it, the way in which it was developed, and other stories to tell.
 
-
+And remember, kids: Only through abstraction may you achieve apotheosis.
 
