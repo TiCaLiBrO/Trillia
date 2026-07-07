@@ -137,8 +137,6 @@ Chapter Summary:
 New Vocabulary:
 
 - `_?`
-- `...??`
-- `?*...*?`
 
 
 
@@ -168,7 +166,20 @@ ADVANCED ARITHMETIC
 Requirements:
 - Chapter 5
 New Vocabulary:
-- `if`, `then`, `else`, `unless`
+- `if`
+- `then`
+- `else`
+- `unless`
+- `True`
+- `False`
+- `None`
+- `Undefined`
+- Boolean logic
+- `and`
+- `or`
+- `not`
+- `is`
+- `__/@__`
 // objects defined inside conditions only have a lifetime within the branch.
 
 <!-- we ought to have the conditional comments ## be part of the conditions section instead of the entry-level thing -->
@@ -181,10 +192,9 @@ Requirements:
 New Vocabulary:
 - `:_`, `_:=_`
 
-[[Introduction to Trillia Chapter 8 Logic]] (True, False, Undefined, None, Help, and Error)
+[[Introduction to Trillia Chapter 8 Errors]] (Help, Error, try, catch, when, Erratum)
 Requirements:
 - Chapter 6
-and or not is `_/@_`
 
 [[Introduction to Trillia Chapter 9 Functions]]
 Requirements:
@@ -202,6 +212,9 @@ Requirements:
 - Chapter 8, 9
 RECURSION
 for
+break
+continue
+return
 // intermediate arithmetic might be a requirement. Multiplication is essentially + over and over, so it gets the idea through.
 
 [[Introduction to Trillia Chapter 11 Lists]]
@@ -217,13 +230,7 @@ Requirements:
 [[Introduction to Trillia Chapter 13 Scope]]
 Requirements:
 - Chapter 5
-as
-
-[[Introduction to Trillia Chapter 14 Complex Control Structures]] (break, continue, return)
-Requirements:
-- Chapter 10
-COMPLEX CONTROL
-break continue return
+as {} include exclude import
 
 [[Introduction to Trillia Chapter 15 Setwise Operations]]
 Requirements:
