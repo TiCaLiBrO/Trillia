@@ -20,6 +20,4 @@ This branch handles all of the specifics and minute details that you may forget,
 This branch will often have links to the concepts branch, which you can follow to learn more about why a function behaves in a certain way, given Trillia's philosophy.
 In short, you come here to refine your skills.
 
-And remember, kids: Only through abstraction may you achieve apotheosis.
-
 <!-- $\color{Green}{\textsf{Normal, colored text}}$ -->
