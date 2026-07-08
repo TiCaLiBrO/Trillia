@@ -145,7 +145,9 @@ New Vocabulary:
 <!--
 ////////////////////////////////////////////
 
-
+;   semicolon. ; - Used for making a deliberate newline character.
+;;  pilcrow.   ¶ - Used to denote that it is the end of a line, but not the end of the statement.
+;;; section.   § - Used to separate the parts of a file. Denotes new sections. Allows you to collapse and name sections of your code without turning them into functions.
 
 
 INTERMEDIATE ARITHMETIC
