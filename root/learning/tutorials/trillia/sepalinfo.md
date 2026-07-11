@@ -183,9 +183,7 @@ New Vocabulary:
 - `not`
 - `is`
 - `__/@__`
-// objects defined inside conditions only have a lifetime within the branch.
-
-<!-- we ought to have the conditional comments ## be part of the conditions section instead of the entry-level thing -->
+//Objects defined inside conditions only have a lifetime within the branch.
 
 <!--
 
@@ -218,7 +216,7 @@ for
 break
 continue
 return
-// intermediate arithmetic might be a requirement. Multiplication is essentially + over and over, so it gets the idea through.
+//Intermediate arithmetic might be a requirement. Multiplication is essentially + over and over, so it gets the idea through.
 
 [[Introduction to Trillia Chapter 11 Lists]]
 Requirements:
@@ -228,7 +226,7 @@ for from to where has in within after at before end first last start previous ne
 [[Introduction to Trillia Chapter 12 Bitwise Operations]]
 Requirements:
 - Chapter 8
-// intermediate arithmetic might be a requirement. Multiplication is a good way to explain &. Subtraction is \. delta is ^. and addition is |.
+//Intermediate arithmetic might be a requirement. Multiplication is a good way to explain &. Subtraction is \. delta is ^. and addition is |.
 
 [[Introduction to Trillia Chapter 13 Scope]]
 Requirements:
@@ -299,7 +297,7 @@ The compile-time interpreter helps them not take up extra runtime.
 
 This format is HELLA-auditable, very easy to read, and super efficient.
 
-TYPE:                   string, integer, rational, boolean, natural, float, fixed_point, Undefined, None, set, bag, key, morphic_list, list, morphic_array, array, overflow, saturate
+TYPE/SIZE:              string, integer, rational, boolean, natural, float, fixed_point, Undefined, None, set, bag, key, morphic_list, list, morphic_array, array, overflow, saturate
 LIFETIME:               static, dynamic
 MUTABILITY/READABILITY: mutable, constant, pure, relative, hidden
 
@@ -313,7 +311,6 @@ I think it's type, lifetime, mutability.
 
 // Types
 
-// conditional comments (for testing, debugging, unit tests, and so on) `code ## condition` and `#* code *# condition` Requires chapter 8 and 14.
 // Write Only Objects (maybe only allowed inside of the Q library)
 // `main` needs to exist, but it also needs to be its own library. This is because it grants your program a single instance of pre-runtime input. It turns your entire program into a function with parameters, meaning that it is controllable from the outside. It's not as 'weak' as general input. In some ways it's still deterministic per program run, but it's strictly weaker than fully sandboxing your program and not allowing any input. Maybe we just use the self keyword as the function's name instead of main. (a)self(b) = a + b.
 
