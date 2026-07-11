@@ -64,9 +64,16 @@ You will learn: ---
 
 
 //////////
-NOT INCLUDED:
-//`comment ## code`
-//`comment ## code # comment`
+
+some code #…
+
+…## some code
+
+…###…
+
+#*…*#
+
+…## some code #…
 
     a note - Requirements -> Chapter 1: Printing
 
