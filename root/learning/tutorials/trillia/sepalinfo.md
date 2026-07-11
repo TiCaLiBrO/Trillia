@@ -104,7 +104,7 @@ Chapter Summary:
 New Vocabulary:
 
 - `#...`
-- `...###...`
+- `...##`
 - `#*...*#`
 - comments
 
