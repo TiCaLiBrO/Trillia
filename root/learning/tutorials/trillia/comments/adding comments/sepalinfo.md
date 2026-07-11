@@ -30,7 +30,8 @@ Here is some code that prints vertically.
     printn("S")
     printn("E")
 
-You know what it says, but if there were, say, 100 lines of printing, it might be difficult to tell what it says.
+You know what it says, but if there were, say, a thousand lines of printing, it might be difficult to tell what it says.
+You'd have to scroll down to read it all. That would be slow and annoying.
 
 Copy the code above, but add the comment `# We use printn to print vertically` anywhere in the code.
 Just make sure you add the comment ***at the end*** of a line.
