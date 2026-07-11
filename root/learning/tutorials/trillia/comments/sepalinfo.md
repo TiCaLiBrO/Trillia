@@ -65,6 +65,10 @@ You will learn: ---
 
 //////////
 
+comments are a very specific, "weird" thing in Trillia. Because they ignore the left-right rule in some way.
+They're not an operation though, just notation syntax. So they don't have to follow the rules of Trillia.
+In fact, code with comments, and code without comments, behaves identical so long as the codebase isn't self-reading.
+
 some code #…
 
 …## some code
