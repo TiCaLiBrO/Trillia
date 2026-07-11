@@ -154,6 +154,7 @@ INTERMEDIATE ARITHMETIC
 - `__*__`,  `__/__`
 - `__/___`, `__/^__`, `__/~__`, `__/%__`
 -   `__`,     `_^`,     `_~`,     `_%`
+- __natural(), __integer(), __rational() --- but maybe not, because they are sort of like functions? Also 2 ** 32 requires advanced arithmetic
 
 ADVANCED ARITHMETIC
 - `__**__`,  `__//__`,  `__\\__`
@@ -191,7 +192,8 @@ New Vocabulary:
 Requirements:
 - Chapter 5
 New Vocabulary:
-- `:_`, `_:=_`
+- `:_`
+- `_:=_`
 
 [[Introduction to Trillia Chapter 8 Errors]] (Help, Error, try, catch, when, Erratum)
 Requirements:
@@ -222,6 +224,8 @@ return
 Requirements:
 - Chapter 10
 for from to where has in within after at before end first last start previous next all any only
+set bag key list table matrix
+array morphic_array linked_list morphic_list
 
 [[Introduction to Trillia Chapter 12 Bitwise Operations]]
 Requirements:
@@ -249,12 +253,18 @@ Requirements:
 [[Introduction to Trillia Chapter 18 Pointers]]
 Requirements:
 - Chapter 11, 14
+- `*_`
+- `&_`
+- `@_`
+- `->`
+- `->>`
+tree, graph, directed_acyclic_graph
 
-[[Introduction to Trillia Chapter 19 Interrupts]] (Error, Help, try, when)
+[[Introduction to Trillia Chapter 19 Interrupts]] (Error, Help, try, when, catch)
 Requirements:
 - Chapter 13, 14
 INTERRUPTS
-catch try when
+try when catch
 
 [[Introduction to Trillia Chapter 20 Inheritance]]
 Requirements:
