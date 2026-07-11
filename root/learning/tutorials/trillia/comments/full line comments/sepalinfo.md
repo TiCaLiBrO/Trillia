@@ -28,7 +28,7 @@ If you use one `#` symbol, you comment out everything to the right.
 With two `##`, you comment everything to the left.
 With three `###` or more, both the left and right sides are commented out.
 
-> [NOTE]
+> [!NOTE]
 > Technically, there is no `###` symbol in Trillia. It's just `comment ##` plus `# comment` to make `comment ### comment`, to make a full-line comment.
 
 *One advantage* that this provides you is the ability to comment out the code, but also gives you the ability to write an actual comment.
