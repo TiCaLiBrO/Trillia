@@ -17,19 +17,23 @@ When you commented it in the previous way, you ended up with this:
 Notice how the print statements don't align?
 That's bad for readability, and it's also harder to tell if it's actually supposed to be code or just a comment.
 
-In this lesson, you will learn about the `###` full-line comment operator.
+In this lesson, you will learn about the `##` full-line comment operator.
 
-We'll take a look at the same example, with the `###` operator instead:
+We'll take a look at the same example, with the `##` operator instead:
 
     printn("I like sharks")
-    printn("Me too") ###
+    printn("Me too") ##
+
+If you use one `#` symbol, you comment out everything to the right.
+With two `##`, you comment everything to the left.
+With three `###` or more, both the left and right sides are commented out.
 
 *One advantage* that this provides you is the ability to comment out the code, but also gives you the ability to write an actual comment.
 
     printn("I like sharks")
     printn("Me too") ### This code was commented out
 
-You can get rid of two `#` characters to return the code back to working condition.
+You can get rid of two `#` characters to return the code on the left back to working condition.
 This doesn't come with the cost of shifting your code to the right.
 
 If you look at the alternative, once you get rid of the `#` character, if you had a comment on the same line, it becomes broken code! 
@@ -42,20 +46,17 @@ becomes this:
 
 Which, by the way, will make your code suddenly not work.
 
-> [!NOTE]
-> You *can* technically use just two comment symbols `##` to turn a full line of code into a comment, but it's *bad practice*, as you'll see in [\trillia/conditions].
-
 ## The Task
 
 With your newfound powers, you can turn code into comments without misaligning it.
 
     printn("Her: What are you doing tonight?")
-    printn("Him: Not much") ### Message unsent
+    printn("Him: Not much")
     printn("Him: You?")
 
-Take the code above, and turn the middle line into a comment without misaligning it.
+Take the code above and turn the middle line into a comment *without misaligning it*.
 
-On the same line, add the comment `Message unsent` on the right side.
+On the same line as the nullified code, add the comment `Message unsent` on its right side.
 
 
 > [!IMPORTANT]
