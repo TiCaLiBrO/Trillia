@@ -11,11 +11,16 @@ Numbers are everywhere in programming, and arithmetic is the primary way that yo
 
 You will learn: How to add two numbers.
 
+- `__+__`
+- numbers
+
 ## Lesson 2
 
 [/subtraction](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/subtraction/sepalinfo.md)
 
 You will learn: How to subtract one value from another.
+
+- `__-__`
 
 ## Lesson 3
 
@@ -23,11 +28,15 @@ You will learn: How to subtract one value from another.
 
 You will learn: How to change the order of operations via brackets.
 
+`(`...`)` parentheses
+
 ## Lesson 4
 
 [/negative numbers](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/negative%20numbers/sepalinfo.md)
 
 You will learn: How negative numbers are represented and how to use them in expressions.
+
+`-_`
 
 ## Lesson 5
 
@@ -35,11 +44,15 @@ You will learn: How negative numbers are represented and how to use them in expr
 
 You will learn: How to get the absolute value of a number or expression.
 
+- `+_`
+
 ## Lesson 6
 
 [/delta](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/delta/sepalinfo.md)
 
 You will learn: How to take the absolute difference between two numbers.
+
+- `__delta__`
 
 ## Trial 1
 
@@ -48,6 +61,7 @@ You will learn: How to take the absolute difference between two numbers.
 You will test: Your ability to use the basic arithmetic operators properly, and apply precedence to them.
 
 <!--
+
 
 INTERMEDIATE ARITHMETIC
 15
