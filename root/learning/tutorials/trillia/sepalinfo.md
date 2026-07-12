@@ -140,6 +140,60 @@ New Vocabulary:
 - `_??`
 
 
+## Chapter ???: Intermediate Arithmetic
+[/intermediate arithmetic]()
+
+Requirements:
+
+- ???
+
+Chapter Summary:
+	*---*
+
+New Vocabulary:
+
+- `__*__`
+- `__/__`
+- `__/___`
+- `__/^__`
+- `__/~__`
+- `__/%__`
+- `__`
+- `_^`
+- `_~`
+- `_%`
+- `__:__`
+- `__natural`
+- `__integer`
+- `__rational`
+
+## Chapter ???: Advanced Arithmetic
+[/advanced arithmetic]()
+
+Requirements:
+
+- ???
+
+Chapter Summary:
+	*---*
+
+New Vocabulary:
+
+- `__**__`
+- `__//__`
+- `__\\__`
+- `__//___`
+- `__//^__`
+- `__//~__`
+- `__//%__`
+- `__\\___`
+- `__\\^__`
+- `__\\~__`
+- `__\\%__`
+- `__natural()`
+- `__integer()`
+- `__rational()`
+
 
 
 <!--
@@ -148,19 +202,6 @@ New Vocabulary:
 ;   semicolon. ; - Used for making a deliberate newline character.
 ;;  pilcrow.   ¶ - Used to denote that it is the end of a line, but not the end of the statement.
 ;;; section.   § - Used to separate the parts of a file. Denotes new sections. Allows you to collapse and name sections of your code without turning them into functions.
-
-
-INTERMEDIATE ARITHMETIC
-- `__*__`,  `__/__`
-- `__/___`, `__/^__`, `__/~__`, `__/%__`
--   `__`,     `_^`,     `_~`,     `_%`
-- __natural(), __integer(), __rational() --- but maybe not, because they are sort of like functions? Also 2 ** 32 requires advanced arithmetic
-
-ADVANCED ARITHMETIC
-- `__**__`,  `__//__`,  `__\\__`
-- `__//___`, `__//^__`, `__//~__`, `__//%__`
-- `__\\___`, `__\\^__`, `__\\~__`, `__\\%__`
-
 
 
 
