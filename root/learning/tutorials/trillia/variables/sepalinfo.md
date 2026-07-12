@@ -11,6 +11,10 @@ Variables are the primary way to store data, so they're very important.
 
 You will learn: What variables are, what their default values are, and how to assign a value to a variable.
 
+- `__=__`
+- variables
+- names
+
 ## Literature 1
 [/naming](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/naming/sepalinfo.md)
 
@@ -56,12 +60,12 @@ You will test: Your ability to swap variables.
 
 You will learn: How to swap two variables Cardinally.
 
+- `,`
+
 ## Trial 2
 [/cardinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
 
 You will test: Your ability to refactor code so that it is easier to read and faster to execute.
-
-
 
 
 
