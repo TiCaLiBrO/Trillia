@@ -205,9 +205,6 @@ New Vocabulary:
 ;;; section.   § - Used to separate the parts of a file. Denotes new sections. Allows you to collapse and name sections of your code without turning them into functions.
 
 
-
-
-
 [[Introduction to Trillia Chapter 6 Conditions]]
 Requirements:
 - Chapter 5
@@ -227,6 +224,7 @@ New Vocabulary:
 - `is`
 - `__/@__`
 //Objects defined inside conditions only have a lifetime within the branch.
+// Talk about proper safety using True as the only way to build a lemma, and False as the default.
 
 <!--
 
@@ -237,7 +235,7 @@ New Vocabulary:
 - `:_`
 - `_:=_`
 
-[[Introduction to Trillia Chapter 8 Errors]] (Help, Error, try, catch, when, Erratum)
+[[Introduction to Trillia Chapter 8 Errors]] (Help, Error, try, when, catch, Erratum)
 Requirements:
 - Chapter 6
 
@@ -301,12 +299,6 @@ Requirements:
 - `->`
 - `->>`
 tree, graph, directed_acyclic_graph
-
-[[Introduction to Trillia Chapter 19 Interrupts]] (Error, Help, try, when, catch)
-Requirements:
-- Chapter 13, 14
-INTERRUPTS
-try when catch
 
 [[Introduction to Trillia Chapter 20 Inheritance]]
 Requirements:
