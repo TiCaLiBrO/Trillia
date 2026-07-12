@@ -18,7 +18,7 @@ Unlike courses and chapters, lessons are numbered linearly and are expected to b
 You will learn: How to make your first program in Trillia and how to print.
 
 - `print()`
-- "..." strings
+- `"`...`"` strings
 
 ## Lesson 2
 [/multiple statements](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/multiple%20statements/sepalinfo.md)
