@@ -145,7 +145,7 @@ New Vocabulary:
 
 Requirements:
 
-- ???
+- Chapter 2: Basic Arithmetic
 
 Chapter Summary:
 	*---*
@@ -172,7 +172,7 @@ New Vocabulary:
 
 Requirements:
 
-- ???
+- Chapter ???: Intermediate Arithmetic
 
 Chapter Summary:
 	*---*
