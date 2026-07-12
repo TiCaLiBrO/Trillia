@@ -214,7 +214,7 @@ Requirements:
 Requirements:
 - Chapter 8, 9
 RECURSION
-for
+for, x for y, for x in y, for x in from a to b, x for from a to b
 break
 continue
 return
