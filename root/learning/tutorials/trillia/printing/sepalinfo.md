@@ -17,6 +17,9 @@ Unlike courses and chapters, lessons are numbered linearly and are expected to b
 
 You will learn: How to make your first program in Trillia and how to print.
 
+- `print()`
+- "..." strings
+
 ## Lesson 2
 [/multiple statements](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/multiple%20statements/sepalinfo.md)
 
@@ -27,10 +30,14 @@ You will learn: How to write multiple statements and their ordering.
 
 You will learn: How to use the new line print function.
 
+- `printn()`
+
 ## Lesson 4
 [/new line character](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/new%20line%20character/sepalinfo.md)
 
 You will learn: The new line escape character.
+
+- `\n`
 
 ## Trial 1
 [/vertical hello world](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/vertical%20hello%20world/sepalinfo.md)
@@ -65,6 +72,9 @@ The concept and reference branches tell you exactly how everything works with mo
 [\concepts/guarantees/quarantine/output]
 
 -->
+
+
+
 
 
 
