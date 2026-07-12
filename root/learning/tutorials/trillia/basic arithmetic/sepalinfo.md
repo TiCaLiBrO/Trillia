@@ -28,7 +28,7 @@ You will learn: How to subtract one value from another.
 
 You will learn: How to change the order of operations via brackets.
 
-`(`...`)` parentheses
+- `(`...`)` parentheses
 
 ## Lesson 4
 
@@ -36,7 +36,7 @@ You will learn: How to change the order of operations via brackets.
 
 You will learn: How negative numbers are represented and how to use them in expressions.
 
-`-_`
+- `-_`
 
 ## Lesson 5
 
