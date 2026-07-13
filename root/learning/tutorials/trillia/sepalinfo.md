@@ -168,7 +168,7 @@ New Vocabulary:
 - `__rational`
 
 ## Chapter ???: Advanced Arithmetic
-[/advanced arithmetic]()
+[/advanced arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/advanced%20arithmetic/sepalinfo.md)
 
 Requirements:
 
