@@ -270,12 +270,13 @@ array morphic_array linked_list morphic_list
 [[Introduction to Trillia Chapter 12 Bitwise Operations]]
 Requirements:
 - Chapter 8
+| \ & ^ ~
 //Intermediate arithmetic might be a requirement. Multiplication is a good way to explain &. Subtraction is \. delta is ^. and addition is |.
 
 [[Introduction to Trillia Chapter 13 Scope]]
 Requirements:
 - Chapter 5
-as {} include exclude import
+as {} include exclude
 
 [[Introduction to Trillia Chapter 15 Setwise Operations]]
 Requirements:
