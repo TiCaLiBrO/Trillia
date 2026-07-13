@@ -141,7 +141,7 @@ New Vocabulary:
 
 
 ## Chapter ???: Intermediate Arithmetic
-[/intermediate arithmetic]()
+[/intermediate arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/intermediate%20arithmetic/sepalinfo.md)
 
 Requirements:
 
