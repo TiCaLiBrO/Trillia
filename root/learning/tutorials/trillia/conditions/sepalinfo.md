@@ -10,9 +10,9 @@ lesson 1
 - then
 - =
 
-    x = 12
-    if x = 12
-    then print(x + 8)
+      x = 12
+      if x = 12
+      then print(x + 8)
 
 
 
