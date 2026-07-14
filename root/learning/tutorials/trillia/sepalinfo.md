@@ -137,7 +137,6 @@ Chapter Summary:
 New Vocabulary:
 
 - `_?`
-- `_??`
 
 
 ## Chapter ???: Intermediate Arithmetic
