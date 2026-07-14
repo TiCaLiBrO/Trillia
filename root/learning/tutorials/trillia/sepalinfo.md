@@ -197,7 +197,7 @@ New Vocabulary:
 
 
 ## Chapter 6: Conditions
-[/conditions]()
+[/conditions](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/conditions/sepalinfo.md)
 
 Requirements:
 
@@ -224,9 +224,6 @@ New Vocabulary:
 - `__\\@__`
 - Boolean logic
 - Booleanite logic
-
-Traditional Boolean logic versus Trillian Boolean logic
-// Talk about proper safety using True as the only way to build a lemma, and False as the default.
 
 
 
