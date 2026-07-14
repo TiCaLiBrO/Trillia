@@ -27,6 +27,12 @@ You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinf
 - `or`
 - `not`
 - `is`
+- `=` for questions
+- `!=`
+- `>`
+- `<`
+- `>=`
+- `<=`
 - `__/@__`
 - `__//@__`
 - `__\\@__`
