@@ -139,7 +139,7 @@ New Vocabulary:
 - `_?`
 
 
-## Chapter ???: Intermediate Arithmetic
+## Chapter 6: Intermediate Arithmetic
 [/intermediate arithmetic](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/intermediate%20arithmetic/sepalinfo.md)
 
 Requirements:
@@ -195,12 +195,13 @@ New Vocabulary:
 - `__rational()`
 
 
-## Chapter 6: Conditions
+## Chapter 7: Conditions
 [/conditions](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/conditions/sepalinfo.md)
 
 Requirements:
 
 - Chapter 5: Debugging
+- Chapter 6: Intermediate Arithmetic
 
 Chapter Summary:
 	*---*
