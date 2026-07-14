@@ -196,18 +196,16 @@ New Vocabulary:
 - `__rational()`
 
 
+## Chapter 6: Conditions
+[/conditions]()
 
-<!--
-////////////////////////////////////////////
-
-;   semicolon. ; - Used for making a deliberate newline character.
-;;  pilcrow.   ¶ - Used to denote that it is the end of a line, but not the end of the statement.
-;;; section.   § - Used to separate the parts of a file. Denotes new sections. Allows you to collapse and name sections of your code without turning them into functions.
-
-
-[[Introduction to Trillia Chapter 6 Conditions]]
 Requirements:
-- Chapter 5
+
+- Chapter 5: Debugging
+
+Chapter Summary:
+	*---*
+
 New Vocabulary:
 - `if`
 - `then`
@@ -217,14 +215,28 @@ New Vocabulary:
 - `False`
 - `None`
 - `Undefined`
-- Boolean logic
 - `and`
 - `or`
 - `not`
 - `is`
 - `__/@__`
-//Objects defined inside conditions only have a lifetime within the branch.
+- `__//@__`
+- `__\\@__`
+- Boolean logic
+- Booleanite logic
+
+Traditional Boolean logic versus Trillian Boolean logic
 // Talk about proper safety using True as the only way to build a lemma, and False as the default.
+
+
+
+
+<!--
+////////////////////////////////////////////
+
+;   semicolon. ; - Used for making a deliberate newline character.
+;;  pilcrow.   ¶ - Used to denote that it is the end of a line, but not the end of the statement.
+;;; section.   § - Used to separate the parts of a file. Denotes new sections. Allows you to collapse and name sections of your code without turning them into functions.
 
 <!--
 
@@ -277,6 +289,8 @@ Requirements:
 Requirements:
 - Chapter 5
 as {} include exclude
+// Objects defined inside conditions only have a lifetime within the branch.
+// same for functions
 
 [[Introduction to Trillia Chapter 15 Setwise Operations]]
 Requirements:
