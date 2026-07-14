@@ -49,13 +49,13 @@ These operators return `True` or `False`, and are used to interact most often wi
 Trillia supports `if`, `else`, `unless`, and `then`.
 The `if` and `unless` keywords are followed by a condition and subordinate code.
 
-    if x = 6
-        print(x)
+    if   x = 6
+    then print(x)
 This is an example of an *if block*. The subordinate code `print(x)` is only ever executed if the entire condition is `True`.
 In Trillia, it is encouraged that you use the `unless` keyword for negative if statements.
 
     unless weather = rainy
-        go_outside()
+    then   go_outside()
 The `unless` keyword only activates subordinate code if the expression is `False`.
 `unless` is desirable because it makes complicated negations of conditions easier to manage. If there is a mix of positive and negative conditions, the `if` keyword is encouraged for clarity.
 
@@ -71,6 +71,7 @@ or
 If you want to execute code only in the case that the condition fails, you can use the `else` keyword.
 
     if health <= 0
+    then
         print("You Died")
     else
         print("You survived a critical hit")
@@ -89,12 +90,12 @@ A note about optimization:
 To provide simplicity and consistency, Trillia does not support `switch`, `case`, `default` keywords for control structures.
 Instead, if-else chains are optimized such that if questions are asked using `=`, then the chained `if`s are compiled into a `switch` block for greater speed.
 
-    if x = 1
-        do some code
-    if x = 2
-        do some code
-    if x = 3
-        do some code
+    if   x = 1
+    then do some code
+    if   x = 2
+    then do some code
+    if   x = 3
+    then do some code
     ...
 
 The Ternary Operator
