@@ -2,8 +2,17 @@
 
 You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/conditions
 
+lesson 1
 
+[intro to conditions]
 
+- if
+- then
+- =
+
+    x = 12
+    if x = 12
+    then print(x + 8)
 
 
 
