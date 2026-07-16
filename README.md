@@ -335,7 +335,7 @@ It's technically allowed, but it's best to be avoided.
 If a reactive points to an object, and that object is freed or deleted, the pointer will return `Undefined`. An Address Pointer will return whatever value is at the address that it points to.
 
 All of these reactives create dependency chains. If a dependency cycle is detected, your program will error.
-If a cycle is provable at compile time, it will give you compile-time-proof-error.
+If a cycle is provable at compile time, it will give you compile-time-proof-error DependencyError.
 If a cycle is detected at runtime, it will give you a runtime error.
 
 ## 7.1 Addressing and Dereferencing
@@ -398,7 +398,7 @@ The `{}` braces are used for scope and namespace. Any object that was created in
 By default, the `{}` will free() any objects that reach its end. The entire program has a single global scope, which is like an implicit `{}` that surrounds everything.
 All functions and threads also have an implicit `{}` scope that ends at the return or the end of the function.
 
-If you use `delete {}`, then it will delete() all objects that were created within the scope instead of freeing them.
+If you use `delete {}`, then it will ()delete all objects that were created within the scope instead of freeing them.
 
 The free() function frees data so the address may be used by other objects instead.
 x = 12
