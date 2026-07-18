@@ -160,24 +160,6 @@ There are four main symbol types:
 
 All prefixes must be prepended to what they modify. All suffixes must be appended to what they modify. All binary operators require at least one space before and after what they modify, and brackets must be opened and closed.
 
-## 4.2 Order of operations
-In Trillia, the order of operations is always brackets first, left to right. There is no higher precedence given to multiplication over addition, or certain functions over others.
-
-`2 + 5 * 10` returns 70. If you want it to be done in proper order, just move things around or use brackets.
-
-`5 * 10 + 2`   returns 52
-
-`2 + (5 * 10)` returns 52
-
-If there are multiple disconnected brackets in a larger expression, if your version of Trillia is implemented with automatic parallel threading, it should understand that it can solve for both pairs of parentheses at the same time.
-
-Think of an expression like this: `(1 + 2) + (3 + 4)`
-
-In such a case, `(1 + 2) + (3 + 4)` resolves to `(3) + (7)` in a single step, because both sides were solved simultaneously.
-
-If there are more brackets to solve in parallel than there are cores on your computer, the left-most brackets are resolved first to preserve left-to-right execution.
-
-
 ## 4.4 Bitwise Operations
 Bitwise operators are used for low-level control. 
 The 8 primary bitwise operations are:
