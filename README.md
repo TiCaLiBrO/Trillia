@@ -59,17 +59,6 @@ In Trillia, the `=` sign is used for assignments of *all* objects.
 Variables, Control Structures, Vectors, Types, Reactives, and Functions are *all* given value using the `=` Assignment Operator.
 There are *no* objects in Trillia that can be assigned a value without the Assignment Operator. And this list of objects is *the entire list of all things that can be created in Trillia*.
 
-## 2.1 Strict Types and Sizes
-
-If you don't use types, the variable will automatically promote or change type readily as needed. You can use strict types and sizes to ensure that the variable does not change type or size.
-
-    x = 10 integer(2 ** 32)
-
-If you use a type without a size, the variable type will remain consistent, but size promotion and demotion will occur when necessary.
-
-    x = 120 integer    # this is an 8-bit integer by default because it's the smallest size that can represent this value.
-    x = 300            # It was promoted to a 16-bit integer to be able to represent this value.
-
 ## 2.2 Mutability
 
 There are four keywords that change which ways your data is allowed to be altered.
@@ -359,6 +348,9 @@ This prints whatever value can be found at address `1234`.
 
 ========================================= UNFINISHED ==================================================
 
+9 is not true. There is a garbage collector for blighted reactives. This isn't needed for garbage collection often, and is more often used for checking dependencies.
+The CTBC Compile time borrow checker eliminates all nonblighted objects completely, and inserts frees for any object that is blighted, even if it cannot eliminate it at compile time.
+
 # 9. Automatic Garbage Collection
 Trillia's Garbage Collector is extremely simple, and actually so lightweight that it slightly improves performance rather than impeding it. Here's how:
 Trillia's has two Garbage Collectors, and they are entirely separate entities. One of them is entirely designed for non-reactive objects, while the other only handles reactive objects.
@@ -604,7 +596,10 @@ How exactly are threads even exited? What I had before was once all threads retu
 
 # 13. If Statements for Assignment
 
-
+// I think if you do:
+x = if x > 7 then x = 10
+you can just simplify it to 
+if x > 7 then x = 10
 
 
 confusion between = and =
@@ -653,14 +648,6 @@ Memory is indexed as a large vector. EVERYTHING IS A VECTOR DAMNIT!!!
 
 
 
-
-
-
-
-
-
-
-
 Should I allow:
 int32, nat32 x = 20
 A more customized way of creating duck-typing or unions
@@ -678,10 +665,6 @@ set = []
 and then allow the custom set type to be mutated in only very specific ways.
 
 Think about dictionaries a bit more. What exactly are they? Are they definitions of enums in and of themselves, or do/can they use pre-existing enums?
-
-
-
-
 
 
 Talk about strings. We literally just breeze past them.
