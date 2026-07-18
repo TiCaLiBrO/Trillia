@@ -33,4 +33,16 @@ After the `rational` type, `fixed point` is the next most common decimal type. I
 
 Floating-point numbers are not available in the base language, as they are not deterministic across hardware due to optimizations. They have been moved into a floating-point library.
 
+DOMAINS
+
+## 2.1 Strict Types and Sizes
+
+If you don't use types, the variable will automatically promote or change type readily as needed. You can use strict types and sizes to ensure that the variable does not change type or size.
+
+    x = 10 integer(2 ** 32)
+
+If you use a type without a size, the variable type will remain consistent, but size promotion and demotion will occur when necessary.
+
+    x = 120 integer    # this is an 8-bit integer by default because it's the smallest size that can represent this value.
+    x = 300            # It was promoted to a 16-bit integer to be able to represent this value.
 
