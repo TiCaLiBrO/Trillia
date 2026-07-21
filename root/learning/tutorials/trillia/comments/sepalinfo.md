@@ -33,7 +33,7 @@ You will learn: The *proper* way to turn code into a comment.
 
 ## Lesson 4
 
-[/multi line comments]()
+[/multi line comments](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/comments/multi%20line%20comments/sepalinfo.md)
 
 You will learn: ---
 
