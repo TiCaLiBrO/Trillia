@@ -63,7 +63,7 @@ You will learn: How to swap two variables Cardinally.
 - `,`
 
 ## Trial 2
-[/polyordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/cardinal%20trial/sepalinfo.md)
+[/polyordinal trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/polyordinal%20trial/sepalinfo.md)
 
 You will test: Your ability to refactor code so that it is easier to read and faster to execute.
 
