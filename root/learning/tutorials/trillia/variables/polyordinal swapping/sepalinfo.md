@@ -1,6 +1,6 @@
-# Cardinal Swapping
+# Polyordinal Swapping
 
-You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/[variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/sepalinfo.md)/cardinal swapping
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/[variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/sepalinfo.md)/polyordinal swapping
 
 ## Prelude
 
@@ -43,6 +43,15 @@ No other common programming language can do this automatically; it usually requi
 Trillia can break problems down automatically, making it extremely fast without making it more complicated to reason about or write.
 
 In Trillia, parallelization is more often referred to as *Cardinalization*.
+
+## Polyordinals
+
+Any time that a line begins with multiple ordinal values, all ordinal values must be cardinal to each other.
+Meaning that they must not depend on one another.
+All steps must be completely independent and able to be performed in any order.
+Polyordinalism stems from the root word `poly`, meaning many, and `ordinal`, meaning in order or having order.
+As previously described, polyordinals must be cardinal with each other, but they are **not** cardinal to the rest of the program.
+This means that if you have two statements a, b = x, y and then x, y = c, d, the first statement happens first and then the second one happens after.
 
 ## The Task
 
