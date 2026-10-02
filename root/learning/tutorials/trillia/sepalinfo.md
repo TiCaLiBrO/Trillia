@@ -63,6 +63,7 @@ New Vocabulary:
 - `-_`
 - `+_`
 - `__delta__`
+- `__monus__`
 - numbers
 
 ## Chapter 3: Variables
