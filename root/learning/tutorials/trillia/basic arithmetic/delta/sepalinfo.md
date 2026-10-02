@@ -39,6 +39,7 @@ Run when ready.
 >     and   source_code not has "+("
 >     catch lesson_passed = True
 >
-> next lesson [\basic arithmetic/basic arithmetic trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/basic%20arithmetic%20trial/sepalinfo.md)
+> next lesson [\basic arithmetic/monus](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/monus/sepalinfo.md)
+
 
 
