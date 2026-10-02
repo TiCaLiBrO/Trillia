@@ -4,7 +4,7 @@ You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinf
 
 ## Prelude
 
-It's time to learn the final operation in basic arithmetic, *delta*.
+It's time to learn the penultimate operation in basic arithmetic, *delta*.
 
 ### What Is Delta?
 
