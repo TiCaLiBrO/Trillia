@@ -28,6 +28,11 @@ Once you've written that, hit enter ***twice*** to run the code.
 Hitting enter once will only create a newline.
 *Hitting enter on an empty line in SEPAL runs your code.*
 
+### BNF
+```
+<print_statement> ::= "print" "(" <string> ")" ;
+```
+
 > [!IMPORTANT]
 > If you're in SEPAL, you will pass if the program text matches `print("Hello World!")`.
 > 
