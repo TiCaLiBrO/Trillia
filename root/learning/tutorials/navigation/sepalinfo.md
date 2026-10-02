@@ -23,6 +23,9 @@ Once you see it, type `/name`, replacing `name` with the page's name, and hit en
 > 
 > If you're in SEPAL, you will see the name `backslash` after you type `/`.
 
+> [!INFO]
+> k
+
 > [!IMPORTANT]
 > This message is invisible within Sepal.
 >
