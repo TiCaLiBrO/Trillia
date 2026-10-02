@@ -43,6 +43,14 @@ When you're ready to submit your code, just hit enter twice.
 You should notice that your program runs from top to bottom.
 It executes in reading order.
 
+### BNF
+```
+<statements> ::= <print_statement> "\n" | <print_statement> "\n" <statements> "\n" ;
+<print_statement> ::= "print" "(" <optional_spaces> <string> <optional_spaces> ")" ;
+<optional_spaces> ::= "" | <spaces> ;
+<spaces> ::= " " | " " <spaces> ;
+```
+
 > [!IMPORTANT]
 > The passing condition is based on the given code, not the printed output.
 >
