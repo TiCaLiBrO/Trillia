@@ -54,6 +54,14 @@ You will learn: How to take the absolute difference between two numbers.
 
 - `__delta__`
 
+## Lesson 7
+
+[]
+
+You will learn: How to get the difference between two numbers, with a minimum resulting value of zero.
+
+- `__monus__`
+
 ## Trial 1
 
 [basic arithmetic trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/basic%20arithmetic%20trial/sepalinfo.md)
