@@ -14,6 +14,13 @@ Once you've done that, do it again to exit the navigation lesson.
 You'll have finished the navigation tutorial, and you will know the basics of navigating the manual on your own.
 Congratulations!
 
+### BNF
+```
+<go_back_one> ::= "\\" "\n" ;
+
+<go_back_to_page> ::= "\\" <file_name> "\n"
+```
+
 > [!NOTE]
 > The message displayed when attempting to list elements inside a folder that is empty is:
 >
