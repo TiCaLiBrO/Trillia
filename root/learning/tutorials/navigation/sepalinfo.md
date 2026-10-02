@@ -27,7 +27,7 @@ Once you see it, type `/name`, replacing `name` with the page's name, and hit en
 ```
 <see_links> ::= "/" "\n" ;
 
-<go_to_link> ::= "/" <file_name> "\n" ;
+<go_to_page> ::= "/" <page_name> "\n" ;
 ```
 
 > [!IMPORTANT]
