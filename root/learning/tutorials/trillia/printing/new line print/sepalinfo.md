@@ -26,6 +26,11 @@ The output should be:
 > The third line should not end in a new line!
 > Use the `printn` function for the first two lines, and `print` for the final line.
 
+### BNF
+```
+<newline_print> ::= "printn" "(" <optional_spaces> <string> <optional_spaces> ")" ;
+```
+
 > [!IMPORTANT]
 > Not visible in SEPAL.
 > The source code is:
