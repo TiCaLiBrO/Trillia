@@ -6,27 +6,25 @@ You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinf
 
 It's time to learn the final operation in basic arithmetic, *monus*.
 
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+### What Is Monus?
 
-### What Is Delta?
+Monus is a form of subtraction that is never negative - much like delta.
+However, unlike delta, monus isn't about absolute difference.
+Monus is subtraction where the minimum result is 0.
 
-If you're familiar with physics, you may have seen delta in a formula before.
-Delta might look a bit intimidating if you're not familiar with it, but it's really easy when you learn what it does.
-
-`A delta B` is the same as `+(A - B)`.
-Make sure there is a space between `delta` and the values it is operating on.
-Put simply, it's the same as subtraction, except you always get a positive answer.
-In many ways, it's even easier than subtraction because you don't have to think about the possibility of negative numbers.
-
-Delta is also sometimes called *absolute difference*, because it's the absolute value of the difference between two numbers.
+`A monus B` is the same as `maximum(A - B, 0)`.
+Here, the maximum() function is just a function that compares two values, A - B, and 0, and whichever value is larger, it uses that one.
+Make sure there is a space between `monus` and the values it is operating on.
+Just like delta, you never have to consider negative numbers.
 
 > [!NOTE]
-> If you are using Trillia's *official ligatures*, `delta` may look like `Δ` when you write it.
+> If you are using Trillia's *official ligatures*, `monus` may look like `∸` when you write it.
+> That symbol is the most common symbol used for monus in mathematics, and it's often called 'dot minus'.
 > Don't worry, it's just for readability, and it will not affect the result of the program.
 
 ## The Task
 
-Take any two numbers, and, using delta, get their absolute difference.
+Take any two numbers and, using monus, get their absolute difference.
 
 Print the result.
 
@@ -37,21 +35,13 @@ Run when ready.
 >
 >     try   sepal_execute
 >     when  source_code has "print"
->     and   source_code has "delta"
->     and   source_code not has "+("
+>     and   source_code has "monus"
+>     and   source_code not has "maximum("
 >     catch lesson_passed = True
 >
-> next lesson [\basic arithmetic/monus](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/monus/sepalinfo.md)
+> next lesson [\basic arithmetic/basic arithmetic trial](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/basic%20arithmetic%20trial/sepalinfo.md)
 
 
 
 
 
-
-
-
-
-
-
-
-[\basic arithmetic/basic arithmetic trial]https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/basic%20arithmetic%20trial/sepalinfo.md)
