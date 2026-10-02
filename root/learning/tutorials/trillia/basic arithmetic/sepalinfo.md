@@ -56,7 +56,7 @@ You will learn: How to take the absolute difference between two numbers.
 
 ## Lesson 7
 
-[]
+[/monus](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/basic%20arithmetic/monus/sepalinfo.md)
 
 You will learn: How to get the difference between two numbers, with a minimum resulting value of zero.
 
