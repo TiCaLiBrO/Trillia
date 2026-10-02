@@ -23,8 +23,12 @@ Once you see it, type `/name`, replacing `name` with the page's name, and hit en
 > 
 > If you're in SEPAL, you will see the name `backslash` after you type `/`.
 
-> [!INFO]
-> k
+### BNF
+```
+<see_links> ::= "/" "\n" ;
+
+<go_to_link> ::= "/" <file_name> "\n" ;
+```
 
 > [!IMPORTANT]
 > This message is invisible within Sepal.
