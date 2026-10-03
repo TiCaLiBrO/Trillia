@@ -1,6 +1,6 @@
 # Chapter 1: What Is Tria
 
-You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[tria]()/what is tria
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[tria](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/tria/sepalinfo.md)/what is tria
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
