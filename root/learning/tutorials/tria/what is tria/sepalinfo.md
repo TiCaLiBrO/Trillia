@@ -6,7 +6,7 @@ In this chapter, you'll read up on ...
 
 ## Literature 1
 
-[/assembly]()
+[/assembly](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/tria/what%20is%20tria/assembly/sepalinfo.md)
 
 You will learn: The theory of languages.
 
