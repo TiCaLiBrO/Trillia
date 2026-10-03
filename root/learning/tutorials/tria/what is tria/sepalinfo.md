@@ -2,22 +2,18 @@
 
 You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[tria](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/tria/sepalinfo.md)/what is tria
 
+In this chapter, you'll read up on ...
+
+## Literature 1
+
+[]()
+
+You will learn: The theory of languages.
+
+- BNF
+- regular expressions
+
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-
-You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/[trillia](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/sepalinfo.md)/variables
-
-In this chapter, you'll learn about variables.
-Variables are the primary way to store data, so they're very important.
-
-## Lesson 1
-
-[/variable assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variable%20assignment/sepalinfo.md)
-
-You will learn: What variables are, what their default values are, and how to assign a value to a variable.
-
-- `__=__`
-- variables
-- names
 
 ## Literature 1
 [/naming](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/naming/sepalinfo.md)
