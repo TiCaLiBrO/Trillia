@@ -8,7 +8,7 @@ This course teaches all there is to know about Tria RA, Tria CPM, Tria CNPM, and
 
 ## Chapter 1: What Is Tria
 
-[/what is tria]()
+[/what is tria](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/tria/what%20is%20tria/sepalinfo.md)
 
 Requirements:
 
