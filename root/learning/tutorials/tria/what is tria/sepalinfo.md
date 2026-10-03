@@ -13,19 +13,7 @@ You will learn: The theory of languages.
 - BNF
 - regular expressions
 
-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-## Literature 1
-[/naming](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/naming/sepalinfo.md)
 
-You will read: The rules for naming variables and some conventions.
 
-## Lesson 2
-[/string assignment](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/string%20assignment/sepalinfo.md)
 
-You will learn: How to assign strings of text to variables.
-
-## Lesson 3
-[/variables assigning other variables](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/variables/variables%20assigning%20other%20variables/sepalinfo.md)
-
-You will learn: How to use variables to assign values to other variables.
