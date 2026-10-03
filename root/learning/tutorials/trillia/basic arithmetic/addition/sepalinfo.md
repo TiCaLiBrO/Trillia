@@ -25,6 +25,16 @@ Your task is to add two numbers together and print the result.
 - Inside the parentheses, insert `6 + 3`.
 - Run the program when ready.
 
+### BNF
+```
+<statement>       ::= "print" "(" <optional_spaces> <expression> <optional_spaces> ")" "\n\n";
+<expression>      ::= <number> <spaces> "+" <spaces> <number> ;
+<number>          ::= <digit> | <digit> <number> ;
+<digit>           ::= "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" ;
+<optional_spaces> ::= "" | <spaces> ;
+<spaces>          ::= " " | " " <spaces> ;
+```
+
 > [!IMPORTANT]
 > Invisible within Sepal.
 >
