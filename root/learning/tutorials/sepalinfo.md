@@ -62,7 +62,7 @@ Description:
 
 ## Course 3: Tria
 
-[/tria]()
+[/tria](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/tria/sepalinfo.md)
 
 Requirements:
 
