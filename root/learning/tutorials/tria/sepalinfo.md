@@ -1,19 +1,29 @@
-# Tria
+# Course 3: Tria
+
+You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/tria
+
+This course teaches all there is to know about Tria RA, Tria CPM, Tria CNPM, and Tria REM, as well as assembly-ready and non-canonical forms of Tria.
+
+### Chapters
+
+## Chapter 1: What Is Tria
+
+[/what is tria]()
+
+Requirements:
+
+- None
+
+Chapter Summary:
+	*This chapter will tell you what Tria is.
+	This chapter is read-only, meaning that there are no interactive exercises.
+	You will learn about automata theory and assembly languages, and where Tria fits.
+	You'll understand why Tria is important, what it does, and why it exists.
+
 
 
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-
-# Course 1: Trillia
-
-You are here@[root](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md)/[learning](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/sepalinfo.md)/[tutorials](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepalinfo.md)/trillia
-
-This course teaches the fundamentals of Trillia.
-Really, it teaches the entirety of base Trillia, which is the programming language with nothing added.
-The only extra thing that *is* added on top is output.
-This is because output is **extremely important** for fixing your code and learning about what's actually happening inside your program.
-This course teaches absolutely everything that Trillia can do without any extra tools.
-All other courses require that you complete this course first.
 
 ### Chapters
 
@@ -25,28 +35,6 @@ The courses are structured to be flexible, allowing students to learn things tha
 
 > [!TIP]
 > If you see a chapter that interests you, learn the prerequisite chapters and go straight for it. Learn what you want when you want.
-
-## Chapter 1: Printing
-
-[/printing](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/trillia/printing/sepalinfo.md)
-
-Requirements:
-
-- None
-
-Chapter Summary:
-	*This chapter is the very first chapter.
-	Here, you will learn the most important skill that you will ever learn as a developer: printing.
-	Why is it so important?
-	Because it's the main way that programmers can learn about what's actually happening in their code if they make a mistake.
-	It's the gateway to see inside your computer.*
-
-New Vocabulary:
-
-- `print()`
-- `printn()`
-- `\n`
-- `"..."` strings
 
 ## Chapter 2: Basic Arithmetic
 
