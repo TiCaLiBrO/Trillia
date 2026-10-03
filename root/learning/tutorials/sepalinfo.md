@@ -60,8 +60,23 @@ Description:
 	You will learn how to navigate and how to edit objects in the file system.
 	By the end, you will be very comfortable with using Sepal as your primary shell language*
 
+## Course 3: Tria
+
+[/tria]()
+
+Requirements:
+
+- None
+
+Description:
+	*This course will teach you everything within Tria RA, Tria CPM, Tria CNPM, and Tria REM.
+	You will learn how to use Tria effectively as an assembly-level language and how it enforces determinism across the IR layer.
+	By the end, you will have full control over Tria, and you will be comfortable with reading code that the compiler outputs.*
+
+
+
 > [!IMPORTANT]
-> There are more than just two courses.
+> There are more than just three courses.
 > Beyond the Trillia course, there are courses for the libraries.
 > Math, Strings, Random, Time, Input, Output, Loops, Unsafe, Floats, and Quantum are some examples of libraries.
 > Those other libraries will not be provided here until everything is written in this manual for base Trillia.
