@@ -35,8 +35,7 @@ This makes them extremely unsafe, difficult to reason about, and horrible for sa
 
 Tria is a nativary assembly language, meaning that it's a language native to all machines.
 If different machines have different hardware, then how is this possible?
-Tria ---------
-
+Tria is not 1:1 with any hardware in particular, but instead exists as a language that all machines can synthesize.
 
 
 
